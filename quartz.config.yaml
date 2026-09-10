@@ -105,7 +105,7 @@ plugins:
       fontOrigin: googleFonts
       header: Montserrat
       body: Montserrat
-      code: '"IBM Plex Mono", monospace'
+      code: IBM Plex Mono
   - source: "@quartz-themes/core"
     enabled: false
     options:
