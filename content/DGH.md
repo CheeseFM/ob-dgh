@@ -1,8 +1,3 @@
----
-tags:
-  - semloc
-  - oloc
----
 # Studiegids ([Volksgezondheid](https://www.health.belgium.be/nl/professionals/gezondheidsprofessionals/menselijke-gezondheid/gezondheidszorgberoepen/toegang-tot-gezondheidszorgberoepen/hulpverlener-ambulancier))
 --- 
 ## Puntenverdeling

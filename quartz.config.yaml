@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: OPEN BREIN
+  pageTitle: OPEN BREIN DGH
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: false
@@ -26,20 +26,20 @@ configuration:
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
         dark: "#343a40"
-        secondary: "#000000"
+        secondary: "rgba(20, 20, 20)"
         tertiary: "#1b1e23"
         highlight: rgba(245, 245, 245)
-        textHighlight: "#fff23688"
+        textHighlight: "#ffbb0033"
       darkMode:
         light: "#000000"
         lightgray: "#141414"
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#FFFFFF"
+        secondary: "rgb(255, 255, 255)"
         tertiary: "rgb(255, 255, 255)"
         highlight: rgba(20, 20, 20)
-        textHighlight: "#fff23688"
+        textHighlight: "#ffbb0033"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true

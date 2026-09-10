@@ -185,3 +185,121 @@
     font-weight: $semiBoldWeight;
   }
 }
+
+// ---------------------------------------------------------------------------
+// "Primary" theme parity
+// Colored title band, neutral content area, rounded corners, soft shadows,
+// and the full Primary callout color set.
+// ---------------------------------------------------------------------------
+:root {
+    --pm-callout-tint: 22%;
+    --pm-callout-radius: 6px;
+    --pm-callout-shadow-offset: 4px;
+
+    --pm-callout-content-bg: color-mix(in srgb, var(--lightgray) 55%, var(--light));
+    --pm-callout-container-shadow:
+        inset 0 0 0 1px rgba(0, 0, 0, 0.08),
+        0 1px 6px 0 rgba(0, 0, 0, 0.12);
+    --pm-callout-title-shadow:
+        inset 0 -1px 0 0 rgba(0, 0, 0, 0.05),
+        inset 0 1px 1px 0 rgba(255, 255, 255, 0.2);
+    --pm-callout-content-shadow:
+        inset 0 0 0 1px rgba(0, 0, 0, 0.08),
+        inset 0 calc(-1 * var(--pm-callout-shadow-offset)) 3px 0 rgba(100, 100, 100, 0.13);
+}
+
+:root[saved-theme="dark"] {
+    --pm-callout-tint: 26%;
+
+    --pm-callout-content-bg: color-mix(in srgb, var(--lightgray) 55%, var(--light));
+    --pm-callout-container-shadow:
+        inset 0 0 0 1px rgba(0, 0, 0, 0.18),
+        0 2px 6px 0 rgba(0, 0, 0, 0.28);
+    --pm-callout-title-shadow:
+        inset 0 -1px 1px 0 rgba(0, 0, 0, 0.25),
+        inset 0 1px 1px 0 rgba(255, 255, 255, 0.1);
+    --pm-callout-content-shadow:
+        inset 0 0 0 1px rgba(0, 0, 0, 0.18),
+        inset 0 calc(-1 * var(--pm-callout-shadow-offset) - 1px) 3px 0 rgba(0, 0, 0, 0.3);
+}
+
+article {
+    .callout {
+        // Title band is tinted with the callout color; content stays neutral.
+        background-color: color-mix(
+            in srgb,
+            rgb(var(--pm-callout-rgb)) var(--pm-callout-tint),
+            var(--light)
+        );
+        border: 0;
+        border-radius: var(--pm-callout-radius);
+        padding: 0;
+        overflow: hidden;
+        box-shadow: var(--pm-callout-container-shadow);
+
+        --color: rgb(var(--pm-callout-rgb));
+
+        > .callout-title {
+            padding: 0.6rem 1.1rem;
+            box-shadow: var(--pm-callout-title-shadow);
+            gap: 0.5rem;
+        }
+
+        > .callout-content {
+            background-color: var(--pm-callout-content-bg);
+            padding: 0.9rem 1.1rem calc(0.9rem + var(--pm-callout-shadow-offset));
+            box-shadow: var(--pm-callout-content-shadow);
+            border-bottom-left-radius: var(--pm-callout-radius);
+            border-bottom-right-radius: var(--pm-callout-radius);
+
+            > :first-child {
+                margin-top: 0;
+            }
+
+            > :last-child {
+                margin-bottom: 0;
+            }
+        }
+
+        &.is-collapsed > .callout-title {
+            box-shadow: none;
+        }
+
+        &.is-collapsed > .callout-content {
+            box-shadow: none;
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+
+        // Primary callout palette
+        --pm-callout-rgb: 182, 196, 182;                                  // general
+        &[data-callout="note"]      { --pm-callout-rgb: 200, 175, 155; }
+        &[data-callout="abstract"]  { --pm-callout-rgb: 34, 152, 225; }
+        &[data-callout="summary"]   { --pm-callout-rgb: 234, 181, 52; }
+        &[data-callout="tldr"],
+        &[data-callout="tl;dr"]     { --pm-callout-rgb: 240, 180, 225; }
+        &[data-callout="info"]      { --pm-callout-rgb: 71, 162, 187; }
+        &[data-callout="todo"]      { --pm-callout-rgb: 58, 173, 252; }
+        &[data-callout="tip"],
+        &[data-callout="hint"]      { --pm-callout-rgb: 70, 206, 185; }
+        &[data-callout="important"] { --pm-callout-rgb: 246, 113, 118; }
+        &[data-callout="success"],
+        &[data-callout="check"],
+        &[data-callout="done"]      { --pm-callout-rgb: 87, 200, 83; }
+        &[data-callout="question"],
+        &[data-callout="faq"]       { --pm-callout-rgb: 130, 190, 235; }
+        &[data-callout="help"]      { --pm-callout-rgb: 250, 128, 96; }
+        &[data-callout="warning"],
+        &[data-callout="caution"],
+        &[data-callout="attention"] { --pm-callout-rgb: 255, 161, 32; }
+        &[data-callout="fail"],
+        &[data-callout="failure"],
+        &[data-callout="missing"],
+        &[data-callout="danger"],
+        &[data-callout="error"]     { --pm-callout-rgb: 226, 72, 86; }
+        &[data-callout="bug"]       { --pm-callout-rgb: 153, 93, 133; }
+        &[data-callout="example"]   { --pm-callout-rgb: 216, 141, 130; }
+        &[data-callout="quote"]     { --pm-callout-rgb: 173, 214, 171; }
+        &[data-callout="cite"]      { --pm-callout-rgb: 237, 217, 162; }
+    }
+}
