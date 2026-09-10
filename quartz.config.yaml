@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: OPEN BREIN
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: dgh.openbrein.org
   ignorePatterns:
     - private
     - templates
@@ -16,38 +16,37 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Montserrat
+      body: Montserrat
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
+        light: "#ffffff"
+        lightgray: "rgb(249, 251, 253)"
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        dark: "#343a40"
+        secondary: "#000000"
+        tertiary: "#1b1e23"
+        highlight: rgba(245, 245, 245)
         textHighlight: "#fff23688"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
+        light: "#000000"
+        lightgray: "#141414"
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        secondary: "#FFFFFF"
+        tertiary: "rgb(255, 255, 255)"
+        highlight: rgba(20, 20, 20)
+        textHighlight: "#fff23688"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
-      defaultDateType: modified
+      defaultDateType: created
       priority:
         - frontmatter
-        - git
         - filesystem
     order: 10
   - source: "@quartz-community/syntax-highlighting"
@@ -73,6 +72,7 @@ plugins:
     layout:
       position: right
       priority: 30
+      display: desktop-only
   - source: "@quartz-community/crawl-links"
     enabled: true
     options:
@@ -100,6 +100,12 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      useThemeFonts: true
+      fontOrigin: googleFonts
+      header: Montserrat
+      body: Montserrat
+      code: '"IBM Plex Mono", monospace'
   - source: "@quartz-themes/core"
     enabled: false
     options:
@@ -117,13 +123,13 @@ plugins:
       enableSiteMap: true
       enableRSS: true
   - source: "@quartz-community/favicon"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/og-image"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/canvas-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
@@ -136,7 +142,7 @@ plugins:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
@@ -149,7 +155,7 @@ plugins:
       groupOptions:
         grow: true
   - source: "@quartz-community/backlinks"
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -180,7 +186,7 @@ plugins:
       priority: 30
       group: toolbar
   - source: "@quartz-community/reader-mode"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
@@ -203,8 +209,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Mail: mailto:jelle@openbrein.org
+        Instagram: https://www.instagram.com/jelledevr/
     layout:
       position: footer
       priority: 50
@@ -219,44 +225,15 @@ plugins:
       priority: 25
       display: mobile-only
   - source: "@quartz-community/bases-page"
-    enabled: true
-    options: {}
-    order: 50
+    enabled: false
   - source: "@quartz-community/note-properties"
-    enabled: true
-    options:
-      includeAll: false
-      includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
-      hidePropertiesView: false
-      delimiters: ---
-      language: yaml
-    order: 5
-    layout:
-      position: beforeBody
-      priority: 15
-      display: all
+    enabled: false
   - source: "@quartz-community/unlisted-pages"
-    enabled: true
-    options: {}
-    order: 45
+    enabled: false
   - source: "@quartz-community/encrypted-pages"
-    enabled: true
-    options:
-      iterations: 600000
-      passwordField: password
-      unlistWhenEncrypted: false
-      outputPath: static/encryptedContentIndex.json
-    order: 900
+    enabled: false
   - source: "@quartz-community/stacked-pages"
     enabled: false
-    layout:
-      position: afterBody
-      priority: 50
-      display: all
 layout:
   groups:
     toolbar:
@@ -269,16 +246,12 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content: {}
-    folder:
+    content:
       exclude:
-        - reader-mode
+        - explorer
+    folder:
       positions:
         right: []
     tag:
-      exclude:
-        - reader-mode
       positions:
         right: []
-    canvas: {}
-    bases: {}

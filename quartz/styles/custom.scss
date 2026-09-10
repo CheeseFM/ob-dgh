@@ -1,3 +1,308 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+@use "./base.scss";
+
+// put your custom CSS here!
+
+@media print {
+    body {
+        max-width: 800px; /* Set a max width for printed content */
+        margin: 0 auto; /* Center content on the page */
+        padding: 20px;
+    }
+}
+
+hr {
+    margin: 0.5rem auto;
+    background-color: var(--gray);
+}
+
+p > h1,
+p > h2,
+p > h3,
+p > h4,
+p > h5,
+p > h6 {
+    margin-bottom: 2rem;
+}
+
+
+.page-title a {
+    font-weight: 900;
+    font-optical-sizing: auto;
+    font-size: 2.3rem;
+    line-height: 2rem;
+}
+
+.article-title {
+    font-size: 1.4rem;
+    font-weight: 900;
+}
+
+
+.page article>h1 {
+    font-size: 1.5rem;
+}
+
+.page-title {
+    max-width: 125px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 1.5rem;
+    margin-bottom: 0rem;
+    margin-top: 1.5rem;
+    color: var(--tertiary);
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    margin-bottom: 0.50rem;   
+    color: var(--tertiary);
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-bottom: .75rem;
+    margin-top: 0.35rem;
+    color: var(--tertiary);
+}
+
+h4 {
+    font-weight: 500;
+    font-size: 1.1rem;
+    margin-bottom: .75rem;
+    margin-top: 0.35rem;
+    color: var(--tertiary);
+}
+
+h5,
+h6 {
+    font-weight: 500;
+    font-size: 1.1rem;
+    margin-bottom: .3rem;
+    margin-top: 0.35rem;
+    color: var(--tertiary);
+}
+
+p {
+    margin-top: 0.55em;
+    font-size: 1rem;
+    color: var(--tertiary);
+}
+
+li {
+    font-size: 1rem;
+    color: var(--tertiary);
+}
+
+ul {
+    margin-top: 0.25rem;
+}
+
+.search p {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+.transclude h1 {
+    font-size: 1.3rem;
+    margin-top: 1.5rem;
+}
+
+table,
+.table-container>table>* {
+    font-size: 0.875rem;
+    line-height: 1.5rem;
+    min-width: 0;
+}
+
+table th,
+.table-container>table th {
+    text-align: left;
+    background-color: var(--secondary);
+    color: var(--light);
+    border-bottom: 0px;
+    padding: .75rem;
+    margin-left: 0;
+    margin-right: 0;
+    min-width: 0;
+}
+
+table td,
+.table-container>table td {
+    border-bottom: 1px solid var(--gray);
+    min-width: 0;
+    padding: .75rem;
+}
+
+a.internal.transclude-src {
+    background-color: var(--light);
+    color: var(--secondary);
+    padding: .75rem 2rem;
+    border-radius: 0;
+}
+
+a.internal.transclude-src:hover {
+    color: var(--secondary);
+}
+
+blockquote.transclude ul {
+    margin-bottom: 2rem;
+    /* Adjust the value as needed */
+}
+
+.transclude {
+    border-left: 0 solid;
+    padding: 2rem;
+    padding-top: .5rem;
+    background-color: var(--tertiary);
+}
+
+blockquote.transclude p,
+blockquote.transclude h1,
+blockquote.transclude h2,
+blockquote.transclude h3,
+blockquote.transclude h4,
+blockquote.transclude h5,
+blockquote.transclude h6,
+blockquote.transclude li,
+blockquote.transclude a {
+    color: var(--light);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+a:hover {
+    color: var(--gray);
+}
+
+blockquote.transclude a:hover {
+    color: var(--gray);
+}
+
+h1>a {
+    font-weight: bold;
+}
+
+.transclude>figure>pre>code {
+    color: var(--light);
+}
+
+.callout a {
+    font-size: 1rem;
+}
+
+.callout {
+    border: 0;
+    border-radius: 0;
+}
+
+
+.notes-links p,
+.notes-links h1,
+.notes-links h2,
+.notes-links h3,
+.notes-links h4,
+.notes-links h5,
+.notes-links h6,
+.notes-links li,
+.notes-links a {
+    color: var(--light);
+    background-color: var(--tertiary);
+}
+
+.notes-links a.internal {
+    line-height: 2.5rem;
+    background-color: var(--light);
+    color: var(--secondary);
+    padding: .5rem 1rem;
+    border-radius: 0;
+}
+
+.notes-links > p > .external > .external-icon svg {
+    color: var(--light);
+}
+
+.notes-links {
+    background-color: var(--tertiary);
+    padding: 2rem;
+    padding-top: 2rem;
+}
+
+.notes-links p {
+    margin-top: 0rem;
+}
+
+
+.notes-links h1 {
+    margin-bottom: 0;
+}
+
+.notes-links h2,
+.notes-links h3,
+.notes-links h4,
+.notes-links h5,
+.notes-links h6 {
+    margin-top: 0.5rem;
+}
+
+.notes-links {
+    margin-top: 2rem;
+}
+
+.notes-links svg {
+    margin: 0rem;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.notes-links .header-nolink {
+    font-weight: 600;
+    font-size: 1.1rem;
+    margin-bottom: .25rem;
+}
+
+blockquote a.external .external-icon>path {
+    fill: var(--light);
+}
+
+blockquote {
+    margin-bottom: 2rem;
+}
+
+.sidebar.right,
+.sidebar.left {
+    background-color:var(--lightgray);
+}
+
+body {
+    background-color:var(--lightgray);
+}
+
+.search>.search-button {
+    background-color: var(--secondary);
+}
+
+.search>.search-button>p {
+    font-weight: 500;
+    color: var(--light);
+}
+
+.search>.search-button svg .search-path {
+    color: var(--light);
+    stroke: var(--light);
+}
+
+
+ul.overflow:after, ol.overflow:after {
+    background: linear-gradient(transparent 0px,var(--lightgray));
+}
+
+.toc.desktop-only {
+    max-height: 60%;
+}
