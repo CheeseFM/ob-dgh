@@ -1,7 +1,7 @@
 ---
 title: Thuispagina
 ---
-# Homepagina
+
 Welkom op mijn digitaal leersysteem.
 - Lesnota's vind je [hier](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=drive_link)
 - Samenvattingen hier:
