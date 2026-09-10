@@ -13,6 +13,7 @@
     }
 }
 
+
 hr {
     margin: 0.5rem auto;
     background-color: var(--gray);
@@ -29,10 +30,22 @@ p > h6 {
 
 
 .page-title a {
+    display: block;
     font-weight: 900;
     font-optical-sizing: auto;
-    font-size: 2.3rem;
-    line-height: 2rem;
+    font-size: 2.5rem;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+}
+
+.page-title a::after {
+    content: "DGH";
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    color: var(--darkgray);
 }
 
 .article-title {
@@ -46,7 +59,7 @@ p > h6 {
 }
 
 .page-title {
-    max-width: 125px;
+    max-width: 135px;
 }
 
 h1 {

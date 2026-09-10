@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: OPEN BREIN DGH
+  pageTitle: OPEN BREIN
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: false
   analytics:
     provider: plausible
-  locale: en-US
+  locale: nl-BE
   baseUrl: dgh.openbrein.org
   ignorePatterns:
     - private
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Montserrat
-      body: Montserrat
+      header: Schibsted Grotesk
+      body: Schibsted Grotesk
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -137,7 +137,7 @@ plugins:
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
@@ -246,9 +246,6 @@ layout:
         beforeBody: []
         left: []
         right: []
-    content:
-      exclude:
-        - explorer
     folder:
       positions:
         right: []
