@@ -1,3 +1,7 @@
+---
+tags:
+  - afgerond
+---
 📅 Aangemaakt: 06-09-2026
 
 > [!info] Bronnen

@@ -1,8 +1,17 @@
+---
+title: Thuispagina
+---
 # Homepagina
+Welkom op mijn digitaal leersysteem.
+- Lesnota's vind je [hier](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=drive_link)
+- Samenvattingen hier:
+	- [[Wetgeving DGH]]: Alles rond wat een Hulpverlener-Ambulancier mag en niet mag #afgerond 
+	- [[De eerste minuten DGH]]: Het stappenplan *(heilige bijbel v/h DGH)* #afgerond 
+	- [[Anatomie DGH]]: Basis anatomie en fysiologie om een context te hebben rond waarom je bepaalde handelingen doet en waar #bezig 
+	- [[Levensbedreigende aandoeningen]]: Alle mogelijke kwalen die te maken hebben met de vitale functies #nog-niet-begonnen 
+
+### Wie ben ik? 
+Hoi! ==Ik ben Jelle==, student informatica die nu voor Dringende Geneeskundige Hulpverlening gaat. 
+- Ik ben een enorme voorstander van delen v/ leerhulpmiddelen en hierdoor ook deze webpagina
+
 > Met thema gebasseerd op https://github.com/primary-theme/obsidian 
-
-Test
-- [[DGH]]
-## Tweede
-
-## Derde
