@@ -5,10 +5,10 @@ title: Thuispagina
 Welkom op mijn digitaal leersysteem.
 - Lesnota's vind je [hier](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=drive_link)
 - Samenvattingen hier:
-	- [[Wetgeving DGH]]: Alles rond wat een Hulpverlener-Ambulancier mag en niet mag #afgerond 
-	- [[De eerste minuten DGH]]: Het stappenplan *(heilige bijbel v/h DGH)* #afgerond 
-	- [[Anatomie DGH]]: Basis anatomie en fysiologie om een context te hebben rond waarom je bepaalde handelingen doet en waar #bezig 
-	- [[Levensbedreigende aandoeningen]]: Alle mogelijke kwalen die te maken hebben met de vitale functies #nog-niet-begonnen 
+	- [[Wetgeving DGH]]: Alles rond wat een Hulpverlener-Ambulancier mag en niet mag 
+	- [[De eerste minuten DGH]]: Het stappenplan *(heilige bijbel v/h DGH)* 
+	- [[Anatomie DGH]]: Basis anatomie en fysiologie om een context te hebben rond waarom je bepaalde handelingen doet en waar 
+	- [[Levensbedreigende aandoeningen]]: Alle mogelijke kwalen die te maken hebben met de vitale functies 
 
 >[!warning] Dit is écht een heel bare-bones versie. 
 >Later wordt deze site uitgebreid om handiger te zijn - Bekijk het nu enkel als een samenvatting raadpleeg site
