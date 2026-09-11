@@ -74,7 +74,7 @@ Het belangrijkste is dat er **een veiligheidszone** opgesteld wordt van ==MINIMA
 | Als eerste voertuig                                                                                                   | Als tweede+ voertuig                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | De ambulance wordt als indicator v/h begin van de veiligheidszone gebruikt. Ze is helaas ook buffer voor een ongeval. | Zo minimaal als een politie-combi met lichtbalk signaal en zo groot als een volledige wegblokade, je zet je ziekenwagen zo dicht mogelijk bij het ongeval en dus ==na de veiligheidszone==. |
-| ![[Pasted image 20260907140234.png]]                                                                                  | ![[Pasted image 20260907140213.png]]                                                                                                                                                        |
+| ![[RijstrokenEerste.png]]                                                                                             | ![[RijstrokenTweede.png]]                                                                                                                                                                   |
 #### Rijstroken
 De **rijstroken** worden van links, midden naar rechts genoemd *(zie bijlage)*, samenstellingen kunnen zijn:
 1. Twee rijstroken: `linker (1), rechter (2)`
@@ -83,7 +83,7 @@ De **rijstroken** worden van links, midden naar rechts genoemd *(zie bijlage)*, 
 4. Vijf rijstroken: `linker (1), linker midden (2), midden (3), rechter midden (4), rechter (5)`
 
 
-![[Pasted image 20260907140835.png]]
+![[RijstrookBenamingen.png]]
 
 **Vormen van een reddingsstrook** *(Belangrijk bij files)*:
 - Gebeurt altijd tussen rijstrook 1&2, waarbij:
@@ -341,9 +341,9 @@ Aftasten van alle delen van het lichaam beide visueel als fysiek met de handen. 
 ---
 Wanneer is spinale immbolisatie nodig? Volg het stappenplan:
 
-| Flowchart spinale immobilisatie      | Nexus criteria                       |
-| ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20260908202900.png]] | ![[Pasted image 20260908202934.png]] |
+| Flowchart spinale immobilisatie | Nexus criteria         |
+| ------------------------------- | ---------------------- |
+| ![[ImmobilisatieFlowchart.png]] | ![[NexusCriteria.png]] |
 - NEXUS is en aftoetsbare checklist om te testen of er wervelschade is of niet. Maar ook;
 	- Bij een ongeïsoleerd penetrerend trauma *geïsoleerd wordt niet geïmmobiliseerd omdat dit directe spoedeisende hulp nodig heeft en dit enkel de tijd zou verlengen daartot - bv. schotwonde, messteek*
 	- Bij een ABCDE-kritieke situatie *(bv. stop ademhaling)* wordt er geopteerd om direct te reanimeren met standaard immobilisatie *(MILS, hoofd vasthouden)*
