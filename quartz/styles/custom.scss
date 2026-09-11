@@ -386,6 +386,10 @@ article {
 }
 
 article {
+    strong, b,
+    .page & p > strong {
+        color: var(--primary-bold);
+    }
     .table-container > table,
     > table {
         width: 100%;
