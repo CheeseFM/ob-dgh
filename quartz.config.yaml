@@ -104,10 +104,10 @@ plugins:
       useThemeFonts: true
       fontOrigin: googleFonts
       header:
-        name: Montserrat
+        name: Fredoka
         weights: [400, 700, 900]
       body:
-        name: Montserrat
+        name: Fredoka
         weights: [400, 600, 700]
       code: IBM Plex Mono
   - source: "@quartz-themes/core"
