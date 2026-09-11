@@ -8,7 +8,7 @@ aliases:
 
 
 > [!info] Bronnen
-> [PRESENTATIE De eerste minuten](https://drive.google.com/file/d/1UUNZQBNcZmsJhD8WNAf1mggKwDSIBM_Z/view?usp=sharing)
+> [PRESENTATIE De eerste minuten](https://extranet.paulo.be/documenten)
 > [HANDBOEK De eerste minuten](https://drive.google.com/file/d/1XXCz4aQEC2ye57SAGHBEjJ4OgQ4iPVEp/view?usp=sharing)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 > [VIDEO Benadering van slachtoffer - trauma PIVO](https://www.youtube.com/watch?v=6CXwbwx_2ug)

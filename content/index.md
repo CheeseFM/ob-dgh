@@ -21,6 +21,6 @@ Hoi! ==Ik ben Jelle==, student informatica die nu voor Dringende Geneeskundige H
 - Ik ben een enorme voorstander van delen v/ leerhulpmiddelen en hierdoor ook deze webpagina
 
 >[!note] Bronnen
->Alle raad-gepleegde bronnen zijn openlijk uitgegeven door FOD Volksgezondheid.
+>Alle geraadpleegde bronnen zijn openlijk uitgegeven door FOD Volksgezondheid. ==Degene die niet uitgegeven zijn linken enkel door naar het extranet van PAULO.== *(waar je dus toegang voor moet hebben)*
 
 > Met thema gebasseerd op https://github.com/primary-theme/obsidian 

@@ -250,6 +250,10 @@ Speciale aders:
 - **Longaders**: Pompen zuurstofrijk bloed van de longen naar het hart *(er zijn 4)*
 - **Aorta**: Pompt zuurstofrijk bloed v/h hart naar de rest van ons lichaam
 
+Bloedsomlopen:
+- **De kleine bloedsomloop** *(= transport zuurstofarmbloed v/ hart naar longen - en zuurstofrijk bloed terug)*: Rechterkamer → Longslagader → Longen → Longaders → Linkervoorkamer
+- **De grote bloedsomloop** *(= transport zuurstofrijk bloed naar lichaam - en zuurstofarm bloed terug)*: Linkerkamer → Aorta (lichaamsslagader) → Organen en Weefsels → Holle aders → Rechtervoorkamer
+
 #### Werking v/h hart
 
 >[!warning] Anatomisch links & rechts

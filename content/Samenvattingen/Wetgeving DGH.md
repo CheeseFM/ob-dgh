@@ -6,7 +6,7 @@ tags:
 📅 Aangemaakt: 06-09-2026
 
 > [!info] Bronnen
-> [PRESENTATIE Inleiding: wetgeving & organisatie DGH](https://drive.google.com/file/d/1YfiCvk0DoQ7mj2A0G8Pr_PLQZNhRwVNG/view?usp=sharing)
+> [PRESENTATIE Inleiding: wetgeving & organisatie DGH](https://extranet.paulo.be/documenten)
 > [HANDBOEK Inleiding: Handboek Hulpverlener Ambulancier](https://drive.google.com/file/d/17OdKS5dhEROAr-B6cB0aSUs3BVp1VTvV/view?usp=sharing)
 
 > [!check] Doelstellingen
