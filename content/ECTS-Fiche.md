@@ -10,8 +10,8 @@
 
 ## Bronnen
 ---
-- [Slides per hoofdstuk](https://drive.google.com/drive/folders/1-3txkANppKZiFTGqzM6QTnhcRj7l_vKO?usp=drive_link): Te kennen inhoudelijke leerstof
-- [Procedures](https://drive.google.com/file/d/1qW4cGBwzFzqMrOxOu66t8ysHOVizbiod/view?usp=drive_link): Stap voor stap handleiding met nodige materiaal, voorbereiding, uitvoering & nazorg - 50 procedures vanbinnen en vanbuiten te kennen
+- [Slides per hoofdstuk](https://extranet.paulo.be/documenten): Te kennen inhoudelijke leerstof
+- [Procedures](https://extranet.paulo.be/documenten): Stap voor stap handleiding met nodige materiaal, voorbereiding, uitvoering & nazorg - 50 procedures vanbinnen en vanbuiten te kennen
 - [Staande orders](https://drive.google.com/file/d/1sPUC4q8RME2jpzKFR8ISCdQL-Qguv6v4/view?usp=sharing): Situatiebeschrijvingen waarin men bepaalde procedures mag uitvoeren
 
 ## Evaluatie
