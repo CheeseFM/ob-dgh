@@ -23,6 +23,8 @@ aliases:
 > - [ ] De bevoegdheden bij het onderzoek van de patiënt en de systematiek bij de observatie.
 > - [ ] De taak van de hulpverlener ambulancier tijdens het vervoer naar/aankomst in het ziekenhuis.
 
+>[!note] [[De eerste minuten DGH.pdf]]
+
 # In de eerste minuten kan er al veel fout gaan, daarom volgen we een stappenplan met VASTE chronologische volgorde
 
 1. Hoe zijn de omstandigheden bij aankomst? Is het veilig?: [[#De beoordeling van omstandigheden]]

@@ -12,8 +12,7 @@ tags:
 > [!check] Doelstellingen
 > Voeg doelstellingen in
 
->[!note]
->[[|PDF versie]]
+>[!note] [[PDF versie]]
 
 # Uitleg wat hoofdstuk doet
 

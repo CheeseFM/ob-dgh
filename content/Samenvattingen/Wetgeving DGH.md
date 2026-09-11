@@ -16,6 +16,8 @@ tags:
 > - Verstaan dat je binnen en wettelijk kader werkt
 > - Eigen verantwoordelijk- en mogelijkheden kennen
 
+>[!note] [[Wetgeving DGH.pdf]]
+
 # Wettelijke omkadering van alles DGH. Wat je mag én niet mag, maar ook een beginnende inkijk in terminologie.
 
 ## Organisatie v/d DGH
