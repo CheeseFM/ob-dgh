@@ -9,19 +9,22 @@ Welkom op mijn digitaal leersysteem.
 	- [[De eerste minuten DGH]]: Het stappenplan *(heilige bijbel v/h DGH)* 
 	- [[Anatomie DGH]]: Basis anatomie en fysiologie om een context te hebben rond waarom je bepaalde handelingen doet en waar 
 	- [[Levensbedreigende aandoeningen]]: Alle mogelijke kwalen die te maken hebben met de vitale functies 
+- Anki deck #bezig : [[DGH.apkg|DGH Anki Download]]
+	- *(Update soms dus gewoon verwijderen en opnieuw insteken)*
 
 >[!warning] Dit is écht een heel bare-bones versie. 
 >Later wordt deze site uitgebreid om handiger te zijn - Bekijk het nu enkel als een samenvatting raadpleeg site
 
-Bij deze nota's horen de onderstaande links
+### Status van nota
+Bij deze nota's/samenvattingen horen de onderstaande statussen van volledigheid
 - #nog-niet-begonnen 
 - #bezig 
 - #afgerond 
 
-### Evaluatie
+## Evaluatie
 ![[ECTS-Fiche]]
 
-### Wie ben ik? 
+## Wie ben ik? 
 Hoi! ==Ik ben Jelle==, student informatica die nu voor Dringende Geneeskundige Hulpverlening gaat. 
 - Ik ben een enorme voorstander van delen v/ leerhulpmiddelen en hierdoor ook deze webpagina
 

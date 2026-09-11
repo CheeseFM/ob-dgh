@@ -1,8 +1,8 @@
 ---
 tags:
-  - "#nog-niet-begonnen"
+  - nog-niet-begonnen
 ---
-📅 Aangemaakt: 11-09-2026
+📅 Aangemaakt: <% tp.date.now("DD-MM-YYYY") %>
 
 > [!info] Bronnen
 > [PRESENTATIE]()

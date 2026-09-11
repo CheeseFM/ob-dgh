@@ -3,9 +3,7 @@ tags:
   - afgerond
 aliases:
 ---
-
 📅 Aangemaakt: 07-09-2026
-
 
 > [!info] Bronnen
 > [PRESENTATIE De eerste minuten](https://extranet.paulo.be/documenten)
