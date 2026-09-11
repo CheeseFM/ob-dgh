@@ -337,7 +337,10 @@ ul.overflow:after, ol.overflow:after {
 }
 
 article {
-    strong, b {
+    // .page article p > strong in Quartz's base.scss forces var(--dark),
+    // so this needs matching specificity to win.
+    strong, b,
+    .page & p > strong {
         color: var(--primary-bold);
     }
 
@@ -386,10 +389,6 @@ article {
 }
 
 article {
-    strong, b,
-    .page & p > strong {
-        color: var(--primary-bold);
-    }
     .table-container > table,
     > table {
         width: 100%;
@@ -426,6 +425,36 @@ article {
             &:hover {
                 background-color: var(--pm-table-row-hover);
             }
+        }
+    }
+}
+// ---------------------------------------------------------------------------
+// Link underlines — "Primary" theme parity, but more visible.
+// Primary uses 22% opacity; that disappears on this background.
+// ---------------------------------------------------------------------------
+:root {
+    --pm-link-underline-opacity: 45%;
+    --pm-link-underline-thickness: 1.5px;
+    --pm-link-underline-offset: 2px;
+}
+
+article {
+    // a.internal in Quartz's base.scss sets text-decoration: none and
+    // outranks a bare "article a", so the class has to be named here too.
+    a,
+    a.internal {
+        text-decoration: underline;
+        text-decoration-thickness: var(--pm-link-underline-thickness);
+        text-underline-offset: var(--pm-link-underline-offset);
+        text-decoration-color: color-mix(
+            in srgb,
+            currentColor var(--pm-link-underline-opacity),
+            transparent
+        );
+        transition: color 0.2s ease, text-decoration-color 0.2s ease;
+
+        &:hover {
+            text-decoration-color: currentColor;
         }
     }
 }

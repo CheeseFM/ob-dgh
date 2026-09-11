@@ -13,6 +13,11 @@ Welkom op mijn digitaal leersysteem.
 >[!warning] Dit is écht een heel bare-bones versie. 
 >Later wordt deze site uitgebreid om handiger te zijn - Bekijk het nu enkel als een samenvatting raadpleeg site
 
+Bij deze nota's horen de onderstaande links
+- #nog-niet-begonnen 
+- #bezig 
+- #afgerond 
+
 ### Evaluatie
 ![[ECTS-Fiche]]
 
