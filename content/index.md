@@ -13,6 +13,9 @@ Welkom op mijn digitaal leersysteem.
 >[!warning] Dit is écht een heel bare-bones versie. 
 >Later wordt deze site uitgebreid om handiger te zijn - Bekijk het nu enkel als een samenvatting raadpleeg site
 
+### Evaluatie
+![[ECTS-Fiche]]
+
 ### Wie ben ik? 
 Hoi! ==Ik ben Jelle==, student informatica die nu voor Dringende Geneeskundige Hulpverlening gaat. 
 - Ik ben een enorme voorstander van delen v/ leerhulpmiddelen en hierdoor ook deze webpagina
