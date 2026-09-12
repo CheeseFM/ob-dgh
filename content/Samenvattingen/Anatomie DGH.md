@@ -23,7 +23,7 @@ tags:
 > - [x] De werking van de bloedsomloop en het verschil tussen de grote en kleine bloedsomloop
 > - [x] De samenstelling van het bloed en de functie van de verschillende bloeddelen
 > - [x] Het begrip bloeddruk, kunnen dit verduidelijken en weten waar en hoe de hartfrequentie kan gemeten worden
-> - [ ] De gevolgen van het falen van de hartwerking en/of bloedsomloop
+> - [x] De gevolgen van het falen van de hartwerking en/of bloedsomloop
 > - [ ] De bouw, werking en het belang van het bewegingsstelsel
 > - [ ] De functie en onderdelen van het skelet
 > - [ ] De functie van de spieren
@@ -302,21 +302,66 @@ Het hart zit in de pericard *(= hartzakje)* met vanboven een opening voor de gro
 - Dit kan infecteren en enorme stekende pijn geven.
 
 ##### 2. Thrombose *(v/d hartsslagader)*
-
-
+Afhankelijk van de plaats van de bloedprop *(= thrombose)* in de hartkransslagaders kan een hartinfarct erger/minder erg zijn.
+- In het begin: Blokeert alle toevoer, 
+- In een uiteinde: Blokeert enkel vertakking (lokale fibrilaties)
 
 >[!important] Belang voor de Hulpverlener-Ambulancier
->...
+> - Zonder bloedcirculatie wordt er geen zuurstof vervoerd. *(eerste slachtoffer hiervan is de hersenen, neuronen/zenuwcellen zijn enorm afhankelijk van zuurstof)*
 
 ## De andere lichaamsstelsels
 ---
-- [ ] Niet minder nodig, wel niet acute levensbedreiging, enkel chronisch
+Naast de stelsels van direct levensbelang hebben we ook de rest v/ ons lichaam. Bij kwalen kan dit op langere termijn *(1 dag+)* wel levensbedreigend zijn.
 
 ### Het bewegingsstelsel
+Het bewegingsstelsel bestaat uit 2 delen. Het raamwerk *(= de botten)* en het bewegingsmechanisme *(= de spieren, pezen & ligamenten)*
+
+#### Skelet
+Het skelet bestaat uit 206 beenderen, waarvan de belangrijkste:
+
+1. Schedel & aangezicht
+	- Schedel
+	- Kaakbeen
+2. Sleutelbeen
+3. Wervel
+	- Wervelzuil
+	- Heiligbeen
+4. Borstkas
+	- Borstbeen *(= sternum)*
+	- Ribben
+5. Bovenste ledematen:
+	- Bovenarmbeen
+	- Spaakbeen
+	- Ellepijpbeen
+	- Hangbeenderen
+6. Bekken
+7. Onderste ledematen:
+	- Dijbeen
+	- Knieschijf
+	- Scheenbeen
+	- Kuitbeen
+	- Voetbeenderen
+
+| Het skelet *(via boek)*              |
+| ------------------------------------ |
+| ![[Pasted image 20260911185800.png]] |
+
+##### Gewrichten
+Een gewricht of 
+
+![[Pasted image 20260911212131.png]]
+
+
+#### Spieren
+
+| Onze spieren *(via boek)*            |
+| ------------------------------------ |
+| ![[Pasted image 20260911185818.png]] |
+
+#### Onderdelen v/h bewegingstelsel
 
 >[!important] Belang voor de Hulpverlener-Ambulancier
 >...
-
 ### Het spijsverteringsstelsel
 
 >[!important] Belang voor de Hulpverlener-Ambulancier

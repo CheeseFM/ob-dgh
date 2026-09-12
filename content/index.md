@@ -11,6 +11,7 @@ Welkom op mijn digitaal leersysteem.
 	- [[Levensbedreigende aandoeningen]]: Alle mogelijke kwalen die te maken hebben met de vitale functies 
 - Anki deck #bezig : [[DGH.apkg|DGH Anki Download]]
 	- *(Update soms dus gewoon verwijderen en opnieuw insteken)*
+- Perfecte liedjes voor op te reanimeren *(met dank aan Eva)*: [Spotify 110 BPM Mix](https://open.spotify.com/playlist/37i9dQZF1EIcwHecTFAbsZ?si=26ee3df940fa492e)
 
 >[!warning] Dit is écht een heel bare-bones versie. 
 >Later wordt deze site uitgebreid om handiger te zijn - Bekijk het nu enkel als een samenvatting raadpleeg site
