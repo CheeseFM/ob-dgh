@@ -9,21 +9,21 @@ tags:
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
 > [!check] Doelstellingen
-> - [x] De oriëntatiebegrippen van het lichaam
-> - [x] De lichaamsstreken en lichaamsholten
-> - [x] De verschillende lichaamsstelsels met hun doel en functie
-> - [x] De opbouw, werking en het belang van het zenuwstelsel
-> - [x] De opbouw, werking en het belang van het ademhalingsstelsel
-> - [x] De gasuitwisseling ter hoogte van de longblaasjes
-> - [x] Voorbeelden van veel voorkomende “ademhalingsfalen”
-> - [x] De werking en verschillen tussen in-en uitademing
-> - [x] De opbouw en het belang van het hart- en bloedvatenstelsel
-> - [x] De functie van slagaders , aders en haarvaten
-> - [x] De verschillende delen en werking van het hart en hartkleppen
-> - [x] De werking van de bloedsomloop en het verschil tussen de grote en kleine bloedsomloop
-> - [x] De samenstelling van het bloed en de functie van de verschillende bloeddelen
-> - [x] Het begrip bloeddruk, kunnen dit verduidelijken en weten waar en hoe de hartfrequentie kan gemeten worden
-> - [x] De gevolgen van het falen van de hartwerking en/of bloedsomloop
+> - [ ] De oriëntatiebegrippen van het lichaam
+> - [ ] De lichaamsstreken en lichaamsholten
+> - [ ] De verschillende lichaamsstelsels met hun doel en functie
+> - [ ] De opbouw, werking en het belang van het zenuwstelsel
+> - [ ] De opbouw, werking en het belang van het ademhalingsstelsel
+> - [ ] De gasuitwisseling ter hoogte van de longblaasjes
+> - [ ] Voorbeelden van veel voorkomende “ademhalingsfalen”
+> - [ ] De werking en verschillen tussen in-en uitademing
+> - [ ] De opbouw en het belang van het hart- en bloedvatenstelsel
+> - [ ] De functie van slagaders , aders en haarvaten
+> - [ ] De verschillende delen en werking van het hart en hartkleppen
+> - [ ] De werking van de bloedsomloop en het verschil tussen de grote en kleine bloedsomloop
+> - [ ] De samenstelling van het bloed en de functie van de verschillende bloeddelen
+> - [ ] Het begrip bloeddruk, kunnen dit verduidelijken en weten waar en hoe de hartfrequentie kan gemeten worden
+> - [ ] De gevolgen van het falen van de hartwerking en/of bloedsomloop
 > - [ ] De bouw, werking en het belang van het bewegingsstelsel
 > - [ ] De functie en onderdelen van het skelet
 > - [ ] De functie van de spieren
@@ -35,6 +35,8 @@ tags:
 > - [ ] De bouw, werking en het belang van het afweerstelsel
 > - [ ] De verschillende zintuigen en hun werking
 > - [ ] De belangrijkste letsels aan de lichaamsstelsels, klieren of zintuigen
+
+>[!note] PDF: [[Anatomie DGH.pdf]]
 
 # Een basis inzicht krijgen op de anatomie en fysiologische werking v/h menselijk lichaam om geïnformeerde medische handelingen verrichten en inzichten te kunnen vergaren  
 
@@ -316,82 +318,253 @@ Naast de stelsels van direct levensbelang hebben we ook de rest v/ ons lichaam. 
 ### Het bewegingsstelsel
 Het bewegingsstelsel bestaat uit 2 delen. Het raamwerk *(= de botten)* en het bewegingsmechanisme *(= de spieren, pezen & ligamenten)*
 
+De vier elementen van het bewegingsapparaat
+- **Spier**: Samentrekken/ontspannen om beweging te creëren
+	- Zorgen voor motoriek
+- **Pees**: Verbinding tussen spieren en botten *(= bindweefsel)*
+	- Trekken d.m.v. de spier op het bot om beweging mogelijk te maken 
+- **Ligamenten**: Verbinding tussen meerdere botten 
+	- Geven steun aan een gewricht *(= veiligheidsgorldels)*
+- **Botten**: Het geraamte, de basis van je lichaam
+	- Zorgen voor een vast raamwerk waar de rest op kan samentrekken, hechten, aanhangen, ...
+
+
 #### Skelet
 Het skelet bestaat uit 206 beenderen, waarvan de belangrijkste:
 
 1. Schedel & aangezicht
-	- Schedel
-	- Kaakbeen
-2. Sleutelbeen
-3. Wervel
-	- Wervelzuil
-	- Heiligbeen
-4. Borstkas
-	- Borstbeen *(= sternum)*
-	- Ribben
-5. Bovenste ledematen:
-	- Bovenarmbeen
-	- Spaakbeen
-	- Ellepijpbeen
-	- Hangbeenderen
-6. Bekken
+	- **Schedel**: Luchterige structuur om niet te zwaar te zijn
+	- **Kaakbeen**: Overspannen door de allersterkste spier in ons lichaam, de kaakspier
+2. **Sleutelbeen**
+3. Bovenste ledematen:
+	- **Humerus** *(=bovenarmbeen)*: Kogelgewricht in shouder
+		- **Radius** *(=spaakbeen)* & **Ulna** *(=ellepijpbeen)*: Kruisen elkaar d.m.v. het elleboog gewricht 
+		   ![[Pasted image 20260913151132.png]]
+	- **Handbeenderen**: Elke vingen heeft 3 kootjes, behalve de duim die maar twee heeft *(zelfde bij de voet e/d grote teen)*
+4. Wervel *(zie [[#De wervelkolom]])*
+	- **Wervelzuil**
+	- **Heiligbeen**
+5. Borstkas
+	- **Borstbeen** *(= sternum)*
+	- **Ribben**: 24 ribben, 12 aan elke kant - Kraakbenerig maar verhard naarmate leeftijd
+6. **Bekken**
 7. Onderste ledematen:
-	- Dijbeen
-	- Knieschijf
-	- Scheenbeen
-	- Kuitbeen
-	- Voetbeenderen
+	- **Femur** *(= dijbeen)*: Ook een kogegewricht maar kan niet volledig doordraaien door spieren en opbouw kom
+		- **Tibia** *(= scheenbeen)* & **Fibula** *(= kuitbeen)*: Gelijkaardige werken v/d arm *(radius & ulna)* die over elkaar kunnen kruisen
+	- **Voetbeenderen**
+		- Voetwortel -> Middenvoetbeen -> Tenen
 
 | Het skelet *(via boek)*              |
 | ------------------------------------ |
 | ![[Pasted image 20260911185800.png]] |
 
 ##### Gewrichten
-Een gewricht of 
+Een gewricht ofwel 'de scharnieren' van ons lichaam bestaan uit 5 grote delen:
+1. De twee benenen waarop gescharnierd worden
+2. **Kraakbeen tussen het gewricht**: Vormt een soepelere overgan samen met gewrichtsvocht
+3. Het **gewrichtsvocht**
+4. De **gewrichtsbanden** *(= ligamenten)*
+5. Het **gewrichtskapsel** *(= de zak v/ het gewrichtsvocht)*
 
 ![[Pasted image 20260911212131.png]]
 
 
 #### Spieren
+Een spier voor beweging is pas zinvol als het een gewricht overspant. 
 
 | Onze spieren *(via boek)*            |
 | ------------------------------------ |
 | ![[Pasted image 20260911185818.png]] |
 
-#### Onderdelen v/h bewegingstelsel
+De algemene groepen van spieren:
+1. **Skeletspieren** *(die we hier bespreken)*: Werken op bewuste aansturing *bv. je wilt iets grijpen -> je armen bewegen ernaartoe*
+2. **Gladde spieren**: Werken onwillekeurig, *bv. de darmen, bloedvaten, blaas* 
+3. **Hartspier**: lijkt meer op de skeletspier maar wordt aangestuurd door ingebouwde elektrische impuls, zie [[#Hart- en bloedvatenstelsel]] *(geen gladde spier maar écht een aparte categorie)*
+
+De besproken spieren *(/spiergroepen/types)*:
+1. **Aangezichtsspier**
+2. **Halsspier**
+3. **Borstspier**
+4. **Bovenarmspier**
+5. **Buikspier**
+6. **Handspier**
+7. **Dijspier**
+8. **Kniepees**
+9. **Onderbeenspier**
+10. **Voetspier**
 
 >[!important] Belang voor de Hulpverlener-Ambulancier
->...
+> - Het is belangrijk om het bewegingsstelsel een beetje te weten voor gekwetste spieren, ontwrichtingen, breuken of kneusingen 
+
+
 ### Het spijsverteringsstelsel
+Één lange buis van mond tot de anus die voedsel opbreekt, afbreekt, stoffen uithaalt en verwerpt.
+
+#### Opbouw en werking v/h spijsverteringsstelsel
+> https://www.ossila.com/cdn/shop/files/Peristaltic-pump-single-roller_peristaltic-pump-multiple-rollers.svg?v=1734607420
+
+| Het spijsverteringsstelsel *(via boek)* |     |
+| --------------------------------------- | --- |
+| ![[Pasted image 20260913155621.png]]    |     |
+De afgelegen weg v/ voedsel:
+1. Begint bij de **mond**: Tanden malen het voedsel in kleinere stukjes, speeksel breekt het chemisch af d.m.v. enzymen
+2. **Slokdarm**: brengt voedselbrokken van mond -> maag via peristaltische beweging *(duwen voedsel langs achter, lossen vanvoor aan het voedsel)*
+    ![[Pasted image 20260913163635.png]]
+3. **Maag**: Slaat het voedsel op en breekt verder af en beschermt het lichaam zich tegen bacteriën - a.d.h.v. mucosa -> aanmaken zure sappen
+4. **Dunne darm**: Combinatie van galvocht en pancreassap zal de voedselbolus *(stadium van afbraak)* verteren - Hier zullen alle voedingstoffen *(suikers, aminozuren, vetzuren)* er uit worden gehaald en via de darmwanden de bloedstroom ingaan.
+5. **Dikke darm**: Voedselbrei komt toe, vocht wordt zo veel mogelijk uitgehaald
+
+Functie van andere organen in de voedselverteringsketen:
+- Alvleesklier/pancreas + Galblaas: ==Toevoeren sappen om vertering te helpen==
+- Lever: ==Slaat stoffen op als reserven *(bv. suikers en vitaminen)* en/of past ze aan zodat je lichaam ze direct kan gebruiken + ontgiften en zuiveren van schadelijke stoffen ==
+- Nieren: ==Maken schadelijke stoffen wateroplosbaar, zorgen voor afvoer van overtollige water en zout==
+
 
 >[!important] Belang voor de Hulpverlener-Ambulancier
->...
+>- De lever is een grote passage in het lichaam voor de bloedsomloop. Een stomp in de maag *(/bovenkant v/d maag)* kan een hevige interne bloeding veroorzaken. Net zoals het bekken kan praktisch het volledige bloedvolume langs de lever de maagholte instromen
+>- Het spijsverteringstelsel is afgesloten van de rest v/h lichaam door middel van mucosa/weefsels en dikke wanden. Het scheuren van deze organen kan voor een hevig infectie veroorzaken
 
 ### Het urogenitaal stelsel
+Zuivering van bloed gebeurt in de nieren -> blaas -> buiten, samen met de geslachtsorganen maken ze het urogenitaal stelsel.
+
+#### Onderdelen & werking v/h urogentiaal stelsel
+
+| Nieren & blaas *(via boek)*          | Mannelijke geslachtsorganen *(via boek)* | Vrouwelijke geslachtsorganen *(via boek)* |
+| ------------------------------------ | ---------------------------------------- | ----------------------------------------- |
+| ![[Pasted image 20260914143834.png]] | ![[Pasted image 20260914143843.png]]     | ![[Pasted image 20260914143849.png]]      |
+Onderdelen:
+- Urinewegstelsel
+	1. **Nier**: Zuivert het bloed
+	2. **Urineleider**: Transporteert gemaakt urine naar de blaas
+	3. **Blaas**: Slaat urine op
+	4. **Urinekanaal**: Uitweg van urine naar buiten
+- Genitaal stelsel mannen: Teelbal -> zaadleider -> prostaat -> plasbuis *(zaadcellen worden pas actief door toevoegen prostaatvocht)*
+- Genitaal stelsel vrouwen: Eierstok -> Eileider -> Uterus *(eierstokken zitten los in de maag en zijn enorm gevoelig voor kloppen/stompen)*
 
 >[!important] Belang voor de Hulpverlener-Ambulancier
->...
+> Alweer kan een stoot in de maag voor grote problemen zorgen *(zie hoe groot de slagaders zijn die naast/naar de nieren gaan)*
 
 ### Het lymfenklierenstelsel
+Een stelsel van inwendige klieren dat bestaat uit verschillende organen die stoffen produceren om in de bloedbaan af te scheiden *(= endocrien)*
+
+#### Endocrien & Exocrien
+Het lymfenklierstelsel, endocrien stelsel of hormoonstelsel produceert hormonen *(= stoffen die recht in de bloedbaan terechtkomen)*
+- Exocrien: Hebben eigen kanalen, productie, ... *(bv. de verteringssappen)*
+- Endocrien: Via klier rechtstreeks de bloedbaan in
+
+#### Onderdelen & werking v/h lymfenklierenstelsel
+Hormonen bezorgen chemische boodschappen aan ons lichaam  
+- **Pancreas**
+	- Suikerregeling d.m.v. **insuline** *(verlaagt suiker)* & **glucagon** *(verhoogt suikerà*
+- **Schildklier**
+	- Bepaalt de snelheid van je **metabolisme** *(=stofwisseling)* 
+- **Bijschildklier**
+	- Regelt het afscheiden, bijhouden en afgeven **calcium** en **fosfaat**; wat essentieel is bij het herstel en opbouw van spieren en zenuwen
+- **Bijnier**
+	- Maakt **cortisol** aan/bouwt af voor het aanhouden van langdurige stress.
+	- Maakt **adrenaline**/**noradrenaline** aan om stress *(vechten of bluchten)* te regelen
+- **Ovarium**/**testis**
+	- Maakt geslachtshormonen zoals oestrogeen, progesteron en testosteron aanmaken die voortplanting- en menstruatiecyclus regelen
 
 >[!important] Belang voor de Hulpverlener-Ambulancier
->...
+>Problemen met/aandoeningen aan de pancreas kan leiden tot een insulineprobleem. Wat dan zorgt voor gebrek aan suikerhuishouding *(te veel/te weinig)*
 
 ### Het afweerstelsel
+Het afweerstelsel zorgt er voor dat indringers *(zoals virussen, bacteriën, infecties, ...)* ook gekend als **antigenen** gedetecteerd en vernietigd worden.
+
+#### Onderdelen & werking v/h afweerstelsel
+1. Alle cellen *(naast de rode bloedcellen)* zijn capabel om te weten of een cel eigen is aan het lichaam
+2. Indien niet zo zullen antilichamen via enzymen de indringers in stukjes kappen;
+3. Waarna ze worden gevolgd door de T-helper-cellen die bepalen of een cel geïnfecteerd is of niet en deze flagt
+4. De T-cellen zorgen voor een reactie die signaalstoffen produceert om een volle imuunreactie te geven
+5. Hierna komen de B-cellen met hun **immunoglobines** *(= antilichamen)* om de antigenen aan te pakken *(d.m.v. een speciale kopeling te vinden om het virus vast te grijpen)*
+	1. Hierbij worden ook T- en/of B-geheugencellen aangestuurd om op te slaan hoe je de indringer correct moet aanvallen.
+
 
 >[!important] Belang voor de Hulpverlener-Ambulancier
->...
+>Immuunstoornissen zorgen ervoor dat het moeilijk/onmogelijk is om immunoglobines aan te maken. Hierbij moet je extra voorzichtig zijn voor de hygiëne
+
 
 ## De zintuigstelsels
 ---
-
->[!important] Belang voor de Hulpverlener-Ambulancier
->...
-
+Zintuigen zijn het contact naar de buitenwereld van de hersenen
 ### Ogen
+Met je ogen kan je licht opnemen en dit vertalen naar visuele stimuli in je hersenen.
+
+#### De werking v/d ogen
+1. Licht komt binnen via openstaande deel v/d pupil
+2. Wordt gefilterd en opgebroken door de lens v/ het oog
+3. Valt op het retina *(= netvlies)* 
+4. Wordt doorgestuurd naar de hersenen via oogzenuw
+	- Waar de oogzenuw uitmondt ontstaat een blinde plek aangezien daar geen netvlies zit.
+
+
+| Oogwerking *(via https://ingenium.ca/en/learn/science-at-home/finding-your-blind-spot/)* |     |
+| ---------------------------------------------------------------------------------------- | --- |
+| ![[Pasted image 20260914161013.png]]                                                     |     |
+
+#### De onderdelen v/d ogen
+Het oog bestaat:
+- De wenkbrauw: om vuiligheid en vocht uit het oog te houden *(+ nodig om emoties interpreteerbaar te maken)*
+- Ooglid: Verdelen van traanvocht, wegwassen van afvalstoffen, uitsluiten van licht *(de ruitenwassers)*
+- Sclera *(= hard oogrok)*: Het witte weefsel die stevigheid aan het oog biedt
+- Cornea *(= hoornvlies)*: Doorzichtig laagje om licht door te laten
+- Iris *(= regenboogvlies)*: Verstelbaar gekleurd vlies die groter of kleiner kan trekken
+- Pupil: Het zwarte gat waarachter de lens v/h oog bevindt
+- Conjunctiva: De slijmvlieslaag aan de voorkant v/h oog
+
+| Oog *(via boek)*                         |
+| ---------------------------------------- |
+| **![[Pasted image 20260914155621.png]]** |
+>[!important] Belang voor de Hulpverlener-Ambulancier
+> Hersenaandoeningen kunnen voor fysiek zichtbare verschillen in pupilgrootte zorgen. Waardoor je al een eerste teken hebt van een mogelijk neurologisch probleem.
 
 ### Oren
+De oren nemen trillingen en zetten ze om in zenuwsignalen zodat de hersenen ze kunnen interpreteren
 
-### huid
+#### De onderdelen en werking v/h oor
+- Gehoor
+	1. **Oorschelp**: Zorgt voor de geleiding van geluid naar binnen
+	2. **Trommelvlies**: Scheiding tussen buiten en binnen
+	3. **Stijgbeugel + hamer + aanbeeld** *(gehoorsbeentjes)*: Vangen de trillingen van het trommelvlies op
+	4. **Slakkenhuis**: Trillingen worden doorgestuurd naar slakenhuis waarin zenuwcellen zitten die trillingen omzetten in elektrische signalen 
+	5. **Gehoorzenuw**: Transporteert elektrische signalen verder naar de hersenen
+	6. **Buis van eustachius**: Verbinding met keelholte om beide kanten van trommelvlies aan gelijke druk te houden
+- Evenwicht
+	1. **Evenwichtsorgaan**: Drie buisjes in de 3-axisen om plaats op de aardebol te kunnen meten *(soort van waterpas)*
+
+| Onderdelen van oor *(via boek)*      |     |
+| ------------------------------------ | --- |
+| ![[Pasted image 20260914162138.png]] |     |
+
+
+>[!important] Belang voor de Hulpverlener-Ambulancier
+> - Oorpijn na luide geluiden/geluidsgolven kunnen symptomen zijn van een gescheurd trommelvlies
+> - Roos-achtig vocht uit de oren kan wijzen op een schedelbasisbreuk *(bloed + hersenvocht)*
+
+### Huid
+De huid zit vol met zenuwen om te kunnen voelen.
+
+#### De onderdelen v/d huid
+1. De epidermis *(= hoornlaag)*
+	- Zweetklieren en haar: Bescherming tegen warmte/koude
+2. De dermis *(= lederhuid)*
+	- Zenuwband tussen epi- en dermis *(Enorm pijnlijk bij brandwonden)*
+	- Haarspier: Maakt het zodat we kunnen regelen wanneer ons haar recht staat of niet
+	- Talgklieren: Huid hydrateren en ebschermen tegen bacteriën en schimmels
+3. De hypodermis *(= onderhuid)*
+	- Vetkwabben
+	- Haarwortel
+	- Bloedvaten voor haarwortel
+
+De huidcellen worden vanuit de lederhuid naar boven gemaakt, waar ze op de hoornlaag verharden en afvallen *(= dode huid)*
+
+| De huid *(via boek)*                 |     |
+| ------------------------------------ | --- |
+| ![[Pasted image 20260914164710.png]] |     |
+
+
+>[!important] Belang voor de Hulpverlener-Ambulancier
+>De ernst van brandwonden en bijtende stoffen op de huid inschatten door de kennis v/d huidlagen
 
 
