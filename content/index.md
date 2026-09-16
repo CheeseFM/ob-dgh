@@ -9,6 +9,7 @@ Welkom op mijn digitaal leersysteem.
 	- [[De eerste minuten DGH]]: Het stappenplan *(heilige bijbel v/h DGH)* 
 	- [[Anatomie DGH]]: Basis anatomie en fysiologie om een context te hebben rond waarom je bepaalde handelingen doet en waar 
 	- [[Levensbedreigende aandoeningen]]: Alle mogelijke kwalen die te maken hebben met de vitale functies 
+	- [[De gewonde patiënt]]: Handelingen herkennen van trauma's
 - Anki deck #bezig : [[DGH.apkg|DGH Anki Download]]
 	- *(Update soms dus gewoon verwijderen en opnieuw insteken)*
 - Perfecte liedjes voor op te reanimeren *(met dank aan Eva)*: [Spotify 110 BPM Mix](https://open.spotify.com/playlist/37i9dQZF1EIcwHecTFAbsZ?si=26ee3df940fa492e)
