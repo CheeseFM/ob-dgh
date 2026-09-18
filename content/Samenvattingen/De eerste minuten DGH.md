@@ -107,7 +107,7 @@ Zijn er zware bloedingen *(arterieel)*:
 1. Bekijken door gewoon eens te zien naar patiënt - Is er een plas bloed, gutst het bloed er ergens uit? ...
 2. Nek, oksels, lies aantasten om vochtigheid van bloed op te sporen
 
-Indien wel: Direct stelpen *(handelen volgens ==[[O5 Hypovolemische shock bij volwassene]]==)*
+Indien wel: Direct stelpen *(handelen volgens ==[[O05 Hypovolemische shock bij volwassene]]==)*
 Niet?: Verder met beoordeling *(kan nog mogelijk een interne bloeding zijn ook!)*
 
 ### Quick look *(= snelle beoordeling)*

@@ -9,6 +9,11 @@ tags:
 > [HANDBOEK Levensbedreigende aandoeningen](https://drive.google.com/file/d/1295H7xsFqUCtvN7VaQeOATZ3mQXxbdNM/view?usp=drive_link)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
+>[!help] Gebonden praktijklessen
+> - `12/09/2026` - PRAKTIJK levensbedreigende aandoening II *(Als het hart stopt)*
+> - `16/09/2026` - PRAKTIJK CPR (BLS) volwassene, kind en baby
+> - `18/09/2026` - PRAKTIJK de zieke patiënt *(deels aangezien zuurstof en stabiele zijligging)*
+
 >[!note] PDF: /
 
 # Als de ademhaling stopt 
@@ -16,7 +21,11 @@ tags:
 > Zie ook [[Anatomie DGH]]
 
 >[!check] Doelstellingen
-> - [ ] ...
+> - [ ] Begrippen m.b.t. ademhalingsfalen
+> - [ ] Indeling van de oorzaken kennen
+> - [ ] Symptomen kunnen opsommen & herkennen
+> - [ ] Te ondernemen acties in verschillende situaties van ademhalingsfalen kunnen & uitleggen
+> - [ ] Materialen mogelijk nodig bij respiratoir falen herkennen
 
 ## Wat is ademhalingsfalen
 Een persoon kan maar 4 minuten zonder ademhaling vooraleer de eerste hersencellen afsterven. - Er zijn twee gradaties ademhalingsproblemen:
@@ -347,17 +356,183 @@ Alweer toegestaan om te assisteren bij plaatsen door een dokter met als functie 
 | Beveiligd en/of Definitief?    | Beide *(= directe toegang, en er kan niks de luchtweg inlopen bij bv. braken)*                                                                                 |
 
 
-# Shock in het lichaam 
+# Shock & bloedverlies  
 ---
 
 >[!check] Doelstellingen
-> - [ ] ...
+> - [ ] Definitie van shock kennen
+> - [ ] De oorzaken van shock en verschillende soorten shock kunnen opnoemen
+> - [ ] De lichaamsreactie van shock kunnen beschrijvne
+> - [ ] De symptomen van shock kunnen opsommen
+> - [ ] De uit te voeren handelingen bij shock kunnen opnoemen
+> - [ ] De oorzaken van een bloeding kunnen opsommen
+> - [ ] De verschillende soorten bloedingen kunnen benoemen
+> - [ ] De handeling kunnen beschrijven die moeten uitgevoerd worden bij de besproken bloedingen
+> - [ ] De taak van de MUG bij bloedingen verklaren
 
 ## Wat is shock
+**Shock** is een storing in de werking van de bloedsomloop waarbij 
+- **perfusie** *(= doorbloeding waardoor zuurstof uit bloed naar organen gaat)* en;
+- **oxygenatie** *(= toevoegen van zuurstof a/h bloed)*  
+  ... verstoord worden -> ==Er is een onbalans tussen de zuurstofnood en zuurstofaanbod==
 
-## Herkennen en oorzaken van shock 
+Onderdelen die direct toebehoren tot de keten van shock
+- **Het hart** *(= de pomp)*: deel van de perfusie, bij stilvallen wordt er gewoon geen bloed en dus geen zuurstof geleverd aan de organen
+- **De bloedvaten** *(= het reservoir)*: als ze te groot wordt moet de pomp harder werken, en omgekeerd
+- **De longen** *(=de zuurstoftoevoer)*, zonder zuurstof geen werking v/d organen
+
+>[!important]
+>We behandelen in de cursus eigenlijk maar hypovolemisch en anafylactisch
+
+### Soorten shock
+De grote soorten shock kunnen op vier manieren opgedeelt worden:
+- Het reservoir lekt
+	- **[[#Hypovolemische shock & bloedverlies|Hypovolemische shock]]**: Er is ergens een (slag)aderlijke bloeding die ervoor zorgt dat er zodanig veel vloeistofverlies is dat de circulatie *(perfusie, oxygenatie)* niet meer goed kan verlopen
+- De pompt faalt
+	- **Cardiogene shock**: De functie v/h hart wordt door externe factoren zodanig beïnvloedt *(bv. blokkage van de hartslagader waardoor samentrekking moeilijk gaat, of een infectie op de hartspier, ...)* dat het pompen belemmert wordt. ==Slechte of geen circulatie betekent betekent slechte perfusie of oxygenatie.==
+	- **Obstructieve shock**: Er zit ergens een blokkage *bv. een thrombose* die zorgt dat circulatie 
+- **Distributieve shock** *(verzamelnaam)* shock *(= reservoir zet uit)* 
+	- **Sceptische shock**: Bacteriële infecties in de bloedbaan die zorgen voor **vasodilatatie** *(= de bloedvaten zetten zich open)*
+	- **[[#Anafylactische shock]]**: Allergische reactie die zorgt voor vasodilatie en opzwellen van slijmvliezen *(en dus in meeste gevallen beperken van de luchtweg*
+- Verstoring opname van O2 in bloed
+	- **Dissociatieve shock**: Zuurstofopname in bloed gaat moeilijk *(bv. CO-vergiftiging)*
+
+### Fysieke gevolgen voor lichaam
+Lichaam probeert te compenseren op deze aanleidende factoren *(bv. vasodilatie -> hart slaat sneller, sneller ademen)*:
+1. Hart zal sneller gaan pompen
+2. Meestal vasoconstrictie bij huidhaarvaten *(bleke huid)*
+3. Snellere ademhaling *(om meer O2 op te nemen)*
+
+## Herkennen van shock
+De samenhangde symptomen maken het wel duidelijk dat het om een shock haat:
+1. Enorm evolutief *(zal van stabiel afzwakken naar minder en minder)*
+2. Verward, gedesoriënteerd, angstig en gespannen *(niet genoeg zuurstof naar hersenen)*
+3. Koude, klamme zweterige huid met bleek/grauwe/gebloemde verkleuring en cyanoseverschijnselen aan extremiteiten
+4. Oogleden worden enorm bleek *(dit zie je niet bij elke hypotensie, maar is heel duidelijk bij shock)*
+5. Capilaire refill van boven 2-3 seconden *(te checken op voorhoofd of sternum)*
+6. Ademhaling wordt snel en oppervlakkig
+7. Pols versneld en zwak te voelen *(soms zelf niet meer te voelen in ledematen)*
+
+==Ook met **aanleidende factoren** voor shock rekening mee houden== 
+- *(bv. vragen naar allergiën of contact met mogelijke allergenen, visueel aftasten lichaam voor catastrofale bloedingen*
 
 ## Handelingen bij shock
+> Zie [[O05 Hypovolemische schock bij volwassene]]
+
+Afhankelijk van het type shock *(zie [[#Anafylactische shock]] & [[#Hypovolemische shock & bloedverlies]] voor specifieker)* 
+1. Verwittig DIRECT noodcentrale voor aansturen medisch middel *(MUG)*
+2. Wees zelf kalm, blijf praten met de patiënt 
+3. Geef de patiënt zuurstof a.d.h.v. een non-rebreathing masker *(zie standing order -> 10-15l met non-rebreathing masker)*
+4. Houding: Meestal liggend of zittend bij ademhalingsmoeilijkheden of hartproblemen
+5. Behandel de oorzaak vak shock *(bv. catastrofale bloedingen)*
+6. ==Geef GEEN eten of drinken== *(spijsverteringsstelsel wordt tijdelijk uitgeschakeld, persoon kan stikken of braken)*
+7. Blijf observeren en parameteriseren
+
+## Anafylactische shock
+> https://allesoverallergie.nl/pages/anafylaxie
+
+**Anafylactisch**: acute, ernstige en levensbedreigende systemische allergische reactie waarbij het hele lichaam heftig reageert
+
+"Explosieve, ongecontroleerde overgevoeligheidsreactie op allergeen" -> met als gevolg:
+- Bloedvaten verwijden, bloeddruk daalt enorm *(typische shock reactie)*
+- Snel en levensbedreigende ==zwelling van de slijmvliezen== *(heel belangrijk neveneffect van allergische reactie, ==enorm belemmerend op de ademweg!==)*
+
+**Mogelijke oorzaken van anafylactische shock**:
+- Insectenbeten: wespen, bijen, ...
+- Ingenomen producten: vis, kruiden, noten
+- Geneesmiddelen: penicilline, jodium, ...
+- Ingespoten producten: ==antibiotica==
+- Ingeademde stoffen/stoffen in contact met huid: pollen, stofdeeltjes, planten, scheikundige stoffen, ...
+
+### Herkennen van anafylactische shock:
+Alle normale tekenen van shock *(zie hierboven [[Levensbedreigende aandoeningen#Herkennen van shock]])* + Toegevoegde immuunreactie op allergeen:
+- Opzwelling slijvliezen algemeen *(ogen, mond, lippen, tong, ...)*
+- Ademhalingsstoornis *(sneller, moeilijker, luidruchtiger)* ==- d.m.v. opzwellende slijmvliezen in de mond==
+- Jeuk en rode huid
+- Braakneigingen
+
+#### Quincke-oedeem
+Bij een allergische reactie (of in verdere stadia anafylaxis) hebben we soms een aanwezigheid van jeuk. Dit maakt het verschil tussen anafylaxie of quicke-oedeem.
+- **Anafylaxis**: acute, ernstige en levensbedreigende systemische allergische reactie waarbij het hele lichaam heftig reageert ==MET JEUK==
+- **Quincke-oedeem/Angio-oedeem**: Zelfde maar ==ZONDER JEUK==
+
+### Handelen bij anafylactisch shock
+Gelijk met de gewone shock behandeling, maar ter herhaling
+1. Verwittig MUG, praten, rustig blijven, zuurstof geven, houding voor vrije ademweg, voorkom afkoelen en geen drinken/eten
+2. ==Maar bijkomend==: Indien slachtoffer een auto-injector bijheeft, ==laat die toegediend worden door slachtoffer zelf of familie== -> **Heel belangrijk: een HA mag GEEN AUTOINJECTOR toedienen. Tenzij dit met termijn een beoefenbaar staande order wordt.**
+
+>[!warning] **GEEN MAYO**: Je dient schade toe aan de keelholte door proberen insteken -> ==bloeding in de keelholte niet goed!==
+
+## Bloedverlies & Hypovolemische shock
+> https://www.surgeryassistant.nl/artikel.php?actie=17&Anumberid=250&language=NL
+> https://www.youtube.com/watch?v=6CXwbwx_2ug
+
+### Soorten bloedingen
+We maken ten eerste onderscheid tussen inwendige en uitwendige bloedingen:
+1. **Inwendige bloedingen**: Bloeding binnen het lichaam door een bloedvatbreuk veroorzaakt wordt *(kan van zo klein als een oppervlakkige blauwe plek tot een hartaderbreuk)*
+2. **Uitwendige bloedingen**: Bloedingen zichtbaar op de huid of slijmvliezen
+
+Hierin maken we dan nog eens onderscheid in welk type bloedvat *(met grootste onderscheiding de druk aan hoe rap het eruitstroomt bij breuk)*
+
+|               | Slagaderlijke bloeding                      | Aderlijke bloeding                          | Bloeding uit haarvaten                             |
+| ------------- | ------------------------------------------- | ------------------------------------------- | -------------------------------------------------- |
+| Druk          | Hoge druk                                   | Lagere druk                                 | Zeer lage druk                                     |
+| Volumeverlies | Heel snel, ==spuit pulserend uit de wonde== | Stroomt uit de wonde ==aan vaste snelheid== | Lekt traagjes, maar aan vaste snelheid uit haarvat |
+| Kleur         | Helderrood                                  | Donkerder rood                              | Tussen de twee, afhankelijk van plaats/monding     |
+#### Severiteit v/d bloeding
+**Een bloeding ondermijn de circulatie**; en dus de O2 verziening aan de organen -> Kan leiden tot shock! -> Wat is de ernst?
+- Welk type ader er geraakt is *(haarvat v.s. slagader, of gewone slagader v.s. aorta)* -> Zie je a.d.h.v. de kleur v/d bloeding en hoe rap je volume verliest *(zie tabel)*
+- Hoeveelheid bloed is al verloren? *(soms moeilijk om in te schatten)*
+- Hoe rap blijft het volumeverlies aanhouden?
+- Slechte lichaamsparameters *(bv. door hoog volume verloren super lage bloeddruk, trage capilaire refill, tekenen van shock, ...)*
+
+>[!warning] Elke bloeding kan levensbedreigend zijn
+> ==Zeer afhankelijk van factoren van specifieke slachtoffer en situatie==:
+> - Neemt slachtoffer bloedverdunners? / Heeft slachtoffer stollingsproblemen? -> ==Een lager, maar constante bloeding zal op termijn toch nog altijd veel bloedverlies betekenen==
+> - Is slachtoffer kleiner? - *bv. iemand enorm slank, kind of baby* = minder bloedvolume
+> - Heeft slachtoffer respiratoire problemen? *bv. iemand die slechter zuurstofrijk bloed aanmaakt die een bloedvolume verliest zal veel rapper achteruitgaan dan iemand gezond*
+
+### Herkennen van bloedingen
+Natuurlijk kan je uitwendige, duidelijke catastrofale bloedingen bijna direct opmerken, maar ook chronische bloedingen moet je opmerken -> **CIRCULATION**
+1. Check visueel en met de handrug voor bloedingen en duidelijke symptomen *(zou je moeten doen bij de bcQ)*
+	1. Visueel door volledige lichaam af te gaan
+	2. Met handrug ga je de over de nek, oksels, en lies voelen *(over de kleren: latex to skin)*
+	- Indien bloedingen aanwezig zijn ga je over naar [[#Handelen naar bloedingen|behandelen]]
+	- Slachtoffer zal shockachtige symptomen vertonen: klam, bezwete huid, snellere en zwakke hartslag, verward en onrustig + snelle ademhaling
+2. Neem een pols en bloeddruk *(indien mogelijk = geen MILS: een beetje parallel werken, collega tast af, terwijl jij de parameters neemt)*
+3. Tast de plekken met grote aders af a.d.h.v. de BBB methode: Met de handen Buik, Bekken en Bovenbenen -> Voelt hard of opgeblazen? Mogelijke interne bloeding
+4. Neem een capilaire refill *(5 seconden drukken)* -> Boven de 2-3 seconden: lage bloeddruk, vasoconstrictie, ... = soms bloeding *(gecombineerd met andere symptomen)*
+
+### Handelen naar bloedingen 
+Naar mate van de [[#Severiteit v/d bloeding|severiteit]] gaan we handelingen doen. 
+#### Uitwendige bloedingen v/d ledematen
+Laceraties, amputaties of stevige slagaderlijke bloedingen kunnen voor enorm bloedverlies zorgen. We gaan a.d.h.v. de severiteit *(klein naar groot)*
+1. **Rechtstreekse druk & hoogstand indien mogelijk**: voor kleine aderlijke of haarvat bloedingen - *bv. vinger, arm, schaafwonden (let dan wel op voor brandwonden)*
+2. **Druk d.m.v een drukverband**: voor slagaderlijke bloedingen *bv. de pols*
+3. **Extra druk op (druk)verband uitvoeren**: Op duwen, windel errond onder spanning
+4. **Onrechtstreekse druk op bloedvaten d.m.v. knevel**: [[O26 Amputatie, verpletting, vemrinking]] & [[O25 Zwaar trauma en schedeltrauma]]
+
+#### Vreemde uitwendige bloedingen
+Bij speciale gevallen gaan we specifieke andere handelingen doen.
+- **Vreemde voorwerpen**: Laat voorwerp zitten en stabilliseer het zodanig dat het niet beweegt
+- **Epistaxis** *(= neusbloeding)*: Neusvleugel dichtknijpen met hoofd naar voor *(= leeshouding)*, bloed laten uitspuwen, observeer voor veranderingen 
+- **Bloedverlies uit oor**: Mogelijk symptoom van schedelbasisfractuur, maar kan ook van een gesprongen trommelvlies *bv. door luid geluid, explosie, ...*
+- **Bloedverlies uit mond**: Onderscheid is niet makelijk om te maken, controlleer de open ademweg -> ==verwittig MUG==
+
+#### Inwendige bloedingen
+Zijn moeilijk om vast te stellen, maar bij circulatie -> BBB toetasten en daar zal je mogelijk vinden *(+ hypovolemische shock)*
+1. Luister naar verhaal: wat is er gebeurd, waar is de pijn
+2. Wees alert voor shock -> indien toetreedt direct MUG bijschakelen
+3. Correcte houding: stabiele zijliging, halfzittend, ... *(indien NEXUS goed is)*
+4. Toevoeren van O2
+5. Spalken van mogelijke breuken
+6. Geen eten/drinken geven
+7. ==Vervoer snel, maar veilig/comfortabel!==
+
+>[!warning] Ga afhankelijk van de severiteit bijstand medisch middel vragen *(stollingsmedicatie, bloedverdikkers, vloeistof, plasma/bloed, ...)*
+#### Schotwonden
+Bijna niks aan te doen in meeste gevallen, maar betekent niet dat je niet gewoon je stappenplan overloopt en de bloedings stelpt! 
+- ==Kijk altijd of de situatie eerst veilig is, indien MUG niet onderweg vraag direct bij!==
 
 # Als het hart stopt 
 ---
@@ -366,7 +541,7 @@ Alweer toegestaan om te assisteren bij plaatsen door een dokter met als functie 
 >[!check] Doelstellingen
 > - [ ] ...
 
-## Werking van het hart
+## Werking v/h hart
 
 ## Soorten hartritmestoornissen
 
