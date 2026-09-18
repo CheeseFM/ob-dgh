@@ -12,10 +12,9 @@ Welkom op mijn digitaal leersysteem.
 	- [[De gewonde patiënt]]: Handelingen herkennen van trauma's
 - Anki deck #bezig : [[DGH.apkg|DGH Anki Download]]
 	- *(Update soms dus gewoon verwijderen en opnieuw insteken)*
-- Perfecte liedjes voor op te reanimeren *(met dank aan Eva)*: [Spotify 110 BPM Mix](https://open.spotify.com/playlist/37i9dQZF1EIcwHecTFAbsZ?si=26ee3df940fa492e)
+- Perfecte liedjes voor op te reanimeren *(met dank aan Eva)*: [Spotify 110 BPM Mix](https://open.spotify.com/playlist/37i9dQZF1EIcwHecTFAbsZ?si=26ee3df940fa492e) of voor specifiek de mijne: 
 
->[!warning] Dit is écht een heel bare-bones versie. 
->Later wordt deze site uitgebreid om handiger te zijn - Bekijk het nu enkel als een samenvatting raadpleeg site
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5lQDL8tvkU96M1EmUkJunN?utm_source=generator&theme=0&si=03e541de00b742e4" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Status van nota
 Bij deze nota's/samenvattingen horen de onderstaande statussen van volledigheid

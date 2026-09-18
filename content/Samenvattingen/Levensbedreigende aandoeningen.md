@@ -150,7 +150,7 @@ Te meten met een zuurstofsaturatiemeter *(zie [[P03 Gebruik van de zuurstofsatur
 
 ## Handelen bij respiratoir falen 
 
-### Vrijmaken van de ademweg
+### Actief manueel vrijmaken van de ademweg
 >Afbeeldingen via https://testbook.com/question-answer/airway-maneuver-to-open-airway-recommended-in-trau--619cffd0b022ce36cd5b4831
 
 | Kinlift *(gemakkelijker voor REA)*   | Kaakduw *(bij MILS of trauma)*       |
@@ -165,6 +165,8 @@ Zelf bij niet respiratoir slachtoffer zullen we de ademweg altijd open houden *(
 - **Ruglig** *(met mechanisch/manueel opengehouden ademweg)*: Bewusteloze patiënt met dyspneu -> apnue waarbij REA nodig is/kan zijn
 
 ### Toedienen van zuurstof
+> Bijlagen via slides
+
 We gaan zuurstof toedienen bij patiënten met: ademhalingsproblemen, hartaanval, beroerte, shock, grote bloedingen en CO-vergiftiging  *(zie [[P04 Toedienen van zuurstof]])*
 - Zuurstoffles heeft een witte kraag en de letter M *(= medicinaal)*
 
@@ -206,14 +208,13 @@ Wanneer er vloeistoffen of brokken in de luchtweg zit moet dit weggehaald worden
 
 ### Vrijmaken bij een verstikking
 Bij verstikking is er een vast stramien v/ slagen toedienen ==op dezelfde schouderhoogte v/d patiënt==:
-1. Aansporen tot hoesten *(adem uit = adem in)*
+1. **Aansporen tot hoesten** *(adem uit = adem in, dus nog ademhaling)*
 2. ==5x opwaartste rugslagen==: voet tussen benen, hand tussen oksel en op borstkas, slagen omhoog op de rug
-3. Maag duwen:
+3. Middenrifbeweging kunstmatig nabootsen:
 	1. Volwassene ==5x buikstoot==: Zoeken v/ maag, vuist vormen & omhoog
 	2. Bij baby ==5x borstcompressies==: Maag is nog te teder
 
 Indien voorwerp zichtbaar: **vingerveeg techniek** *(van links -> rechts uit de mond vegen)*
-
 
 #### REA na syncope bij verstikking *(/vermoeden van hypoxie)*
 Indien de patiënt te lang zonder lucht zit zal men moeten overgaan naar een REA. 
@@ -233,23 +234,118 @@ Indien de patiënt te lang zonder lucht zit zal men moeten overgaan naar een REA
 > - Kinderen & baby's *(80% +/- kans van ademhalingsproblemen dan het falen van een gezond/jong hart)*
 >  ... zullen we altijd starten met 5 startbeademingen. ==Meestal werkt dit wel en moeten we dus geen verdere hartmassage doen==
 
-### Mond op mond van een slachtoffer
-Wanneer er geen hulpmiddelen zijn EN je beoordeelt het voor jezelf als veilig om mond-op-mond te beademen kan je dit
-### Volwassene
+### Volwassene beademen
+Zonder hulpmiddelen
 - **Mond-op-mond**: Plaats je mond over het mond van het slachtoffer en knijp de neus toe. *(niet mogelijk bij persoon met permanente kunstmatige luchtweg -> er zit een obstructie!)*
 - **Mond-op-neus**: Indien de mond beschadigd is, er iets zit dat je sluiting belemmert *(kunstgebit, voorwerp bij trauma, ...)* kan je over de neus gaan ademen net zoals de mond. Hier moet je ook de mond dichtdoen
 - **Mond-op-hals**: Voor personen met een *(permanente)* kunstmatige luchtweg
 
-### Baby's / kinderen
-- **Mond-op-mond+neus**: Eerst beginnen met 5 startbeademingen en dan controleren op teken van leven - Neus moet je ook bedekken met mond indien mogelijk, anders dichtknijpen.
+#### Met de ballon
+Een volwassen persoon heeft meestal geen 5-startbeademingen nodig. *(tenzij verstikking, verdrinking -> Hypoxie)*: 
+1. Als eerste ambulancier *(Ambulancier A)* zal je dan direct beginnen hartmassage geven. 
+2. Is je collega er niet op tijd met het beademingsmasker zullen we dan ook ==niet wachten op het masker, je blijft gewoon doorpompen==.
 
-### Kunstmatig openhouden v/d luchtweg en beademen
-**TODO:**
-- [ ] Mayocanule 
-	- [ ] melden dat bij REA v/ baby sowieso mayo wordt gestoken
-	- [ ] melden dat bij loskomen 
-- [ ] ETT
-- [ ] Supraglotische
+**No-flow**: Periode van geen circulatie *(bv. stoppen pompen om te beademen)* -> ==We proberen dit te beperken tot een minimum als grote regel, naast natuurlijk het aanleggen van de AED==
+
+>[!note]
+>Bij hypoxie *(je krijgt dit mee van de noodcentrale)* neemt de eerste ambulancier altijd een ballon mee en zullen we dus ook 5 startbeademingen geven. Dit gebeurt dan net zoals de baby met de [[#Met Hulpmiddelen|CE-greep]]
+
+### Baby's / kinderen beademen
+- Zonder hulpmiddelen:
+	- **Mond-op-mond+neus**: Eerst beginnen met 5 startbeademingen en dan controleren op teken van leven - Neus moet je ook bedekken met mond indien mogelijk, anders dichtknijpen.
+- Met de ballon
+	- We zullen de ballon direct meenemen om de ==5 startbeademingen te geven==. Daarna geven we per ==15 hartmassages 2 beademingen==
+
+>[!warning] Enorm belangrijk op het examen
+>Geef je de startbeademingen niet ben je praktisch sowieso gebuisd. Je kan indien je dit tijdig meldt opnieuw starten mocht het nodig zijn - Zelfde met oproepen medisch middel vooraleer de REA begint *(woorden van de lector)*
+
+### Technieken voor beademing
+Om goed te kunnen beademen moet je de ballon goed vasthebben en ook ver genoeg indrukken, maar niet te ver, ook moet het hoofd correct liggen voor een vrije luchtweg.
+
+#### Positie v/h hoofd voor een vrije luchtweg
+De positie hangt af van leeftijd/gevorderdheid van de groei v/h lichaam
+- **Neutrale positie** *(neus naar plafond)*: ==Voor baby's/zuigelingen== aangezien de luchtpijp enorm fragiel is en dicht is bij beide overstrekken en rustpositie 
+- **Lichte extensie v/h hoofd** *(kin lichtjes naar plafond)*: ==Voor kinderen==
+- **Hyperextensie v/h hoofd** *(kin naar plafond)*: Voor volwassenen of kinderen/tieners t.v.w.v adolescentie 
+
+#### Correct vasthouden v/d ballon
+> Bijlagen via slides
+
+|             | CE-greep                                                                                                                                 | 2-duim-omcirkel-techniek *(thaler techniek)*                                                                                                                                                       |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|             | ![[Pasted image 20260918102917.png]]                                                                                                     | ![[Pasted image 20260918102927.png]]                                                                                                                                                               |
+| Wanneer     | Je bent alleen als hulpverlener                                                                                                          | Je bent minstens met twee hulpverleners                                                                                                                                                            |
+| Meestal bij | 5 startbeademingen baby/kind/vermoeden hypoxie                                                                                           | Gevorderderde REA setting waar taken verdeeld zijn                                                                                                                                                 |
+| Hoe         | 1. Duim + wijsvinger rond kleine ring v/ masker *(in een C-vorm)*<br>2. Met andere vrije hand ga je duwen op de ballon *(in een E-vorm)* | 1. Scharnier het masker met het neusgedeelte op de neusbrug naar beneden over de mond<br>2. Plaats je duimen langs beide zijden van het masker<br>3. Houd met de rest van je vingers de kin omhoog |
+
+>[!info] Plaatsing ballon bij 2 hulpverleners
+> - Laat bij een volwassene de ballon hangen langs de kant van de hulpverlener die de hartmassage uitvoert. *(dit maakt het rapper, en gemakkelijker voor hun om die in te drukken)*
+> - Bij een baby of kind ligt het niet zo stabiel door de grootte v/d ballon t.o.v. het masker: Laat het masker op je vooram rusten *(mogelijk dat hij loskomt als hij blijft naar beneden hangen)* 
+
+
+#### Luchtvolume duwen via de ballon
+
+| Baby/kind                                                                                                                                                  | Volwassene                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Heel klein duwtje, tot de thorax omhoog gaat en dan loslaten tot thorax weer daalt, dan aps herhalen *(gelijkaardig aan mond-op-mond volume, klein pufje)* | 1/3 - 1/2 van het ballonvolume, licht knijpen tot thorax volledig stijgt en daalt, dan pas herhalen |
+| Speciale kenmerk bij ballonen voor zuigelingen/sommige kinderballonen: ze hebben een overdrukventiel                                                       |                                                                                                     |
+**Let erop dat**:
+1. ==Borstkas voldoende omhoog gaat==/longen goed worden gevult
+2. ==Borstkas volledig weer daalt== voor je opnieuw lucht erin duwt
+- **In een REA setting**: Je dit niet doet tot het werkt, en limiteert tot aantal beademingen, niet aantal gelukte *(2 moeten geven, geen enkel gelukt -> direct doordoen met hartmassage)* - Dit om je no-flow tijd te beperken. ==Zonder circulatie, geen doorstroom van O2, hoeveel je er ook maar zuurstof in duwt==
+- **In een assistieve setting** *(= hart klopt nog voldoende voor circulatie, maar patiënt kan zelf niet ademhalen, meestal bij aandoeningen a/d longen)*: 12/minuut -> 1 keer om de 5 seconden
+
+### Passief kunstmatig openhouden v/d luchtweg 
+Om de handen vrij te houden *(passief)* of bij problemen met de luchtweg kunnen we die kunstmatig gaan openhouden. 
+- Hier zijn verschillende gradaties in ... *(zie volgende)*
+
+#### De stabiele zijligging
+Positie waarin de luchtweg door de zwaartekracht open wordt gehouden. Toegestaan als hulpverlener ambulancier ==mits voorwaarden==. 
+
+|                                | Stabiele zijligging/linker stabiele zijligging                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Wat                            | Het positioneren van de persoon op hun zijkant                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Wanneer                        | Bij een bewusteloos persoon zonder vermoeden van wervelletsel die geen verdere vitale problemen heeft *(neurologisch, circulatie, ...)* - *bv. een hitte-syncope of hypoglycemie* ==mits dat je natuurlijk alle nodige handelingen kan verrichten==                                                                                                                                                                                                                                                                                                                                                                      |
+| Doelpubliek                    | Bewusteloze personen                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Hoe                            | 1. Ga aan de linkerzijde van het slachtoffer zitten<br>2. Verplaats de arm dichts bij je in een rechte hoek ten opzichte van het lichaam<br>3. Plaats de andere arm *(verst van je weg, anatomisch rechts van slachtoffer)* in een hoek met de handpalm op de linkerwang ==en houdt deze vast==<br>4. Trek de rechterknie omhoog zodat voet plat staat op de grond<br>5. Gebruik beide de arm en de knie om het slachtoffer te rollen op hun linkerzijde<br>6. Eens op hun zijde, plaats de knie in 90° zodat slachtoffer stabiel ligt<br>7. Maak de luchtweg vrij van mogelijke obstructies en controleer de ademhaling |
+| Uitzonderingen/aandachtspunten | Alvorens vermeldt -> voldoet aan geslagen NEXUS criteria en heeft geen reden om op rug te liggen *(bv. hartstilstand -> reanimatie)*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Beveiligd en/of Definitief?    | Geen van beide                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+
+#### De mayocanule
+Toegestaan om aan te leggen als ambulancier, met als enige functie de verslapte spieren *(met name de tong)* uit de weg te houden.
+
+|                                | Mayo                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wat                            | Een buisje die direct naar het begin van de keelholte leidt                                                                                                                                                                                                                                                                                                                                                                               |
+| Wanneer                        | Openhouden van luchtweg via kinlift/jawthrust moeilijk gaat of in de weg zit van andere verzorgingen                                                                                                                                                                                                                                                                                                                                      |
+| Doelpubliek                    | Bewusteloze personen meestal zonder autonome ademhaling en hartpompfunctie, maar ==verplicht bij baby's==                                                                                                                                                                                                                                                                                                                                 |
+| Hoe                            | Zie [[P06 Plaatsen van een mayocanule]]<br><br>1. Meten door naast de kaak te houden -> Snijtanden tot kaakhoek<br>2. Inbrengen met buiging naar boven tegen gehemelte in scheppende beweging <br>3. Draaien zodat hij achter de tong komt te zitten <br><br>OF met tongspatel tong naar beneden houden en in één beweging naar binnen                                                                                                    |
+| Uitzonderingen/aandachtspunten | 1. ==Bij baby's *(met dus )zacht gehemelte)* werken wa ALTIJD met de tongspatel== en nooit door om te draaien *(schade)*<br>2. Mayocanule zal lucht in de maag duwen, op termijn ZAL de persoon braken -> ==Aspiratiepneumonie==<br>3. Een persoon die niet diep bewusteloos is zal de mayo-canule er onbewust uitduwen/er is meer kans op braken -> ==plak de canule NIET, NOOIT vast== *(tijd om over te gaan naar een andere methode)* |
+| Beveiligd en/of Definitief?    | Geen van beide                                                                                                                                                                                                                                                                                                                                                                                                                            |
+#### De supraglotische tube
+Toegestaan om te assisteren bij het plaatsen door een dokter/verpleegkundige *(met speciale beroepstitel spoed en intensieve zorgen)* met als functie om een directe verbinding naar de luchtweg te leggen.
+
+|                                | Supraglotische                                                                                                                                                                    |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wat                            | Een buisje die direct naar de luchtweg boven de stembanden *(supra = boven, glottis = stembanden)*                                                                                |
+| Wanneer                        | De MUG/PIT wilt overgaan naar een betere toegang tot de luchtweg                                                                                                                  |
+| Doelpubliek                    | Bewusteloze personen meestal zonder autonome ademhaling en hartpompfunctie                                                                                                        |
+| Hoe                            | Wordt uitgevoerd door personeel v/ medisch middel, assisterende handelingen te vinden in procedure: [[P10 Hulp bij plaatsen van een supraglottische luchtweg bij een volwassene]] |
+| Uitzonderingen/aandachtspunten | Fixatie is meestal wel noodzakelijk                                                                                                                                               |
+| Beveiligd en/of Definitief?    | Enkel definitief *(= je hebt directe toegang tot de luchtweg, dus niks gaat naar de maag)*                                                                                        |
+
+#### De endotracheale tube
+Alweer toegestaan om te assisteren bij plaatsen door een dokter met als functie om een directe en beveiligde verbinding tot in de luchtweg te hebben.
+
+|                                | Endotracheale                                                                                                                                                  |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wat                            | Een buisje die rechtstreeks in de luchtweg zit *(endo = in, trachea = luchtpijp)*                                                                              |
+| Wanneer                        | De MUG/PIT wilt overgaan naar een volledig beveiligde toegang                                                                                                  |
+| Doelpubliek                    | Bewusteloze personen meestal zonder autonome ademhaling en hartpompfunctie                                                                                     |
+| Hoe                            | Wordt uitgevoerd door personeel v/ medisch middel, assisterende handelingen te vinden in procedure: [[P09 Hulp bij plaatsen van een endotrachaele tube (ETT)]] |
+| Uitzonderingen/aandachtspunten | Tube fixeren is van groot belang *(kan anders beginnen slippen en de beveiligde luchtweg comprimeren)*                                                         |
+| Beveiligd en/of Definitief?    | Beide *(= directe toegang, en er kan niks de luchtweg inlopen bij bv. braken)*                                                                                 |
+
 
 # Shock in het lichaam 
 ---
@@ -281,5 +377,6 @@ Wanneer er geen hulpmiddelen zijn EN je beoordeelt het voor jezelf als veilig om
 ### Reanimatie v/e volwassene
 
 ### Reanimatie v/e kind
+- [ ] Melden dat een kind v/ 1j -> adolescentie is, waarbij niet alleen de manier van reanimeren verandert maar ook de frequentie 
 
 ### Reanimatie v/e baby
