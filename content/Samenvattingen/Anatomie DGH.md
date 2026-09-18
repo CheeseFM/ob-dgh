@@ -256,6 +256,7 @@ Bloedsomlopen:
 - **De grote bloedsomloop** *(= transport zuurstofrijk bloed naar lichaam - en zuurstofarm bloed terug)*: Linkerkamer → Aorta (lichaamsslagader) → Organen en Weefsels → Holle aders → Rechtervoorkamer
 
 #### Werking v/h hart
+Het hart is een autonome holle spier.
 
 >[!warning] Anatomisch links & rechts
 
@@ -277,6 +278,19 @@ Stappenplan *(volgt niet de nummers van de bovenstaande bijlage als stappen, maa
 	- Dit gebeurt via de vierde en laatste hartklep, de **Aorta-klep** (8)
 
 De 4 hartkleppen staan in voor: een-richtingsverkeer in de hartspier. We willen niet dat er terugvloei mogelijk is
+
+#### Prikkelgeleidsingssysteem
+> Bijlage uit het boek
+
+| Werking prikkegeleidingssysteem *(via boek)* |
+| -------------------------------------------- |
+| ![[Pasted image 20260918210648.png]]         |
+Er regeren twee zenuwknopen over het samentrekken van de hartspier:
+- **SA-knoop** *(= Sinus knoop)*: Voorkamer samentrekken
+- **VA-knoop** *(= Ventrikel-Atrium knoop)*: Trekt kamer samen 
+
+Als de SA-knoop samenspant krijgt de VA knoop ook signaal om samen te trekken kort erna.
+
 #### Samenstelling v/h bloed
 Volwassen persoon heeft ==5- 6 liter== bloed *(7% van lichaamsgewicht ongeveer)* dit bestaat uit:
 - **Plasma**: eiwitten voor stolling, afweer, transport, ...

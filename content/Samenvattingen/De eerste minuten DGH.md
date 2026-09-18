@@ -121,6 +121,10 @@ Als een patiënt aanspreekbaar is is dit al direct gedaan *(ademhaling is aanwez
 ## Verdere beoordeling van patiënt
 ---
 De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten we verdere levensbedreigende factoren uitsluiten door dieper op de vitale, neurologische en exogene omstandigheden in te gaan. Hierbij hoort ook comfort bieden aan de patiënt *(psychosociaal, immobiliserend of medicinaal met bijstand mug)* en omgeving *(partner, familie, omstaanders)*.
+
+>[!warning] Het ABCDE+ schema ken je van voor en vannachteren. Het is je leidraad voor alles
+>Benoemen van de stappen zal op het examen bewijzen dat je het goed kent.
+
 ### A. Airway *(= luchtweg)*
 1. **Blokrol** [[P34 Draaien van de patiënt- Blokroltechniek]]
 2. Stabilisatie CWZ a.d.h.v. **MILS** [[P Manuele immobilisatie van het hoofd in neutral positie (MILS)]] bij vermoeden van cervicaal wervelletselr
@@ -136,6 +140,7 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 	- **Intubatie** *(enkel door MUG)*: [[P09 Hulp bij plaatsen van een endotrachaele tube (ETT)]]
 	- **Supraglottische luchtweg** *(enkel door MUG)*: [[P10 Hulp bij plaatsen van een supraglottische luchtweg bij een volwassene]]
 
+>[!warning] Spierverlamming bij bewusteloosheid zorgt voor het naar achteren vallen v/d tong in de keelholte en dus een obstructie v/d luchtweg
 
 ### B. Breathing *(= ademhalen)*
 1. Controle ademhaling: Eerste evaluatie ademhaling op basis van direct zichtbare ademhalingsfactoren *(kijken, luisteren & voelen)* [[O14 Acute respiratoire insufficiënte bij volwassene]] of [[O15 Acute respiratoire insufficiëntie bij kind]]

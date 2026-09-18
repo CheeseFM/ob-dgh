@@ -162,9 +162,10 @@ Te meten met een zuurstofsaturatiemeter *(zie [[P03 Gebruik van de zuurstofsatur
 ### Actief manueel vrijmaken van de ademweg
 >Afbeeldingen via https://testbook.com/question-answer/airway-maneuver-to-open-airway-recommended-in-trau--619cffd0b022ce36cd5b4831
 
-| Kinlift *(gemakkelijker voor REA)*   | Kaakduw *(bij MILS of trauma)*       |
-| ------------------------------------ | ------------------------------------ |
-| ![[Pasted image 20260916170340.png]] | ![[Pasted image 20260916170332.png]] |
+| Kinlift *(gemakkelijker voor REA)*                  | Kaakduw *(bij MILS of trauma)*       |
+| --------------------------------------------------- | ------------------------------------ |
+| ![[Pasted image 20260916170340.png]]                | ![[Pasted image 20260916170332.png]] |
+| "Aanhaken van de kin met het hand op het voorhoofd" |                                      |
 
 ### Houding v/d patiënt
 Zelf bij niet respiratoir slachtoffer zullen we de ademweg altijd open houden *(zie [[De eerste minuten DGH#A. Airway *(= luchtweg)*|Airway]])* 
@@ -279,6 +280,8 @@ De positie hangt af van leeftijd/gevorderdheid van de groei v/h lichaam
 
 #### Correct vasthouden v/d ballon
 > Bijlagen via slides
+
+==Rek het masker voor plaatsen op het gezicht lichtjes uit zodat je een goeie sluiting hebt==
 
 |             | CE-greep                                                                                                                                 | 2-duim-omcirkel-techniek *(thaler techniek)*                                                                                                                                                       |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -541,17 +544,194 @@ Bijna niks aan te doen in meeste gevallen, maar betekent niet dat je niet gewoon
 >[!check] Doelstellingen
 > - [ ] ...
 
+Het hart is na problemen met de hersenen de grootste doodoorzaak. 
+- De reden van hartstilstand is meestal **ventrikeltachycardie** *(= te snelle werking van de hartkamers)* die dan overgaat in fibrillatie *(spier trekt zo rap samen dat er geen pompfunctie gebeurt)* -> Waarna **asystolie** *(volledig ophoudt van hartactiviteit)* kan toeslaan
+
+>[!warning] Reanimatie wordt ALTIJD gestart
+>Een HA heeft niet de nodige expertise om te beslissen tussen leven en dood. Hierbij wordt dus ook altijd een MUG-arts bijgeroepen. 
+
+Er zijn enkel uitzonderingen voor wanneer *(directe citaten uit ERC 2021)*:
+1. De veiligheid van de hulpverlener niet kan worden verzekerd
+2. Er een evident dodelijk letsel of onomkeerbaar overlijden is *(bv. lijkstijgheid, onthoofding enorm ernstige verbranding/onderkoeling tot bevriezing, ...)*
+3. Er een geldige en wettelijke wilsverklaring beschikbaar is. Bij wachten tot arts/MUG aanwezig is.
+
+
 ## Werking v/h hart
+Herhaling werking van het hart 
+
+![[Anatomie DGH#Werking v/h hart]]
+
+**Samengevat**: 
+- Anatomisch rechts v/h hart pompt zuurstofarmbloed binnen en naar de longen
+- Anatomisch links v/h hart pompt zuurstofrijk bloed naar het lichaam
+
+### Kleine & grote bloedsomloop
+
+![[Anatomie DGH#Onderdelen v/h hart- en bloedvatenstelsel]]
+
+### Prikkelgeleidingssysteem
+
+![[Anatomie DGH#Prikkelgeleidsingssysteem]]
+
+### ECG en hartmonitor
+**De ECG/EKG** *(= Elektrocardiogram)*: Is een weergave van de elektrische activiteit v/h hart -> Ze wordt gemeten door een harmonitor
+
+#### Aanleggen van een hartmonitor
+Een monitor in Belgenland heeft meestal vier snoeren. *(zie positie op bijlage)*
+
+| Correcte positie 4-leads *(via slides)* |
+| --------------------------------------- |
+| ![[Pasted image 20260918215559.png]]    |
 
 ## Soorten hartritmestoornissen
+> Bijlagen via slides
 
-## Gebruik v/d AED & Monitor
+Hartritmestoornissen kunnen door veel redenen optreden, waaronder het **hartinfarct** *(= een blokkage van de kransslagader)* 
 
-## Reanimatie + AED
+|              | Asystolie                                     | PEA                                                                                                 | Ventrikeltachycardie *(= VT)*                                                                                                   | Ventrikelfibrillatie *(= VF)*                                                                                                |
+| ------------ | --------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Bijlage      | ![[Pasted image 20260918221245.png]]          | ![[Pasted image 20260918221301.png]]                                                                | ![[Pasted image 20260918221308.png]]                                                                                            | ![[Pasted image 20260918221315.png]]                                                                                         |
+| Beschrijving | Een volledige afscheiding van hartactiviteit. | *(= polsloze elektrische activiteit)* Meestal perfect sinusritme zonder samentrekking van hartspier | Versnelde hartslag in de hartkamers door snelle elektrische stimulatie. *(kan overgaan in ventrikelfibrillatie)*                | Er is geen gecoordineerde functies, hartspieren trekken willekeurig samen op basis van rare prikkels. Hartspier gaat trillen |
+| AED?         | Niet schokbaar, totaal geen elektrische       | Niet schokbaar, elektrische signalen kloppen, hartspieren trekken gewoon niet samen                 | Schokbaar, is een rappe hartslag die met de grote reset *(een schok toedienen)* terug naar een trager ritme kan gedreven worden | Schokbaar! - Zal 'defribulleren' *(D in AED)* en terugkeren naar normaal ritme                                               |
 
+## Gebruik v/d AED
+> Bijlagen via slides
+ 
+**AED** *(= Automatische Externe Defibrillator)*: een toestel dat zelfstandig het hartritme analyseert en ==enkel een schok toelaat bij een schokbaar ritme== *(VT & VF, zie [[#Soorten hartritmestoornissen]])*. Een schok **start het hart niet op**, maar legt alle elektrische activiteit even volledig stil *(= de grote reset)* zodat de sinusknoop terug de leiding kan nemen.
+- Te vinden op *(openbare)* plaatsen waar veel mensen samenkomen: sporthal, luchthaven, station, grote bedrijven, ...
+- Basisreanimatie 30:2 alleen is ==zelden genoeg== om de circulatie terug op gang te brengen -> ==het aanleggen v/d AED binnen de 4 minuten verhoogt de overlevingskans==
+**Overlevingskans bij een hartstilstand** *(cijfers ERC 2016)*:
+ 
+| Enkel ambulance | Reanimatie + ambulance | Defibrillatie door omstaanders | Reanimatie + defibrillatie door omstaanders |
+| --------------- | ---------------------- | ------------------------------ | ------------------------------------------- |
+| 10%             | 20%                    | 50%                            | 70% *(1ste schok tussen 0 en 5 min)*        |
+ 
+### Plaatsing v/d elektroden
+Basisregel: ==het hart moet altijd tussen de twee elektroden zitten==, zo loopt de stroom er dwars doorheen.
+ 
+|          | Volwassene & (groter) kind                                                                                                                                                    | Baby / klein kind                                                                                            |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| Positie  | **Anterolateraal**: rechterelektrode net onder het rechtersleutelbeen, linkerelektrode ==een handbreedte onder de oksel== *(midaxillaire lijn = de apicale/laterale elektrode)* | **Anteroposterieur**: één elektrode midden op de borstkas, één midden op de rug tussen de schouderbladen       |
+| Toestel  | Vanaf 8 jaar het standaard AED-toestel                                                                                                                                        | 0 tot 8 jaar met **pediatrische stroomverzwakker/pads** - ==niet beschikbaar? gebruik gewoon de standaard AED== |
+ 
+### Aandachtspunten bij het kleven
+ 
+| Situatie                          | Wat doen                                                                                                                           |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Beharing                          | Scheren/wegtrekken op de kleefplaatsen *(slechte sluiting = slechte geleiding + brandwonden)* - meestal zit er een mesje in de set |
+| Pacemaker/ICD *(bultje o/d huid)* | Elektrode ==enkele centimeters ernaast== kleven, nooit erover                                                                      |
+| Medicatiepleister                 | Verwijderen en de huid afvegen/drogen *(kan vlam vatten en houdt de stroom tegen)*                                                 |
+| Port-a-cath                       | Zelfde als pacemaker: ernaast kleven                                                                                               |
+| Tepel/tepelhof                    | Niet over de tepel kleven, elektrode iets lager/opzij plaatsen                                                                     |
+| Natte thorax                      | Borstkas droogwrijven + slachtoffer uit de plas water halen *(water geleidt de stroom over de huid weg v/h hart)*                  |
+| Metalen ondergrond                | Slachtoffer verplaatsen of het contact onderbreken                                                                                 |
+ 
+### Werken met het toestel
+1. AED ==zonder tijdverlies== aanzetten en de gesproken instructies volgen
+2. Elektroden kleven en de kabel aansluiten *(collega pompt door)*
+3. **Analyse**: ==niemand raakt het slachtoffer aan==, ook niet via de brancard/het bed
+4. **Schok aanbevolen**:
+	1. Luid verwittigen én ==visueel controleren== dat iedereen weg is *(min. 10 cm afstand)*
+	2. Op de shockknop drukken *(bij een volautomatisch toestel gebeurt dit vanzelf)*
+	3. ==Onmiddellijk terug CPR 30:2 starten na de schok== - niet eerst controleren op teken van leven
+5. **Geen schok aanbevolen**: direct verder met CPR en de instructies v/h toestel volgen
+6. Het toestel analyseert standaard om de 2 minuten *(= 5 cycli)* -> ideaal moment om van hulpverlener te wisselen
+
+>[!warning] Zuurstof & de AED
+>Zuurstof is een explosief gas: neem bij de analyse en de schok altijd het masker/de ballon weg v/d patiënt en richt dit weg v/h toestel *(min. 1 m, zie [[#Toedienen van zuurstof]])*
+ 
+## Reanimatie + AED en ballon
+> Zie [[#Handelen bij respiratoir falen]] voor het beademen zelf *(hoofdpositie, CE-greep, thalertechniek, volume)*
+ 
+**De keten van overleving**: ==een ketting is zo sterk als de zwakste schakel== ...
+1. Omstaander *(herkennen + starten CPR)* 
+2. Noodcentrale *(middelen sturen + telefonische CPR)* 
+3. Eerste hulpverleners *(kwaliteitsvolle CPR + defibrillatie)* 
+4. Ambulance & MUG *(gespecialiseerde zorg)* 
+5. Ziekenhuis *(post-reanimatiezorg)*
+ 
+### Benadering van het slachtoffer
+Volledig correcte benadering 
+1. **Veiligheid** *(= 3S-methode)*: jezelf, het slachtoffer en de omstaanders
+2. **bcQ**: luid aanspreken + zachtjes aan de schouders schudden ==zonder pijnprikkel== -> geen antwoord = feedback naar collega *(bewusteloos slachtoffer)* -> Bijvragen mug
+3. **REA protocol**: 
+
+| REA volwassene *(via cursus)*      | REA kind/baby *(via cursus)* |
+| ---------------------------------- | ---------------------------- |
+| ![[O20 reanimatie volwassene.png]] | ![[O21 reanimatie kind.png]] |
+
+
+>[!warning] Enorm belangrijk op het examen
+>MUG bijvragen vóór de REA start én de startbeademingen bij kind/baby/hypoxie zijn eliminerende punten *(zie ook [[#Baby's / kinderen beademen]])*
+ 
+### Kwaliteit v/d borstcompressies
+- Kniel naast het slachtoffer, dat ==op een harde, vlakke ondergrond== ligt
+- Hiel van je hand in het midden v/d borstkas *(= onderste helft v/h borstbeen)*, andere hand erbovenop
+- Vingers raken de thorax niet *(enkel de hiel v/d hand duwt -> anders ribfracturen)*
+- Armen gestrekt, schouders loodrecht boven het borstbeen, druk vanuit je romp *(niet vanuit je armen = vermoeidheid)*
+- ==Handen worden tussen de compressies niet verplaatst==
+- Borstkas ==volledig laten terugkomen== zonder de handen op te heffen
+
+| Parameter        | Volwassene                                            | Kind *(1 jaar -> adolescentie)*                            | Baby *(< 1 jaar)*                                                 |
+| ---------------- | ----------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------- |
+| Startbeademingen | Geen *(tenzij hypoxie: verdrinking/verstikking -> 5)* | 5                                                          | 5                                                                 |
+| Verhouding       | 30/2                                                  | 15/2                                                       | 15/2                                                              |
+| Handen           | 2 handen, hiel op hiel                                | 1 handmethode *(2 handen mag bij een groot kind)*          | 2-duim-omcirkeltechniek *(thalermethode)* = voorkeurstechniek HVA |
+| Plaats           | Midden borstkas                                       | Midden borstkas                                            | Onderste helft v/h borstbeen                                      |
+| Diepte           | 5 cm, ==max. 6 cm==                                   | 1/3 v/d thorax *(+/- 5 cm)*                                | 1/3 v/d thorax *(+/- 4 cm)*                                       |
+| Frequentie       | 100 - 120/min                                         | 100 - 120/min                                              | 100 - 120/min                                                     |
+| Hoofdpositie     | Hyperextensie                                         | Lichte extensie                                            | Neutrale positie                                                  |
+| AED              | Standaard toestel                                     | 0-8j ==pediatrische stroomverzwakker==, vanaf 8j standaard | Pediatrisch, **anteroposterieur**                                 |
+ 
+>[!note] Onderbreek de reanimatie niet, tenzij
+> - De *(MUG-)*arts vraagt te stoppen
+> - **Het slachtoffer geeft teken van leven**: bewegen, ogen openen, normale ademhaling
+> - Bij meerdere hulpverleners: ==wissel om de 2 minuten== *(vermoeidheid = minder diepe compressies)* -> gebeurt standaard tijdens de analyse v/d AED, met zo weinig mogelijk tijdverlies *(zie [[#Met de ballon|no-flow]])*
+ 
 ### Reanimatie v/e volwassene
 
-### Reanimatie v/e kind
-- [ ] Melden dat een kind v/ 1j -> adolescentie is, waarbij niet alleen de manier van reanimeren verandert maar ook de frequentie 
+> [!important] Startbeademingen *(voor de 10 duizendste keer ...)*
+> Geen startbeademingen, ==tenzij vermoeden van hypoxie== *(verdrinking -> 5 initiële beademingen, geen teken van leven -> 30/2)*
+ 
+**Taakverdeling in een setting met 2 hulpverleners** *(zoals op het praktijkexamen)*:
+ 
+| REA volwassene *(via cursus)*      |
+| ---------------------------------- |
+| ![[O20 reanimatie volwassene.png]] |
+ 
+- Beademen gebeurt met de ==vierhandentechniek== zodra je met twee bent *(één houdt masker + kinlift, de ander knijpt de ballon)*
+- ==Wacht nooit op het masker==: is je collega nog niet klaar, dan pomp je gewoon door
 
+### Reanimatie v/e kind
+
+> [!note] Richtlijnen
+> ERC 2021: reanimatie v/h kind omvat ==ieder kind van 0 t.e.m. 18 jaar==. Slachtoffers die er als een volwassene uitzien, mogen als volwassene behandeld worden.
+ 
+Een **kind** = vanaf 1 jaar tot de adolescentie/het fysiek uitzicht van een volwassene. Niet enkel de techniek verandert t.o.v. de volwassene, maar ook de verhouding *(15/2)* en de manier van starten.
+- In +/- 80% v/d gevallen ligt de oorzaak bij een **respiratoir** probleem en niet bij het hart -> daarom altijd eerst 5 startbeademingen
+1. **bcQ**: luid aanspreken + zachtjes de schouders aanraken -> feedback naar collega
+2. **Airway**: hand op het voorhoofd, met 2 vingers de kin omhoog liften *(lichte extensie)*
+3. **Controle ademhaling**: kijken/luisteren/voelen 10 sec
+4. 5 initiële beademingen met de ballon: rustig, 1 sec inblazen, thorax terug laten dalen -> overweeg een mayocanule *(zie [[P06 Plaatsen van een mayocanule]])*
+5. Feedback MUG *(ten laatste hier bijvragen!)*
+6. Geen teken van leven -> **15/2** met de ==1 handmethode==:
+	- Midden v/d borstkas, ==vingers omhoog v/d borstkas houden== *(enkel de hiel v/d hand raakt het borstbeen)*
+	- Thorax 1/3 indrukken *(+/- 5 cm)* en ==volledig laten terugveren==
+	- Frequentie 100 - 120/min
+7. **AED**: 0 tot 8 jaar met pediatrische stroomverzwakker/pads, ==indien niet beschikbaar gewoon de standaard AED==, vanaf 8 jaar standaard toestel
 ### Reanimatie v/e baby
+Baby/zuigeling = ==< 1 jaar==. Een pasgeborene *("natte baby")* zit in de module spoedbevalling.
+ 
+1. **bcQ**: luid aanspreken + zachtjes de schouders aanraken -> ==nooit schudden==, geen pijnprikkel
+2. Baby ==op een harde ondergrond== leggen, hoofd in ==neutrale positie== *(neus naar plafond)* - kinlift zonder extensie
+3. Visuele controle v/d mond op een vreemd voorwerp ==(niet blind vegen)==
+4. **Controle ademhaling**: 10 sec
+5. ==5 initiële beademingen== met ballon + masker over ==mond én neus==: klein pufje tot de thorax stijgt, terug laten dalen
+	- Alleen -> CE-greep | met twee -> 2-duim-omcirkeltechniek *(thaler)* *(zie [[#Correct vasthouden v/d ballon]])*
+	- Mayocanule is bij baby's verplicht en wordt ALTIJD met de tongspatel geplaatst *(zie [[P06 Plaatsen van een mayocanule]])*
+6. Feedback MUG *(ten laatste hier bijvragen!)* -> no-flow time beperken: onmiddellijk starten met de compressies
+7. **Compressies** met de 2-duim-omcirkeltechniek *(voorkeurstechniek HVA)*:
+	- Plaatsing op de onderste helft v/h borstbeen, vingers omcirkelen de thorax
+	- Diepte 1/3 v/d anteroposterieure doormeter *(+/- 4 cm)*, volledig laten terugveren na elke compressie
+	- Frequentie 100 - 120/min -> verhouding **15/2**
+8. **AED**: ==pediatrische pads/stroomverzwakker==, anteroposterieur kleven *(borst + rug)* - collega installeert het toestel terwijl jij doorpompt

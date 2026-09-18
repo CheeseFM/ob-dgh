@@ -12,6 +12,9 @@ tags:
 > [!check] Doelstellingen
 > Voeg doelstellingen in
 
+>[!help] Gebonden praktijklessen
+> - `xx/xx/xxxx` - PRAKTIJK ...
+
 >[!note] PDF: [[pdf link]]
 
 # Uitleg wat hoofdstuk doet
