@@ -1,6 +1,7 @@
 ---
 tags:
   - afgerond
+  - "#stappenplan"
 aliases:
 ---
 📅 Aangemaakt: 07-09-2026

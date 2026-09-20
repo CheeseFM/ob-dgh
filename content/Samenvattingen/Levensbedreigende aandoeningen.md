@@ -1,6 +1,9 @@
 ---
 tags:
-  - bezig
+  - "#airway"
+  - "#breathing"
+  - "#circulation"
+  - afgerond
 ---
 📅 Aangemaakt: 11-09-2026
 
@@ -12,9 +15,11 @@ tags:
 >[!help] Gebonden praktijklessen
 > - `12/09/2026` - PRAKTIJK levensbedreigende aandoening II *(Als het hart stopt)*
 > - `16/09/2026` - PRAKTIJK CPR (BLS) volwassene, kind en baby
-> - `18/09/2026` - PRAKTIJK de zieke patiënt *(deels aangezien zuurstof en stabiele zijligging)*
+> - `19/09/2026` - PRAKTIJK de zieke patiënt *(deels aangezien zuurstof en stabiele zijligging)*
 
->[!note] PDF: /
+>[!note] PDF: [[Levensbedreigende aandoeningen.pdf]]
+
+# Toelichten van soorten falen v/d vitale functies, hoe ze je erkent, wat de oorzaken zijn en welke handelingen je kan uitvoeren. 
 
 # Als de ademhaling stopt 
 ---
