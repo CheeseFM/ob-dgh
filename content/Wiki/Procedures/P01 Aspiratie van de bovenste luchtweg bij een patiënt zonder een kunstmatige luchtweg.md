@@ -7,8 +7,7 @@ bron: Procedures t.b.v. de hulpverlener-ambulancier 112, editie 2023
 ---
 
 # P01 Aspiratie van de bovenste luchtweg bij een patiënt zonder een kunstmatige luchtweg
-
-KUNSTMATIGE LUCHTWEG
+[[P02 Aspiratie van de luchtweg bij een patiënt met een kunstmatige luchtweg - endotracheale tube (ETT) of supraglottische luchtweg| -> Voor bij kunstmatige luchtweg]]
 
 ## Materialen
 
