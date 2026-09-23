@@ -11,7 +11,6 @@ bron: Procedures t.b.v. de hulpverlener-ambulancier 112, editie 2023
 ## Materialen
 
 **Noodzakelijk materiaal**
-
 - automatische bloeddrukmeter
 - ontsmettingsmiddel voor materialen
 - kompressen

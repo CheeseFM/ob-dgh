@@ -4,7 +4,7 @@ title: Thuispagina
 
 Welkom op mijn digitaal leersysteem.
 - Lesnota's vind je [hier](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=drive_link)
-- Wiki-formaat van [[Wiki]]
+- Wiki-formaat van staande orders & procedures: [[Wiki]]
 - Samenvattingen hier:
 	- [[Wetgeving DGH]]: Alles rond wat een Hulpverlener-Ambulancier mag en niet mag 
 	- [[De eerste minuten DGH]]: Het stappenplan *(heilige bijbel v/h DGH)* 
