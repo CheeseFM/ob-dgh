@@ -219,7 +219,7 @@ $$
 
 ### Aspireren v/d bovenste luchtweg
 Wanneer er vloeistoffen of brokken in de luchtweg zit moet dit weggehaald worden.
-- Zie [[P01 Aspiratie van de bovenste luchtweg bij een patiënt zonder een kunstmatige luchtweg]] of [[P02 Aspiratie van de luchtweg bij een patiënt met een kunstmatige luchtweg - endotrachaele tube (ETT) of supgraglottische luchtweg]]
+- Zie [[P01 Aspiratie van de bovenste luchtweg bij een patiënt zonder een kunstmatige luchtweg]] of [[P02 Aspiratie van de luchtweg bij een patiënt met een kunstmatige luchtweg - endotracheale tube (ETT) of supraglottische luchtweg]]
 
 ### Vrijmaken bij een verstikking
 Bij verstikking is er een vast stramien v/ slagen toedienen ==op dezelfde schouderhoogte v/d patiënt==:
@@ -342,26 +342,26 @@ Toegestaan om aan te leggen als ambulancier, met als enige functie de verslapte 
 #### De supraglotische tube
 Toegestaan om te assisteren bij het plaatsen door een dokter/verpleegkundige *(met speciale beroepstitel spoed en intensieve zorgen)* met als functie om een directe verbinding naar de luchtweg te leggen.
 
-|                                | Supraglotische                                                                                                                                                                    |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Wat                            | Een buisje die direct naar de luchtweg boven de stembanden *(supra = boven, glottis = stembanden)*                                                                                |
-| Wanneer                        | De MUG/PIT wilt overgaan naar een betere toegang tot de luchtweg                                                                                                                  |
-| Doelpubliek                    | Bewusteloze personen meestal zonder autonome ademhaling en hartpompfunctie                                                                                                        |
-| Hoe                            | Wordt uitgevoerd door personeel v/ medisch middel, assisterende handelingen te vinden in procedure: [[P10 Hulp bij plaatsen van een supraglottische luchtweg bij een volwassene]] |
-| Uitzonderingen/aandachtspunten | Fixatie is meestal wel noodzakelijk                                                                                                                                               |
-| Beveiligd en/of Definitief?    | Enkel definitief *(= je hebt directe toegang tot de luchtweg, dus niks gaat naar de maag)*                                                                                        |
+|                                | Supraglotische                                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Wat                            | Een buisje die direct naar de luchtweg boven de stembanden *(supra = boven, glottis = stembanden)*                                                                                    |
+| Wanneer                        | De MUG/PIT wilt overgaan naar een betere toegang tot de luchtweg                                                                                                                      |
+| Doelpubliek                    | Bewusteloze personen meestal zonder autonome ademhaling en hartpompfunctie                                                                                                            |
+| Hoe                            | Wordt uitgevoerd door personeel v/ medisch middel, assisterende handelingen te vinden in procedure: [[P10 Hulp bij het plaatsen van een supraglottische luchtweg bij een volwassene]] |
+| Uitzonderingen/aandachtspunten | Fixatie is meestal wel noodzakelijk                                                                                                                                                   |
+| Beveiligd en/of Definitief?    | Enkel definitief *(= je hebt directe toegang tot de luchtweg, dus niks gaat naar de maag)*                                                                                            |
 
 #### De endotracheale tube
 Alweer toegestaan om te assisteren bij plaatsen door een dokter met als functie om een directe en beveiligde verbinding tot in de luchtweg te hebben.
 
-|                                | Endotracheale                                                                                                                                                  |
-| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Wat                            | Een buisje die rechtstreeks in de luchtweg zit *(endo = in, trachea = luchtpijp)*                                                                              |
-| Wanneer                        | De MUG/PIT wilt overgaan naar een volledig beveiligde toegang                                                                                                  |
-| Doelpubliek                    | Bewusteloze personen meestal zonder autonome ademhaling en hartpompfunctie                                                                                     |
-| Hoe                            | Wordt uitgevoerd door personeel v/ medisch middel, assisterende handelingen te vinden in procedure: [[P09 Hulp bij plaatsen van een endotrachaele tube (ETT)]] |
-| Uitzonderingen/aandachtspunten | Tube fixeren is van groot belang *(kan anders beginnen slippen en de beveiligde luchtweg comprimeren)*                                                         |
-| Beveiligd en/of Definitief?    | Beide *(= directe toegang, en er kan niks de luchtweg inlopen bij bv. braken)*                                                                                 |
+|                                | Endotracheale                                                                                                                                                      |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Wat                            | Een buisje die rechtstreeks in de luchtweg zit *(endo = in, trachea = luchtpijp)*                                                                                  |
+| Wanneer                        | De MUG/PIT wilt overgaan naar een volledig beveiligde toegang                                                                                                      |
+| Doelpubliek                    | Bewusteloze personen meestal zonder autonome ademhaling en hartpompfunctie                                                                                         |
+| Hoe                            | Wordt uitgevoerd door personeel v/ medisch middel, assisterende handelingen te vinden in procedure: [[P09 Hulp bij het plaatsen van een endotracheale tube (ETT)]] |
+| Uitzonderingen/aandachtspunten | Tube fixeren is van groot belang *(kan anders beginnen slippen en de beveiligde luchtweg comprimeren)*                                                             |
+| Beveiligd en/of Definitief?    | Beide *(= directe toegang, en er kan niks de luchtweg inlopen bij bv. braken)*                                                                                     |
 
 
 # Shock & bloedverlies  
@@ -425,7 +425,7 @@ De samenhangde symptomen maken het wel duidelijk dat het om een shock haat:
 - *(bv. vragen naar allergiën of contact met mogelijke allergenen, visueel aftasten lichaam voor catastrofale bloedingen*
 
 ## Handelingen bij shock
-> Zie [[O05 Hypovolemische schock bij volwassene]]
+> Zie [[O05 Hypovolemische shock bij volwassene]]
 
 Afhankelijk van het type shock *(zie [[#Anafylactische shock]] & [[#Hypovolemische shock & bloedverlies]] voor specifieker)* 
 1. Verwittig DIRECT noodcentrale voor aansturen medisch middel *(MUG)*
@@ -518,7 +518,7 @@ Laceraties, amputaties of stevige slagaderlijke bloedingen kunnen voor enorm blo
 1. **Rechtstreekse druk & hoogstand indien mogelijk**: voor kleine aderlijke of haarvat bloedingen - *bv. vinger, arm, schaafwonden (let dan wel op voor brandwonden)*
 2. **Druk d.m.v een drukverband**: voor slagaderlijke bloedingen *bv. de pols*
 3. **Extra druk op (druk)verband uitvoeren**: Op duwen, windel errond onder spanning
-4. **Onrechtstreekse druk op bloedvaten d.m.v. knevel**: [[O26 Amputatie, verpletting, vemrinking]] & [[O25 Zwaar trauma en schedeltrauma]]
+4. **Onrechtstreekse druk op bloedvaten d.m.v. knevel**: [[O26 Amputatie, verplettering, verminking]] & [[O25 Zwaar trauma en schedeltrauma]]
 
 #### Vreemde uitwendige bloedingen
 Bij speciale gevallen gaan we specifieke andere handelingen doen.

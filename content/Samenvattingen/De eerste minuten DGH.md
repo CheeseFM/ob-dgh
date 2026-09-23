@@ -101,7 +101,7 @@ De eerste beoordeling beperkt zich tot de minimale vitale parameters: is de pati
 ### Bewustzijn
 Is de patiënt bewust: Checken door lichtjes met schouders te schudden en aan te spreken *("Meneer/Mevrouw kunt u mij horen? Wat is er gebeurd?)*
 - Indien wel: Verder met de eerste beoordeling en indien positief naar verdere beoordeling.
-- Niet?: Verder met de beoordeling, terwijl bijvragen medisch middel & luchtwegenmanagement *(handelen volgens ==[[O13 Verminderde bewustzijnstoestand]]==)* 
+- Niet?: Verder met de beoordeling, terwijl bijvragen medisch middel & luchtwegenmanagement *(handelen volgens ==[[O13 Verminderde bewustzijnstoestand (somnolent - stuporeus - comateus)]]==)* 
 
 ### Catastrofale bloedingen
 Zijn er zware bloedingen *(arterieel)*: 
@@ -114,7 +114,7 @@ Niet?: Verder met beoordeling *(kan nog mogelijk een interne bloeding zijn ook!)
 ### Quick look *(= snelle beoordeling)*
 Overloop enkel het ABC en kijk of de vitale parameters oké zijn.
 - **Airway**: Is de luchtweg vrij *(bv. van secretie, brokken, slechte positie, patiënt ligt op buik ...)* 
-- **Breathing**: Ademt de patiënt - Kijken, luisteren, voelen: ==Geen adem (10 sec) = geen hartslag = direct beginnen hastmassage *([[O20 - 23 CPR bij volwassene/kind]])* ==
+- **Breathing**: Ademt de patiënt - Kijken, luisteren, voelen: ==Geen adem (10 sec) = geen hartslag = direct beginnen hastmassage *([[O20 CPR bij volwassene]]])* ==
 - **Circulation**: Heeft de patiënt een regelmatige patiënt polsslag 
 
 Als een patiënt aanspreekbaar is is dit al direct gedaan *(ademhaling is aanwezig, er is een hartslag en slachtoffer is bewust)* bij een bewusteloze patiënt zal je verder moeten kijken.
@@ -127,24 +127,24 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 >Benoemen van de stappen zal op het examen bewijzen dat je het goed kent.
 
 ### A. Airway *(= luchtweg)*
-1. **Blokrol** [[P34 Draaien van de patiënt- Blokroltechniek]]
-2. Stabilisatie CWZ a.d.h.v. **MILS** [[P Manuele immobilisatie van het hoofd in neutral positie (MILS)]] bij vermoeden van cervicaal wervelletselr
+1. **Blokrol** [[P34 Draaien van de patiënt - blokroltechniek (2 hulpverleners)]]
+2. Stabilisatie CWZ a.d.h.v. **MILS** [[P40 Manuele immobilisatie van het hoofd in neutrale positie (MILS)]] bij vermoeden van cervicaal wervelletselr
 	- ==Je laat de patiënt niet los tot ze vitaal stabiel is en je a.d.h.v. *bv. headblocks, vacuummatras, rugplank, schep, ...* het slachtoffer volledig vast ligt met wervelzuil in één rechte lijn==
-3. Verwijderen v/d valhelm [[P42 Verwijderen van een integraal valhelm]]
+3. Verwijderen v/d valhelm [[P42 Verwijderen van een integraal valhelm (2 hulpverleners)]]
 4. Mondholte en luchtweg vrijmaken
 	- **Kinlift** / **jaw thrust**: Openen luchtweg
-	- **Aspiratie** [[P01 Aspiratie van de bovenste luchtweg bij een patiënt zonder een kunstmatige luchtweg]] of [[P02 Aspiratie van de luchtweg bij een patiënt met een kunstmatige luchtweg - endotrachaele tube (ETT) of supgraglottische luchtweg]]
+	- **Aspiratie** [[P01 Aspiratie van de bovenste luchtweg bij een patiënt zonder een kunstmatige luchtweg]] of [[P02 Aspiratie van de luchtweg bij een patiënt met een kunstmatige luchtweg - endotracheale tube (ETT) of supraglottische luchtweg]]
 	- Vrijmaken bij verstikking: [[P08 Vrijmaken van de luchtweg bij verstikking]]
 5. Inspecteren v/d ademweg
 6. Overweeg hulpmiddelen: 
 	- **Mayocanule** [[P06 Plaatsen van een mayocanule]]
-	- **Intubatie** *(enkel door MUG)*: [[P09 Hulp bij plaatsen van een endotrachaele tube (ETT)]]
-	- **Supraglottische luchtweg** *(enkel door MUG)*: [[P10 Hulp bij plaatsen van een supraglottische luchtweg bij een volwassene]]
+	- **Intubatie** *(enkel door MUG)*: [[P09 Hulp bij het plaatsen van een endotracheale tube (ETT)]]
+	- **Supraglottische luchtweg** *(enkel door MUG)*: [[P10 Hulp bij het plaatsen van een supraglottische luchtweg bij een volwassene]]
 
 >[!warning] Spierverlamming bij bewusteloosheid zorgt voor het naar achteren vallen v/d tong in de keelholte en dus een obstructie v/d luchtweg
 
 ### B. Breathing *(= ademhalen)*
-1. Controle ademhaling: Eerste evaluatie ademhaling op basis van direct zichtbare ademhalingsfactoren *(kijken, luisteren & voelen)* [[O14 Acute respiratoire insufficiënte bij volwassene]] of [[O15 Acute respiratoire insufficiëntie bij kind]]
+1. Controle ademhaling: Eerste evaluatie ademhaling op basis van direct zichtbare ademhalingsfactoren *(kijken, luisteren & voelen)* [[O14 Acute respiratoire insufficiëntie bij volwassene]] of [[O15 Acute respiratoire insufficiëntie bij kind]]
 	- Diepte: *bv. Ondiep of heel diep ademhalen is een teken v/ bemoeilijkt ademhalingsstelsel*
 	- **Cyanosevertoning** *(= Blauwverkleuring)*: aan extremiteiten geven eerste teken van onvoldoende zuurstofwisseling *(lippen, tong, mond)* of hypothermie *(vingertoppen, nagelbedden en tenen)*
 	- Ademhalingsgeluiden: 
@@ -182,7 +182,7 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 ### C. Circulation *(= bloedsomloop)*
 1. Controle hartslag [[O28 Ritmestoornissen]] of [[O24 Pijn op de borst - acuut coronair syndroom]]
 	1. Waar?
-		- Aan de enkel [[P Meten van de hartslag ter hoogte van de enkel]]
+		- Aan de enkel [[P51 Meten van de hartslag ter hoogte van de enkel]]
 		- Aan de hals [[P16 Meten van de hartslag ter hoogte van de halsslagader]] - Indien enkel goed voelbaar in de hals meestal hypotens *(= lage bloeddruk)*
 		- Aan de pols [[P15 Meten van de hartslag ter hoogte van de polsslagader]] 
 		- Bij baby's: aan de bicep *(tussen oksel en elleboog)*
@@ -197,7 +197,7 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 3. **Bloeddruk**: 
 	- Voorzorg: Vraag of patiënt gekend is met hoge/lage bloeddruk, vragen naar mogelijk medicatie en of ze hier een lijst van hebben
 	- Meet de bloeddruk met een automatische bloeddrukmeter *==([[P12 Bloeddrukmeting met een automatische bloeddrukmeter]])==* of manuele *==([[P13 Bloeddrukmeting met een manuele bloeddrukmeter]])==*
-4. Tekens van *(hypovolemische)* schock? [[O05 Hypovolemische schock bij volwassene]]
+4. Tekens van *(hypovolemische)* schock? [[O05 Hypovolemische shock bij volwassene]]
 	- Bleke klamme huid *(enkel v/ toepassing bij iemand die net geen inspanning heeft gedaan natuurlijk)*
 	- **Capilaire refill** (max 2s): Duwen op het voorhoofd/borstkas
 	- **B**uik **B**ekken **B**ovenbenen bekijken voor *(al dan niet intern)* bloedverlies
@@ -227,7 +227,7 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 
 ### D. **Disabillity** *(= neurlogische gebrekken)*
 1. Pupillen check - **PEARL** *(= Pupils Equal And Reactive to Light, puppilen isocoor en reagerend op licht)*
-2. WAPA/GCS *(= Bewustzijnstoestand bepalen)* [[O13 Verminderde bewustzijnstoestand]]
+2. WAPA/GCS *(= Bewustzijnstoestand bepalen)* [[O13 Verminderde bewustzijnstoestand (somnolent - stuporeus - comateus)]]
 	1. **WAPA**:
 		- **Wakker**: Patiënt kent eigen naam, weet wat er gebeurt is, kent de dag van de week, weet waar ze zijn *(= Bewust)*
 		- **Aanspreekbaar**: Slachtoffer lijkt bewusteloos maar reageert op verbale prikkels/aanspreking *(= Somnolent)*
@@ -270,9 +270,9 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 
 ### E. **Exposure** *(= blootstelling)*
 1. Temperatuur: 
-	- Tympaan *(= oor)* [[P17 Meten van de lichaamstemperatuur met een digitale oorthermometer]]
-	- Axillair *(= oksel)* [[P18 Meten van de lichaamstemperatuur in de oksel met een digitale thermometer]]
-	- Sublinguaal, oraal *(= onder de tong)* [[P19 Meten van de lichaamstemperatuur onder de tong met een digitale thermometer]]
+	- Tympaan *(= oor)* [[P17 Meten van de lichaamstemperatuur met een digitale oorthermometer (tympaan)]]
+	- Axillair *(= oksel)* [[P18 Meten van de lichaamstemperatuur in de oksel met een digitale thermometer (axillair)]]
+	- Sublinguaal, oraal *(= onder de tong)* [[P19 Meten van de lichaamstemperatuur onder de tong met een digitale thermometer (sublinguaal, oraal)]]
 	- Rectaal *(= in de poep)* [[P20 Meten van de rectale lichaamstemperatuur bij een kind met een digitale thermometer]]
 2. Visuele hoofd-tot-teen controle op letsels: Normaal heb je dit onbewust al gedaan, indien sterk gekleed probeer ook onder de lagen te kijken.
 3. Pijnscore
@@ -340,8 +340,8 @@ Aftasten van alle delen van het lichaam beide visueel als fysiek met de handen. 
 
 ### I. **Immobilisation** *(= Immobiliseren)*
 1. Niet-farmacologische pijnbestrijding 
-	- We gaan mogelijke niet-levensbedreigende pijnzenders *(bv. breuken of ontwrichtingen a/d ledematen)* **spalken** om onnodige beweging te vermijden. [[P46 Aanleggen van een vacuümspalk]] [[P37 Conditionering van de patiënt met vacuümmatras]] [[P36 De patiënt op een schepbrancard tillen-immobiliseren]]
-2. Centrale wervelzuil fixeren voor transport [[P Procedure plaatsen van headblocks na MILS]]
+	- We gaan mogelijke niet-levensbedreigende pijnzenders *(bv. breuken of ontwrichtingen a/d ledematen)* **spalken** om onnodige beweging te vermijden. [[P46 Aanleggen van een vacuümspalk (2 hulpverleners)]] [[P37 Conditionering van de patiënt met vacuümmatras]] [[P36 De patiënt op een schepbrancard tillen - immobiliseren]]
+2. Centrale wervelzuil fixeren voor transport [[P40 Manuele immobilisatie van het hoofd in neutrale positie (MILS)]]
 
 ## Spinale immobilisatie *(na trauma)*
 ---
