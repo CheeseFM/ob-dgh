@@ -18,23 +18,23 @@ tags:
 > - [x] De gevolgen van een slag, het principe van kinetische energie en het effect op het lichaam.
 > - [x] Het verband tussen een ongeval en de mogelijke verwondingen.
 > - [x] Het begrip gouden uur en de rol van het gouden uur na een trauma.
-> - [ ] De verschillende soorten borstkasletsels.
-> - [ ] De tekenen/symptomen/klachten die van belang zijn bij het beoordelen van een borstkasletsel.
-> - [ ] De handelingen die moeten uitgevoerd worden bij verwondingen van de thorax.
-> - [ ] De verschillende soorten buikletsels.
-> - [ ] De tekenen/symptomen/klachten die van belang zijn bij het beoordelen van een buikletsel.
-> - [ ] De handelingen die moeten uitgevoerd worden bij abdominale verwondingen.
-> - [ ] De mogelijke verwondingen aan het urogenitale stelsel.
-> - [ ] De ernst van verwondingen aan het hoofd of wervelkolom.
-> - [ ] De verschillende soorten schedelletsels.
-> - [ ] De verschillende soorten hersenletsel.
-> - [ ] De methoden voor het beoordelen van het bewustzijn.
-> - [ ] De WAPA evaluatiemethode.
-> - [ ] De Glasgow Coma Schaal.
-> - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met een hoofdtrauma.
-> - [ ] De verschillende soorten aangezichtsletsels.
-> - [ ] De methoden voor het beoordelen van een aangezichtstrauma.
-> - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met letsels van het aangezicht of hals.
+> - [x] De verschillende soorten borstkasletsels.
+> - [x] De tekenen/symptomen/klachten die van belang zijn bij het beoordelen van een borstkasletsel.
+> - [x] De handelingen die moeten uitgevoerd worden bij verwondingen van de thorax.
+> - [x] De verschillende soorten buikletsels.
+> - [x] De tekenen/symptomen/klachten die van belang zijn bij het beoordelen van een buikletsel.
+> - [x] De handelingen die moeten uitgevoerd worden bij abdominale verwondingen.
+> - [x] De mogelijke verwondingen aan het urogenitale stelsel.
+> - [x] De ernst van verwondingen aan het hoofd of wervelkolom.
+> - [x] De verschillende soorten schedelletsels.
+> - [x] De verschillende soorten hersenletsel.
+> - [x] De methoden voor het beoordelen van het bewustzijn.
+> - [x] De WAPA evaluatiemethode.
+> - [x] De Glasgow Coma Schaal.
+> - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met een hoofdtrauma.
+> - [x] De verschillende soorten aangezichtsletsels.
+> - [x] De methoden voor het beoordelen van een aangezichtstrauma.
+> - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met letsels van het aangezicht of hals.
 > - [ ] De oorzaken van een wervelzuilletsel.
 > - [ ] De methoden voor het beoordelen van een wervelzuilletsel.
 > - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met een wervelzuilletsel.
@@ -56,7 +56,8 @@ tags:
 > - [ ] De handelingen die moeten uitgevoerd worden bij skeletletsels van de benen.
 
 >[!help] Gebonden praktijklessen
-> - `26/09/2026` - PRAKTIJK de gewonde patiënt
+> - `26/09/2026` - PRAKTIJK de gewonde patiënt: verbanden - standaard immobilisatie - vacuümmatras/vacuümspalk
+> 
 
 >[!note] PDF: /
 
@@ -268,20 +269,150 @@ Allerlei soorten trauma's inwerkend open/gesloten op de thoracale regio *(borst)
 | Slechte parameters? Check of verband nog goed is     | Parameter en observeer voor shock                  | MUG bijroepen indien mogelijk                           |
 | ![[Pasted image 20260923165452.png]]<br>             |                                                    |                                                         |
 
-
 ## Abdominale traumata
 ---
+Alle trauma m.b.t. het spijsverterings- en urogenitaal stelsel + de grote bloedvaten die in de buikregio lopen -> ==Weinig tot geen bescherming van rechstreekste trauma==
+- **Gesloten wonden**: Stomp of val - Kan banaal zijn, maar ook enorm ernstig aangezien daar grote bloedvaten lopen *(roodverkleuring)*
+- **Open wonden**: Direct opvallend, zichtbare verwonding of penetrerend voorwerp die er nog zit, ...
 
+### Behandeling v/ abdominale trauma
+Specifieke handelingen bij een *(veruitwendigend trauma)* v/d darmen:
+- ==NOOIT eten of drinken== 
+- Stelp bloedingen -> Leg steriele doeken over opening in huid naar buikholte
+- Indien ingewanden eruitliggen:
+	- Plastiekverband over darmen
+	- Niet aanraken of terugduwen
+	- Bedekken met steriel verband, waar alvorens gereinigd wordt door fysiologisch water
+	- Penetrerende voorwerpen fixeren
+	- Benen niet bewegen
+	- Op brancard leggen in houding waarin patiënt oorspronkelijk ligt *(ander kunnen darmen als een slag eruitrollen)*
 
+>[!warning] Geen aluminiumfolie op! Reageert met darmsappen en vormt giftstof
+
+### Handelingen bij trauma v/ urogenitaal stelsel
+1. Betrekkende tot: Blaas, nieren, geslachtsorganen en alles ertussen *(ook baarmoeder!)*
+2. Symptomen: Pijn aan zijde, lenden of onderbuik
+3. Aandachtspunten: ==Zeer vaag en moeilijk herkenbaar, zeer sterke doorbloeding!== - Meestal gesloten wonden
+
+## Schedel en hersenen
+---
+> [[O25 Zwaar trauma en schedeltrauma]]
+
+Schedel en hersenletsels kunnen zichtbaar of onzichtbaar zijn *(maar wel opmerkbaar door ons benaderingsschema, gewijzigde bewustzijnstoestand)*. 
+- ==Schedeltrauma *(met meestal verwondingen aan aangezicht)* -> bijna altijd hersentrauma==
+
+### Soorten schedelletsels
+Bij elk hersenletsel, voortkomende uit een schedelletsel zal er een gedaald bewustzijn waarneembaar zijn in [[De eerste minuten DGH#D. **Disabillity** *(= neurlogische gebrekken)*|stap D van het benaderingsschema]].
+- **Gesloten schedelbreuk**: ==Uitwendig is er weinig zichtbaar== - mogelijks buil, beschadigde huid of voelbare vervormingen in het schedeldak.
+- **Open schedelbreuk**: Duidelijk opengebarsten, met zichtbaar hersenweefsel 
+- **Schotwonden**: In + uitgangswond, per definitie een open schedelbreuk *(meestal niks meer aan te doen)*
+
+#### Schedelbasisfractuur
+> https://www.kinderneurologie.eu/ziektebeelden/ongeval/schedelbasisbreuk en via slides
+
+Een breuk in de basis v/h schedel *(meestal met oorzaak een hoogenergetisch trauma -> harde val, verkeerstrauma, stomp voorwerp tegen aangezicht)...*
+
+| Beschrijving                         | Bijlage                              |
+| ------------------------------------ | ------------------------------------ |
+| Brilhematoom                         | ![[Pasted image 20261003213629.png]] |
+| Bloed en vochtverlies uit oren       | ![[Pasted image 20261003213606.png]] |
+| Bloeduitstorting achter trommelvlies | ![[Pasted image 20261003213650.png]] |
+### Soorten hersenletsels
+**Commotio** *(= hersenschudding)*: Ook gekend als de 'lichte hersenschudding'. 
+- Oorzaken: *Val op hoofd van kleine/middelgrote hoogte (bv. fiets), ergens tegen lopen, zware klap tegen gezicht bij gevecht, ...*
+- Gevolgen: ==Kortstondig bewustzijnsverlies== *(constant dezelfde vraag -> Wat is er gebeurt? - om de minuut)*, Geheugenverlies - Geen permanente schade, door de klap functioneren de hersencellen even minder goed. Hierdoor ook het geheugenverlies 
+
+**Contusio** *(= hersenkneuzing)*: Kneuzing van de hersenen *(vb. een coup/-contre-coup letsel)*
+- Gevolgen: Langdurig bewustzijnsverlies *(+/- 15 minuten)*, daarna gedaald bewutszijn - onomkeerbare schade van afgescheurde neuronen/slecht doorbloede neuronen *(bij afsterven komt een giftige stof vrij die verdere schade kan aanrichten)*
+
+>[!info] Het vaststellen van een contusio <-> commotio wordt gedaan in het ziekenhuis
+
+### **Hersenbloedingen**
+> Bijlage via slides
+
+Lozen van bloed boven of tussen de hersenvliezen, of zelf in de hersenen. -> ==Niet enkel slecht door bloedverlies, maar bouwt een enorme druk op in gesloten schedelholte.==
+
+| Soorten hersenletsels leidende tot een hersenbloeding *(via slides)* |
+| -------------------------------------------------------------------- |
+| ![[Pasted image 20261003220617.png]]                                 |
+#### De hersenvliezen
+> Bijlage via https://neurologie.slingeland.nl/hersenvliesontsteking-1
+
+| Benamingen                                                                                                                                                                               | Bijlage *(via Slingeland Ziekenhuis)* |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 1. **Duramater**: Bovenste/Harde hersenvlies<br>2. **Arachnoidea/Agondaal**: Spinnenwebvlies *(hiertussen zit het hersenvocht)<br>3. **Piamater**: Zachte hersenvlies net boven hersenen | ![[Pasted image 20261003224356.png]]  |
+
+#### Soorten hersenbloedingen
+> Bijlagen via boek, slides & [Hart+Vaat Centrum](https://hartenvaatcentrum.mumc.nl/aandoeningen/subarachnoidale-bloeding-sab)
+
+De soorten hersenbloedingen baseren zich per locatie in de schedelholte. 
+
+| **Epidurale bloeding** *(via slides)* | **Subdurale bloeding** *(via slides)* | **Subarchnoïdale bloeding**          | **Intracerebrale bloeding** *(via boek)* |
+| ------------------------------------- | ------------------------------------- | ------------------------------------ | ---------------------------------------- |
+| ![[Pasted image 20261003224657.png]]  | ![[Pasted image 20261003224704.png]]  | ![[Pasted image 20261003224840.png]] | ![[Pasted image 20261003224732.png]]     |
+| Tussen schedel en dura                | Tussen dura en arachnoid mater        | Tussen arachnoid mater en Pia Mater  | In de hersenen zelf                      |
+
+> [!warning] Hemorragisch CVA -> Zie [[De zieke patiënt]]
 
 ## Wonden aan het aangezicht en de hals
 ---
+In het algemeen is een **aangezichtsletsel** niet zo super erg. Het is namelijks de *'kreukelzone voor de hersenen'* -> ==Pas wel op, mogelijk komt de vrije luchtweg in gevaar of zorgen ernstige bloedingen voor overmatig bloedverlies==
 
-## Hoofd en wervelletsels
----
+### Soorten aangezicht- en halsletsels
+
+| Letsel                               | Herkenbare elementen/Mechanisme                                   | Opletten voor ...                                                                                                |
+| ------------------------------------ | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Schaaf- en snijwonden                | Zichtbaar                                                         | Grof bloedverlies                                                                                                |
+| Letsels van ogen                     | Scherpe voorwerpen *(nog steeds aanwezig)* of chemische producten | ==Geen directe druk uitoefenen== op oogbal <-> ==Bij chemische producten 10-15 minuten spoelen, niet afdekken!== |
+| Letsels aan de oren                  | Gescheurd, gesneden of afgerukt                                   | Veel bloedverlies                                                                                                |
+| Letsels aan de neus                  | Gescheurd, gesneden of afgerukt                                   | Bloed kan in keelholte lopen                                                                                     |
+| Wonden van de hals *(open/gesloten)* | Zichtbaar                                                         | Open/samengedrukte luchtweg, enorm veel bloedverlies *(d.m.v. halsslagader)*                                     |
+
+### Handelingen bij aangezicht- en halsletsels
+| Letsel                                               | Handeling                                                                                                                           | Order/Procedure                                                                                                                           |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Wonden thv mond en neus                              | Aspiratietoestel, indien tanden volledig los zitten -> verwijderen *(verstikkingsgevaar)*                                           | [[O26 Amputatie, verplettering, verminking]], [[P01 Aspiratie van de bovenste luchtweg bij een patiënt zonder een kunstmatige luchtweg]]  |
+| Neusbloeding                                         | In boekhouding naar beneden zitten *(15 minuten)*                                                                                   | [[De eerste minuten DGH#C. Circulation *(= bloedsomloop)*\|Circulation in benaderingsschema]]                                             |
+| Vreemde voorwerpen                                   | Fixeren indien vreemd voorwerp, bij chemisch langdurig uitspoelen<br>![[Pasted image 20261003233753.png]]                           | [[P50 Fixatie ter voorkoming van lichamelijke letsels]]                                                                                   |
+| Aderlijke of slagaderlijke bloedingen *(in de hals)* | *(druk)* verband aanleggen / manuele druk uitvoeren<br>![[Pasted image 20261003233844.png]]<br>![[Pasted image 20261003233853.png]] | [[O05 Hypovolemische shock bij volwassene]]/[[De eerste minuten DGH#C. Circulation *(= bloedsomloop)*\|Circulation in benaderingsschema]] |
+| Hersenvocht                                          | Bijstand vragen                                                                                                                     | [[O25 Zwaar trauma en schedeltrauma]]                                                                                                     |
+| Amputatie                                            | Geamputeerd deel in steriele doek/zak-in-zak meenemen                                                                               | [[O26 Amputatie, verplettering, verminking]]                                                                                              |
 
 ## Wervelzuilletsels
 ---
+**Letsels aan de wervelzuil** ==moeten met aandacht en zorg behandeld worden==. 
+- Ze omvatten meestal blijvende schade m.b.t.. het ruggenmergkanaal en centrale zenuwstelsel
+- Ze zijn ten gevolge van een ernstig ongeval *(schotwonde hals/romp, vertragingsletsel bij auto-ongeluk, ...)*
+- Vooral cervicaal/lumbaal *(niet beschermd door ribben/bekken - thoracale/sacraal en staartwervels)*
+
+### Handeling bij vermoeden van wervelzuilletsels
+>[!warning] Slachtoffer zo weinig mogelijk bewegen - **spinal management**
+
+#### **Immobilisatieschema**
+> Bijlage vanuit slides
+
+Bij benadering van situatie *(SSS)* -> Is mogelijk wervelletsel?
+
+| Schema *(via slides)*           |
+| ------------------------------- |
+| ![[ImmobilisatieFlowchart.png]] |
+Elke stap uitgelegd:
+1. **Geïsoleerd penetrerend trauma?**: vitale minuten gaan naar het immobiliseren van de slachtoffer terwijl ze onderweg moeten zijn naar het ziekenhuis *(dus geen immobilisatie indien van toepassing)*
+	-  **Penetrerend trauma**: een voorwerp dringt door de huid het lichaam binnen, bijvoorbeeld een steekwonde (mes), schotwonde of spietsing.
+	-  **Geïsoleerd**: dit is het enige letselmechanisme. Er is dus geen sprake van daarnaast ook een val, aanrijding, klap of ander stomp geweld.
+2. **ABCDE-kritiek?**: Overloop je benaderingsschema, is de patiënt in levensbedreiging? - Geen tijd verspillen met volgende stappen, gewoon direct immobiliseren.
+3. **NEXUS-voldaan?**: 
+	- Indien slachtoffer de criteria van wervelschade voldoet, moet ze geïmmobiliseerd worden. 
+	- Indien ze aan geen van de criteria voldoet, is het toegelaten om het slachtoffer op eigen initiatief naar sanitaire cel te laten lopen.
+
+#### **NEXUS criteria**
+- ==Geen pijn bij bevraging en/of palpatie van de posterieure middellijn van de cervicale wervelkolom==
+- Geen neurologische uitvalsverschijnselen
+- Normaal bewustzijn
+- Geen intoxicatie *(alcohol, drugs, medicatie)* 
+- Geen pijn door afleidend letsels *(bv. grote breuken, uitgebreide brandwonden)*
+
+
 
 ## Kneuzingen en wonden
 ---

@@ -172,7 +172,7 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 > | Peuter *(1 – 3 jaar)*      | `24-40/minuut`                 |
 > | Kleuter *(3 – 6 jaar)*     | `22-34/minuut`                |
 > | Schoolkind *(6 – 12 jaar)* | `18-30/minuut`           |
-> | Puber - Volwassen *(12 jaar+)* | `12-16/minuut`  |
+> | Puber - Volwassen *(12 jaar+)* | `12-20/minuut`  |
 > 
 >**Saturatie**:
 > - `95% - 100%`: Normale gezonde waarde
