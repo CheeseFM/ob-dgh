@@ -412,7 +412,5 @@ Elke stap uitgelegd:
 - Geen intoxicatie *(alcohol, drugs, medicatie)* 
 - Geen pijn door afleidend letsels *(bv. grote breuken, uitgebreide brandwonden)*
 
-
-
 ## Kneuzingen en wonden
 ---
