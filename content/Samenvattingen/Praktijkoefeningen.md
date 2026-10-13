@@ -1,3 +1,5 @@
+Je kan dit afprinten via de '[[Praktijkoefeningen.pdf]]' en turven hoeveel keer je al geoefend hebt.
+
 ## Verplaatsen en fixeren
 ---
 
@@ -20,7 +22,7 @@
 
 | Te oefenen                          | Procedure                                                                                                                                                        | Geoefend? |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-|                                     | [[P23 Toedienen van orale medicatie]]                                                                                                                            |           |
+| Medicatie oraal toedienen           | [[P23 Toedienen van orale medicatie]]                                                                                                                            |           |
 | Aerosol toedienen                   | [[P24 Toedienen van een aerosol]], [[P25 Toedienen van een dosisaerosol]]                                                                                        |           |
 | Voorbereiden medicatie              | [[P26 Voorbereiden van een subcutane inspuiting]], [[P27 Voorbereiden van een intramusculaire inspuiting]], [[P28 Voorbereiden van een intraveneuze inspuiting]] |           |
 | Infuus voorbereiden en monitoren    | [[P29 Voorbereiden van een infuus]], [[P31 Toezicht op de patiënt met perifere intraveneuze perfusie]]                                                           |           |
