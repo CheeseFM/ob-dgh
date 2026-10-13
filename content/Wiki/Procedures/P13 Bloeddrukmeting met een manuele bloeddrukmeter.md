@@ -5,8 +5,8 @@ tags:
   - procedure
 bron: Procedures t.b.v. de hulpverlener-ambulancier 112, editie 2023
 ---
-
 # P13 Bloeddrukmeting met een manuele bloeddrukmeter
+> https://werkenbijravhm.nl/video/bloeddruk-handmatig-meten/
 
 ## Materialen
 

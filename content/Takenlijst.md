@@ -1,6 +1,8 @@
 Wat er nog moet gebeuren
 - [x] Afmaken [[Levensbedreigende aandoeningen]]
 - [x] Starten [[De gewonde patiënt]]
+- [ ] Afmaken [[De gewonde patiënt]]
+- [ ] Afmaken [[De zieke patiënt]]
 - [ ] Interactieve stappenplan met staande orders/procedures maken *(waar je ook van de staande order naar de procedures kunt doorklikken)*
 - [ ] Anki updateten met nieuwe kaarten
 	- [ ] Afmaken eerste minuten / volledig stappenplan erin zetten *(o.a. GCS, malinas, normale waarden, ...)*
@@ -8,3 +10,5 @@ Wat er nog moet gebeuren
 	- [ ] Anatomie in Anki
 	- [ ] Levensbedreigende aandoeningen in Anki
 	- [ ] Trauma in anki *(de gewonde patiënt)*
+	- [ ] Zieke patiënt in ANKI
+	- [ ] Pediatrie in ANKI

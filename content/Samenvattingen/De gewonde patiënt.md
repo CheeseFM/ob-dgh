@@ -35,7 +35,7 @@ tags:
 > - [x] De verschillende soorten aangezichtsletsels.
 > - [x] De methoden voor het beoordelen van een aangezichtstrauma.
 > - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met letsels van het aangezicht of hals.
-> - [ ] De oorzaken van een wervelzuilletsel.
+> - [x] De oorzaken van een wervelzuilletsel.
 > - [ ] De methoden voor het beoordelen van een wervelzuilletsel.
 > - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met een wervelzuilletsel.
 > - [ ] Het verschil tussen kneuzingen en wonden.
@@ -57,7 +57,7 @@ tags:
 
 >[!help] Gebonden praktijklessen
 > - `26/09/2026` - PRAKTIJK de gewonde patiënt: verbanden - standaard immobilisatie - vacuümmatras/vacuümspalk
-> 
+> - `10/10/2026` - [[10-10-2026|PRAKTIJK brancard, blokrol, MILS, schepbrancard & KED]]   
 
 >[!note] PDF: /
 
@@ -107,6 +107,7 @@ In ons geval is de ernst meestal een beoordeling v/e:
 - **Trauma d.m.v. een stomp voorwerp/zware klap** *(bv.  knuppel tegen ledematen, aangereden worden, ...)* - ==Kan ook enorm ernstig zijn, breuken van wervels of bekken *(slagaderlijk bloedverlies of verlamming)*==
 	- *bv. ...* **Coup-contrecoup**: Botst met hoofd tegen iets waardoor hersenen tegen schedel botsen, terugveren en aan de andere kant van het schedel botsen. ![[Pasted image 20260923132656.png]]
 	- *bv. breuken, verstuikingen, bloeduitstortingen, ...* 
+- **Polytrauma**: Twee of meer levensbedreigende letsels onafhankelijk van elkaar 
 ### Verwachtingen per situatie
 > [[O25 Zwaar trauma en schedeltrauma]]
 
@@ -412,5 +413,162 @@ Elke stap uitgelegd:
 - Geen intoxicatie *(alcohol, drugs, medicatie)* 
 - Geen pijn door afleidend letsels *(bv. grote breuken, uitgebreide brandwonden)*
 
+>[!warning] Gebruik je gezond verstand
+>Het komt zelden tegen dat de NEXUS overlopen is maar er toch een wervelletsel is. Maar het kan! 
+> -> Is er volgens NEXUS geen immobilisatie nodig, maar zegt jouw gezond verstand van wel? *(bv. bij val naar beneden van twee verdiepen)* Doet dat dan!
+> 
+> Kan *bv.* door de adrenaline geen pijn voelen.
+
+### Blokrol & verwijderen van de valhelm
+> [[P34 Draaien van de patiënt - blokroltechniek (2 hulpverleners)]]
+
+**Persoon met valhelm rollen**
+1. MILS toepassen over helm
+2. Blokrol uitvoeren
+3. Aligneren van hoofd
+4. Verwijderen van valhlem
+
+>[!warning] Vasthouden bij blokrol
+>Je mag niet de kledij grijpen, je moet met je handen scheppen -> Bekken, schouders en benen
+
+| Stap | Ambulancier A                                                              | Ambulancier B                                                         |
+| ---- | -------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 0.   | Benadert slachtoffer, vertelt hun om voor hun te kijken en niet te bewegen | Haalt headblocks, schepbrancard & riemen                              |
+| 1.   | Houdt Mils vast                                                            | Rijkt met twee handen in helm -> Soort omgekeerde MILS                |
+| 2.   | Indien mogelijk, opening van helm groter maken*                            | Houdt MILS vanuit binnen de helm vast                                 |
+| 3.   | Helm rustig van hoofd nemen                                                | Blijft MILS vasthouden                                                |
+| 4.   | Neemt MILS over                                                            | Plaatst headblocks plank onder hoofd                                  |
+| 5.   | Verdere spinale immobilisatie -> [[#Standaard spinale immobilisatie]]      | Verdere spinale immobilisatie -> [[#Standaard spinale immobilisatie]] |
+Indien mogelijk, opening van helm groter maken:
+- **Integrale valhelm** *(valhelm zonder opening aan de kin, één deel)*: Soms is het mogelijk om de kussentjes te verwijderen met een rood lint. Wel niet te lang treuzelen, indien niet aanwezig is het gewoon eruit halen *(het hoofd ging erin dus zal eruit kunnen zonder verder plaats te maken)*
+- **Open helm** *(valhelm waar kin gedeelte open kan, meest voorkomende)*: Openen van klep en indien aanwezig ingebouwde zonnebril & indien mogelijk kussentjes eruit *(TIJDENS VASTHOUDEN INTERNE MILS!)*
+
+#### Verplaatsen van persoon tegen muur
+Indien een persoon met een vermoeden van wervelschade tegen een muur gaan zitten is gaan we die moeten op de grond in ruglig krijgen.
+
+>[!warning] Trekken in de lengte!
+>Om het minst kans hebben op het vorderen van een wervelletsel moet je in de lengte v/h lichaam trekken. 
+
+- Iemand gaat aan het hoofd staan en de MILS toepassen
+- Twee personen langs de zijkanten om lichaam net onder oksel en net onder bekken vasthouden.
+- Nog iemand aan de voeten om te trekken 
+
+#### Rechtstaand persoon immobiliseren
+1. MILS langs voor toepassen
+2. Collega pakt wervellplank, zet achter slachtoffer
+3. Neem over van MILS door met één hand in high-five houding tegen hoofd te drukken *(samen met collega)* -> Zie foto
+4. Andere arm onder schouder haken van slachtoffer
+5. Gecontroleerd naar achter laten gaan
+
+### Aanleggen van KED & gebruik van de wervelplank
+> [[P39 Aanleggen van een bevrijdingsvest (2 hulpverleners)]], https://www.emsstuff.com/ferno-ked/
+
+![[Pasted image 20261010224701.png]]
+
+#### Aanleggen van de KED
+1. Middenste riem
+2. Onderte riem
+3. Benen -> Kruisen van riemen *(links -> rechts, rechts -> links)*
+4. Hoofd -> Kruisen van fixatie langs de zijkant
+5. Bovenste riem
+6. Kussen *(we maken een p-vorm)*
+7. Tijdens het verplaatsen naar plank herevalueren we altijd de fixatie van de riemen -> Aanspannen indien nodig!
+
+#### Wervelplank
+>[[P38 Bevrijding van de patiënt met behulp van een wervelplank]]
+
+De wervelplank wordt gebruikt om een vlakke ondergrond te bieden in eender welke positie. We gaan het SO* na/zonder het aanleggen van de KED verslepen naar de wervelplank.
+
+>[!quote] Uitvoering volgens [[P38 Bevrijding van de patiënt met behulp van een wervelplank|P38]]
+>    - De patiënt wordt voorzichtig op de wervelplank geschoven totdat het lichaam volledig in het midden op de plank ligt.
+  >  - Maak de patiënt zo nodig vast met de spider riemen.
+   > - De wervelplank wordt vervolgens door minstens 4 zorgverleners opgetild.
+   > - De wervelplank kan worden gebruikt in combinatie met een bevrijdingsvest, dit vergemakkelijkt het verplaatsen van de patiënt omdat het hulpmiddel handgrepen heeft om de patiënt mee vast te houden.
+
+Heel belangrijk hierbij -> ==MILS blijft toegepast tot headblocks geplaatst zijn.==
+
+### Standaard spinale immobilisatie
+> [[P36 De patiënt op een schepbrancard tillen - immobiliseren]]
+
+Na het bevrijden/in ruglig plaatsen van het slachtoffer in de voorgaande stappen
+
+>[!info] Benaderen van slachtoffer
+>We benaderen het slachtoffer altijd langs voren, we vertellen hun dat ze "voor u moet blijven kijken en niet bewegen!" -> *bv. 'kijk naar mijn hand'*
+
+**Onderdelen standaard spinale immobilisatie**:
+- Headblocks
+- Schepbrancard
+- Spin of de 3 riemen
+
+#### Aanleggen van headblocks
+> [[P41 Plaatsen van headblocks na MILS]]
+
+Na het uitvoeren van de MILS schakelen we over naar de headblocks die het hoofd gelijkaardig zullen fixeren. 
+
+AMB-A: Blijft MILS vasthouden
+AMB-B:
+1. Leg de basisplank onder het hoofd
+2. Trek via de handen de schouders naar beneden
+3. Duw in een gekantelde beweging het kussen naar beneden op de velcro tegen de schouders en de zijkant van het gezicht -> AMB-A die de MILS doet neemt hierbij over van hoofd naar buitenkant kussen
+4. Herhaal dit voor de andere kant, collega blijft headblocks vasthouden
+5. Fixeer a.d.h.v. de straps aan de kin en het voorhoofd
+6. ==Collega die de MILS toepaste blijft de headblocks vasthouden==
+
+>[!info] Indien hoofd/nek te lang en de straps om te bevestigen niet over de kin passen gaan we fixeren met tape.
+
+>[!note] Plaats tussen hoofd en ondergrond
+>We houden altijd één pink tussen hoofd en ondergrond bij verwijderen van valhelm. Dit is genoeg plaats om later de headblocks plank eronder te schuiven
+
+#### Verplaatsen naar schepbrancard
+>[[P36 De patiënt op een schepbrancard tillen - immobiliseren]]
+
+AMB-A: Blijft headblocks vasthouden zoals je zou doen bij de MILS.
+AMB-B:
+1. Leg de schepbrancard naast de persoon  pas hem aan a/d lengte v/d persoon
+	- *(bij heel lange mensen is dit soms onmogelijk, hierbij nemen we voorkeur op torso, hoofd en laten we de voeten er desnoods afhangen -> Leg een deken onder contactpunt met uiteinde voor comfort)*
+2. Klik de schep uit elkaar 
+3. Positioneer één helft van de schep zodat de headblocks er met 2 vingers van de bovenrand zullen terechtkomen
+4. Houd met je armen de persoon langs de andere kant tegen, duw met je benen de schep onder het lichaam -> Herhaal voor de andere kant
+5. Klik de bovenkant van de schep eerst toe, daarna de onderkant
+6. Fixeer de headblocks met de H-velcro linten aan de schepbrancard
+
+>[!warning] Leg iets onder de knieën
+>Door het plaatsen van de riem zodat het SO* hun benen niet kan plooien creëer je overstrekking. Door hier een handdoek/klein kussen onde te leggen zorg je voor comfort.
+
+#### Aanleggen van de 3 riemen
+We fixeren ten laatste de patiënt aan de schepbrancard a.d.h.v. de 3 riemen.
+1. Riem onder de oksels
+2. Riem aan het bekken
+3. Riem aan de bovenkant van de knieën
+
+We laten de patiënt goed uitademen en spannen de riemen aan op die hoogte.
+
+>[!note] Plaatsing spin
+>[[P36 De patiënt op een schepbrancard tillen - immobiliseren]] -> Bij spin; schouder riemen in zelfde gat van borstriem
+
+### De vacuummatras
+> [[P37 Conditionering van de patiënt met vacuümmatras]]
+
+Bij lange transporten verkiezen we voor de vacuümmatras. *(comfort en isolatie tegen de warmte/koude)*
+1. Uithalen van de pomp en matras en verspreiden van de korels door te wrijven
+2. Leg een deken in de matras
+3. Leg het slachtoffer in het midden van de vacuümmatras.
+4. Maak de headblocks los van de schepbrancard.
+5. Verwijder de schepbrancard in overleg met je collega.
+6. Leg een kussen tussen de benen van het slachtoffer (behalve in geval van een beenspalk).
+7. Controleer of de matras de voetzolen niet raakt (bij het vacuüm zuigen van de matras) om te voorkomen dat de wervelkolom wordt samengedrukt.
+8. Bind met de hulp van je collega de vacuümmatras vast (werk samen - de ene zorgt voor de matras, de andere voor de riemen).
+9. Zorg ervoor dat de riemen elkaar kruisen ter hoogte van de borst.
+10. Maak ten minste één arm vrij voor het nemen van parameters en, eventueel, voor intraveneuze toegang.
+11. Doe de zijkanten van de brancard terug omhoog.
+
+>[!info] Waarom een deken?
+>
+
+### Soorten bevrijdingen v/e slachtoffer
+
+
 ## Kneuzingen en wonden
 ---
+
+>[!tip] Trek een foto van de wonde alvorens inpakken -> Dan moet hij niet weer uitgepakt worden
