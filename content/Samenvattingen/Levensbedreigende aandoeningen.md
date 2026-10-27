@@ -16,6 +16,7 @@ tags:
 > - `12/09/2026` - PRAKTIJK levensbedreigende aandoening II *(Als het hart stopt)*
 > - `16/09/2026` - PRAKTIJK CPR (BLS) volwassene, kind en baby
 > - `19/09/2026` - PRAKTIJK de zieke patiënt *(deels aangezien zuurstof en stabiele zijligging)*
+> - `19/10/2026` - [[19-10-2026|PRAKTIJK CPR + beademing + mayocanule]]
 
 >[!note] PDF: [[Levensbedreigende aandoeningen.pdf]]
 
@@ -105,8 +106,9 @@ Koolstofmonoxide is een geurloze, smaakloze en onzichtbare gas ==je zal het niet
 >Op de saturatiemeter zal een slachtoffer met CO-intoxicatie er perfect gezond uitzien *(99 - 100%)* -> Rode bloedcellen zijn volledig verzadigd met moleculen. Er wordt geen onderscheid gemaakt tussen O2 of CO
 
 **Behandelen van een CO-intoxicatie**
-1. Direct 100% zuurstof
-2. Afhankelijk van mate CO-intox
+1. Eigen veiligheid -> Openen ramen & deuren & evacuatie patiënt door brandwer
+2. Direct 100% zuurstof
+3. Afhankelijk van mate CO-intox
 	- 6 à 12 uur 100% O2 via non-rebreathingmasker
 	- Hyperbare ruimte met toevoer O2
 

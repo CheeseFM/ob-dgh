@@ -1,15 +1,16 @@
 ---
 tags:
-  - bezig
   - "#dissability"
   - "#immobilisation"
   - "#give-comfort"
+  - "#afgerond"
 ---
 📅 Aangemaakt: 20-09-2026
 
 > [!info] Bronnen
 > [PRESENTATIE x3 - De gewonde patiënt](https://extranet.paulo.be)
 > [HANDBOEK De gewonde patiënt](https://drive.google.com/file/d/1B4iymdQEzCG7UsvVw_vxJCKHIRKUvCeh/view?usp=drive_link)
+> [HANDBOEK Verplaatsen van de patiënt](https://drive.google.com/file/d/192jlFKRNvlLR9Iu1K5GvitxsETsAnez2/view?usp=sharing)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
 > [!check] Doelstellingen
@@ -36,24 +37,24 @@ tags:
 > - [x] De methoden voor het beoordelen van een aangezichtstrauma.
 > - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met letsels van het aangezicht of hals.
 > - [x] De oorzaken van een wervelzuilletsel.
-> - [ ] De methoden voor het beoordelen van een wervelzuilletsel.
-> - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met een wervelzuilletsel.
-> - [ ] Het verschil tussen kneuzingen en wonden.
-> - [ ] De werkwijze voor het beoordelen van een kneuzing.
-> - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met een kneuzing.
-> - [ ] De verschillende soorten wonden.
-> - [ ] De methoden voor het beoordelen van een wonde.
-> - [ ] De levensbedreigende verwondingen en de handelingen die hierbij moeten uitgevoerdworden.
-> - [ ] De wondzorg bij lichte huidwonden.
-> - [ ] De verschillende verbandtechnieken.
-> - [ ] De oorzaak van skeletletsels en de verschillende soorten.
-> - [ ] De methoden voor het beoordelen van een skeletletsel.
-> - [ ] De handelingen die moeten uitgevoerd worden bij skeletletsels.
-> - [ ] Het principe van spalken.
-> - [ ] De skeletletsels van de armen.
-> - [ ] De handelingen die moeten uitgevoerd worden bij skeletletsels van de armen.
-> - [ ] De skeletletsels van de benen.
-> - [ ] De handelingen die moeten uitgevoerd worden bij skeletletsels van de benen.
+> - [x] De methoden voor het beoordelen van een wervelzuilletsel.
+> - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met een wervelzuilletsel.
+> - [x] Het verschil tussen kneuzingen en wonden.
+> - [x] De werkwijze voor het beoordelen van een kneuzing.
+> - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met een kneuzing.
+> - [x] De verschillende soorten wonden.
+> - [x] De methoden voor het beoordelen van een wonde.
+> - [x] De levensbedreigende verwondingen en de handelingen die hierbij moeten uitgevoerd worden.
+> - [x] De wondzorg bij lichte huidwonden.
+> - [x] De verschillende verbandtechnieken.
+> - [x] De oorzaak van skeletletsels en de verschillende soorten.
+> - [x] De methoden voor het beoordelen van een skeletletsel.
+> - [x] De handelingen die moeten uitgevoerd worden bij skeletletsels.
+> - [x] Het principe van spalken.
+> - [x] De skeletletsels van de armen.
+> - [x] De handelingen die moeten uitgevoerd worden bij skeletletsels van de armen.
+> - [x] De skeletletsels van de benen.
+> - [x] De handelingen die moeten uitgevoerd worden bij skeletletsels van de benen.
 
 >[!help] Gebonden praktijklessen
 > - `26/09/2026` - PRAKTIJK de gewonde patiënt: verbanden - standaard immobilisatie - vacuümmatras/vacuümspalk
@@ -63,7 +64,7 @@ tags:
 
 # Alle soorten trauma-groeperingen, hoe je ze erkent, ernst beoordeelt en welke handelingen je treft. 
 
-## Soorten ongevallen en verwondingen
+## Praktijkgevallen van ongevallen en verwondingen
 ---
 >[!info] Ongevallen zijn de meest voorkomende doodsoorzaak voor mensen onder de 40 -> Indien niet dood, langdurige invaliditeit
 
@@ -86,7 +87,9 @@ Een eerste introductie tot de soorten meestvoorkomende ongevallen en verwondinge
 | Veelvoorkomend                                               | Nonchalance/Ervaring roest de veiligheid weg | Sportongevallen *(rotsklimmen, fietsen, lopen)*             |
 | Niet naleven van veiligheidsmaatregelen *(snelheid, gordel)* |                                              | Doe het zelvers *(nagelgeweer, misplaatste hamerslag, ...)* |
 | Risicogedrag *(Alcohol, drugs, rijgedrag)*                   |                                              | Vergrijzing *(oude mensen die domme stoten uitsteken)*      |
-**Trauma**: Verwonding -> **Polytrauma**: Meerdere *(= poly)* verwondingen
+**Trauma**: Verwonding
+
+#### Open en gesloten verwondingen
 
 | **Open wonden**                                                   | **Gesloten wonden**             |
 | ----------------------------------------------------------------- | ------------------------------- |
@@ -336,8 +339,10 @@ Lozen van bloed boven of tussen de hersenvliezen, of zelf in de hersenen. -> ==N
 | Soorten hersenletsels leidende tot een hersenbloeding *(via slides)* |
 | -------------------------------------------------------------------- |
 | ![[Pasted image 20261003220617.png]]                                 |
-#### De hersenvliezen
+#### De meninges
 > Bijlage via https://neurologie.slingeland.nl/hersenvliesontsteking-1
+
+*(= Ofwel hersenvliezen)*
 
 | Benamingen                                                                                                                                                                               | Bijlage *(via Slingeland Ziekenhuis)* |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
@@ -386,6 +391,13 @@ In het algemeen is een **aangezichtsletsel** niet zo super erg. Het is namelijks
 - Ze zijn ten gevolge van een ernstig ongeval *(schotwonde hals/romp, vertragingsletsel bij auto-ongeluk, ...)*
 - Vooral cervicaal/lumbaal *(niet beschermd door ribben/bekken - thoracale/sacraal en staartwervels)*
 
+Wervels staan verbonden met elkaar door: Ligamenten, kapsels & spieren
+- Ze bestaat uit een S-vorm
+
+>[!info] Meest voorkoomende werveltrauma -> Breken v/ cervicale wervels
+> - Duiken in ondiep water
+> - Van paard vallen
+
 ### Handeling bij vermoeden van wervelzuilletsels
 >[!warning] Slachtoffer zo weinig mogelijk bewegen - **spinal management**
 
@@ -419,6 +431,20 @@ Elke stap uitgelegd:
 > 
 > Kan *bv.* door de adrenaline geen pijn voelen.
 
+### Aandoeningen v/d wervelzuil *(naast trauma)*
+Naast breuken v/d wervelzuil kunnen ook genetische of chronische aandoeningen zorgen voor problemen aan de rug. 
+
+#### Aandoening a/d rug
+
+| *Afbeelding via slides*              | **Soorten aandoeningen a/d S-vorm v/d rug**                                                                                                                                         |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20261026002025.png]] | **Lordose**: *(Extreem)* naar binnen gerichte kroming<br>**Kyphose**: Naar voren gerichte kroming van de bovenrug<br>**Scoliose**: Zijwaartse onnatuurlijke kromming van wervelzuil |
+- **Aandoeningen v/d spieren en gewrichten**: Meestal acute en op termijn genezende pijn aan de onderrug *(bv. door inspanning)*
+- **Degeneratieve aandoeningen a/d wervel**: *bv. discus hernia, traumata, ischias (zenuwproblemen)*
+
+## Verplaatsen v/d patiënt
+---
+> Handboek en praktijkles [[10-10-2026]]
 ### Blokrol & verwijderen van de valhelm
 > [[P34 Draaien van de patiënt - blokroltechniek (2 hulpverleners)]]
 
@@ -535,6 +561,9 @@ AMB-B:
 >[!warning] Leg iets onder de knieën
 >Door het plaatsen van de riem zodat het SO* hun benen niet kan plooien creëer je overstrekking. Door hier een handdoek/klein kussen onde te leggen zorg je voor comfort.
 
+>[!warning] Doorligwonden
+>Vanaf 30 minuten kunnen doorligwonden al beginnen verschijnen. Deze zijn niet prettig en doen pijn. Zeker bij oudere mensen mee opletten!
+
 #### Aanleggen van de 3 riemen
 We fixeren ten laatste de patiënt aan de schepbrancard a.d.h.v. de 3 riemen.
 1. Riem onder de oksels
@@ -563,12 +592,335 @@ Bij lange transporten verkiezen we voor de vacuümmatras. *(comfort en isolatie 
 11. Doe de zijkanten van de brancard terug omhoog.
 
 >[!info] Waarom een deken?
->
+>- Je kan eraan trekken om te verbedden *(indien mogelijk i.v.m. werveltrauma*
+>- Het houdt de matras schoon *(bv. zweet)*
+>- Het is comfortabeler voor de patiënt
 
-### Soorten bevrijdingen v/e slachtoffer
+### Tillen van patiënten
+> [[P33 Verplaatsen van de patiënt met steun (1 hulpverlener)]], [[P35 Verplaatsen van de patiënt tussen bed en brancard (2 hulpverleners)]]
 
+Bij voorkeur gaan we de rappelhouding gebruiken om een patiënt van de grond/stoel te tillen d.m.v. ons lichaamsgewicht
+
+>[!warning] Belangrijk bij tillen 
+> - Til vanuit je benen, hou rug recht
+> - Vermijd omvangrijke lasten -> Til ze niet alleen
+> - Pas de omgeving aan zodat je gemakkelijker kan bewegen / gevaren uit de weg werkt
+> - Gebruik indien mogelijk hulpmiddelen *(bv. een schepbrancard, roldeken, hoovermatras, ...)*
+> - Vermijd torsie v/h lichaam *(beweeg het volledig lichaam i.p.v. te moet torsen)*
+
+### Samenwerking met de brandweer
+> Bijlage uit slides
+
+Op een verkeersongeval waar al dan niet een ontzetting moet gebeuren zal de brandweer ter plaatse komen *(op aanvraag HVA of noodcentrale)*
+
+**Taak v/d brandweer**
+Een juiste beoordeling van de toestand
+ - Het ==overleg tussen de technische en geneeskundige== ploegen
+ - Het nut van de werkcirkels
+ - Taakverdeling bij een ontzetting
+ - De stabilisatie van het voertuig
+ - Het glasbeheer
+ - Bescherming van het slachtoffer, hulpverleners
+ - De ==toegang tot het slachtoffer==
+ - De stabilisatie van het slachtoffer
+ - De ==Verwijdering van het slachtoffer== (samenwerking HVA)
+
+**Takenverdeling v/d brandweerlieden**
+![[Pasted image 20261026010233.png]]
+
+
+#### Plaats v/ ongeval
+Je gaat een ongeval niet betreden zonder je PBM's, met nu van toepassing:
+- Je helm
+- Indien aanwezig veiligheidsbril
+
+![[Pasted image 20261026010305.png]]
+
+>[!warning] Gevaarlijke situaties
+> - Onstabiel voertuig 
+> - Overmaat aan glas die slachtoffer en HVA in gevaar brengt
+> - Kans op ontsteking van voertuig
+> - Rook -> Inhalatie, zichtbaarheid, ...
+
+
+
+#### Soorten bevrijdingen
+Afhankelijk van de urgentie worden er verschillende bevrijdingstechnieken gebruikt *(van links naar rechts, met rechts het meest urgent)*
+
+|                     | Gecontroleerde bevrijding                                                                                                                                                                                                                                                                                                                                                                                               | Snelle bevrijding                                                                                                               | Noodbevrijding (Onmiddellijke bevrijding)                                                                                                                                                                                                                                                                  |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Beschrijving        | Bij een urgent letsel of situatie waar er niet direct een gevaar is naast de medische casus _(bv. een hersenbloeding door gevolg van een auto-ongeluk)_ waar we tijd genoeg hebben voor een comfortabele en gecontroleerde extractie.<br><br>-> ==Indien mogelijk wordt het slachtoffer compleet gestabiliseerd, geïmmobiliseerd en beschermd vóór verwijdering== om de kans op verder letsel drastisch te verminderen. | Er is geen tijd voor handelingen naast bevrijden v/ slachtoffer met oog voor wervelschade. Maar er is geen risico van buitenaf. | Bij hoog risico, waarin de SSS-evaluatie ons vertelt dat het SO daar ==ABSOLUUT niet veilig is==, gaan we _(rekening houdende met eigen veiligheid)_ het SO daar gewoon weghalen. Ongeacht werveltrauma, verwondingen, ...<br><br>-> ==Dit is de laatste optie en moet zeer zorgvuldig overwogen worden!== |
+| Context             | Medisch stabiel                                                                                                                                                                                                                                                                                                                                                                                                         | Polytrauma of acute achteruitgang van parameters tijdens gecontroleerde bevrijding                                              | 1. Reanimatie, brandgevaar, ...<br>2. Acuut gevaar voor slachtoffer en/of hulpverleners _(vb. brand, verdrinking, ...)_<br>3. Medische toestand is erg kritisch en dreigt fataal te worden<br>4. Slachtoffer met erg slechte prognose verspert de toegang tot een levensvatbaar SO                         |
+| Nodige hulpmiddelen | KED, wervelplank, schepbrancard, headblocks en hulp brandweer _(vouwen van volledige dak)_                                                                                                                                                                                                                                                                                                                              | Wervelplank, schepbrancard, headblocks en hulp brandweer _(spreider, verwijderen b-stijl, tillen, ...)_                         | Geen                                                                                                                                                                                                                                                                                                       |
+
+>[!warning] Overschakelen
+>Indien de patiënt ineens achteruit gaat en/of de externe situatie verslechterd gaan we om van:
+>-  een gecontroleerde bevrijding -> snelle *(bv. plotse veneuze interne bloeding -> parameters gaan enorm rap achteruit)* -> noodbevrijding *(bv. auto vat vuur)* 
+
+>[!info] **Polytrauma**
+>Minstens twee *(= poly)* levensbedreigende verwondingen aan verschillende, on-verbonden orgaansystemen met minstens 1 levensbedreigend *bv. hersenkneuzing en klaplong*
+
+#### Zelfbevrijding
+Indien we merken dat bij de NEXUS criteria toch geen tekenen zijn van een werveltrauma mag het slachtoffer zichzelf bevrijden.
+- Geen materiaal nodig, slachtoffer mag zelf rechtstaan en op de brancard gaan liggen.
 
 ## Kneuzingen en wonden
 ---
+Vooraleer we beginnen, maken we onderscheid tussen:
 
+|                             | [Wonde](https://nl.wikipedia.org/wiki/Verwonding) *(vulnus)*             | [Kneuzing](https://nl.wikipedia.org/wiki/Kneuzing) *(contusie)*                                       | Skeletletsels *([fractuur](https://nl.wikipedia.org/wiki/Botbreuk) of [luxatie](https://nl.wikipedia.org/wiki/Luxatie))*                        |
+| --------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Definitie *(via wikipedia)* | "Een wonde [... is] een onderbreking van de continuïteit van de huid"    | "Een kneuzing [...] is een beschadiging van onderhuids weefsel door stomp geweld"                     | "Een botbreuk of fractuur is het onderbreken van de continuïteit van het bot" en "Luxatie [...] is het uit de kom schieten van een gewricht"    |
+| Huidlaag                    | Onderbroken, open                                                        | Intact                                                                                                | Intact, tenzij open botbreuk                                                                                                                    |
+| Locatie                     | Huidoppervlakte en direct eronder                                        | Onderhuidse weefsels en kleine bloedvaten                                                             | harde bot- of gewrichtweefsel                                                                                                                   |
+| Wat kan je zien?            | Bloed, snee, schaafplek of scheur *(zie [[#Soorten wonden]])*            | Blauwe/paarse plek *(hematoom)*, zwelling                                                             | Vervorming, abnormale stand, puntbloeding op breuk, extreme zwelling                                                                            |
+| *Voorbeeld*                 | Je snijdt per ongeluk in je vinger, ==er loopt bloed uit de snijwonden== | Je klopt met een hammer op je vinger, de huid blijft heel maar de ==bloedvaatjes onderhuids knappen== | Een bakfiets rijdt je aan terwijl je aan het oversteken bent in Gent, ==jouw onderbeen is gebroken==, door de val is je ==schouder uit de kom== |
+... en is er ook een verschil tussen [[#Open en gesloten verwondingen|open en gesloten verwondingen]].
+
+>[!warning] Aandacht voor
+>Zoals gezien in [[#Praktijkgevallen van ongevallen en verwondingen]] moeten we ook aandacht bieden aan:
+> - Mechanisme van het ongeval
+> - Grootte krachtwerking
+> - Plaats kneuzing of wonde *-> kan tipje van de ijsberg zijn (bv. interne bloeding)*
+
+### Kneuzingen
+We hebben al inwendige kneuzingen gezien *(contusio, longkneusing, ...)*, uitwendige contusies kenmerken zich door:
+
+|                   | **Kneuzing**                                                                                                                                                    |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oorzaak           | Stompe kracht die inwerkt op het lichaam                                                                                                                        |
+| Symptomen         | Hematomen                                                                                                                                                       |
+| Ernst beoordelen  | Zoals hierboven vermeld: <br>1. Plaats <br>2. Kinetische energie<br>3. Mechanisme *(knelling, stomp voorwerp tegen zich, zelf gevallen op stomp voorwerp, ...)* |
+| Aandacht voor ... | Ernstige inwendige met als symptoom een kneuzing letsels, zeker bij kneuzing/pijn aan de buikregio, hoofd, thorax en/of richting/aan de wervelzuil              |
+| Handelingen       | Drukverband *(niet te hard indien niet nodig)*, immobiliseren v/d ledematen, applicatie v/ ijs indien toegestaan                                                |
+### Wonden
+> Afbeeldingen uit slides
+
+Er zijn veel typen wondes. Bij ieder een verschillende handeling die je moet treffen, hieronder staan ze allemaal vermeld.
+
+|                  | **Wonde** *(algemeen)*                                                                                                                                                                                                                                                                                         |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oorzaak          | Stomp *(huid gaat scheuren)* of scherp *(huid wordt gesneden)* trauma                                                                                                                                                                                                                                          |
+| Symptomen        | Bloedverlies, duidelijk zichtbare discontinuiteit in de epidermis                                                                                                                                                                                                                                              |
+| Ernst beoordelen | Zoals hierboven vermeld: <br>1. Diepte *(bovenlaag huid -> bloedvaten & spieren -> pezen -> zenuwen)*<br>2. Grootte van het letsel<br>3. Plaats v/d wonde *(hals of romp -> enorm gevaarlijk)*<br>4. Inwerkend voorwerp *(bv. bij glas -> mogelijk microscherven die achterblijven)*<br>5. Mate van vervuiling |
+| Handelingen      | Zie hieronder, per trauma                                                                                                                                                                                                                                                                                      |
 >[!tip] Trek een foto van de wonde alvorens inpakken -> Dan moet hij niet weer uitgepakt worden
+>Alhoewel ze het meestal toch gaan doen 
+
+|             | **Schaafwonden**                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------ |
+| *v.b.*      | ![[Pasted image 20261025104808.png]]                                                             |
+| Oorzaak     | Wrijving en schurend inwerking op de huid                                                        |
+| Zichtbaar   | Roodheid, doet veel pijn *(zenuwen niet geraakt)*, punctforme bloedingen                         |
+| Kenmerken   | Normaal enkel epidermis *(haarvaten)* & sterk vervuild                                           |
+| Handelingen | Grove vervuiling eruit halen *(water en washandje)*, ontsmetten, afdekken en fixeren van verband |
+
+|             | **Snijwonden**                                                                |
+| ----------- | ----------------------------------------------------------------------------- |
+| *v.b.*      | ![[Pasted image 20261025110828.png]]                                          |
+| Oorzaak     | Scherp voorwerp *(glas, mes, metaal)* komt in beweging ten aanraking met huid |
+| Zichtbaar   | Bloeden, afhankelijk van diepte pijn, duidelijke onderbreking v/ huid         |
+| Kenmerken   | Meestal mooie scherpe randen die gemakkelijk naaibaar zijn.                   |
+| Handelingen | Bloeding stelpen -> *(Ontsmetten)* -> Bedekken                                
+
+|             | **Scheurwonden**                                                                            |
+| ----------- | ------------------------------------------------------------------------------------------- |
+| *v.b.*      | ![[Pasted image 20261025195510.png]]                                                        |
+| Oorzaak     | Stompe inwerking die de huid uitrekt, samenduwt of erover schuift *(meerdere scheurwonden)* |
+| Zichtbaar   | Verhakkelde zijkanten, meestal gepaard met hematoom                                         |
+| Kenmerken   | Vaak diep en erg vervuild                                                                   |
+| Handelingen | Bloeding stelpen -> Ontsmetten -> Bedekken                                                  |
+
+|             | **Steekwonden**                                                                                                             |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------- |
+| *v.b.*      | ![[Pasted image 20261025200442.png]]                                                                                        |
+| Oorzaak     | Lang, puntig of snijdende voorwerp *(nagel, mes, glas, ...)*                                                                |
+| Zichtbaar   | Kleine opening met bloed                                                                                                    |
+| Kenmerken   | Vaak diep, soms doorboring van lichaam, sterk vervuild mogelijks nog voorwerp vast in wonde *(bv. mes die in bot vast zit)* |
+| Handelingen | Bloeding stelpen -> ==Indien aanwezig, voorwerp fixeren== -> Ontsmetten -> Afdekken                                         |
+
+|             | **Schotwonden**                                                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| *v.b.*      | ![[Pasted image 20261025200730.png]]                                                                                                 |
+| Oorzaak     | Vuurwapenpatroon v.s. slachtoffer                                                                                                    |
+| Zichtbaar   | Lijkt op steekwonde aan de ingang, enorm vuile en opengescheurde uitgangswonde *(indien aanwezig)*                                   |
+| Kenmerken   | Enorm vervuild, belangrijke organen kunnen *(zullen)* geraakt zijn, bijna altijd doorboring lichaam & verbrijzelt botten in haar weg |
+| Handelingen | Bloeding stelpen -> ==zsm naar ziekenhuis==                                                                                          |
+
+|             | **Afrukking**                                                                                     |
+| ----------- | ------------------------------------------------------------------------------------------------- |
+| *v.b.*      | / *(zal je ogen sparen aangezien geen deftige tekening*                                           |
+| Oorzaak     | *vb. bijtwonden dieren, extremiteiten (met ring) in machine, hoofdhaar in machine*                |
+| Zichtbaar   | Deel van huid en spieren losgescheurd van pees                                                    |
+| Kenmerken   | Zichtbare pezen, beenderen, ...                                                                   |
+| Handelingen | Bloeding stelpen -> Fixeren -> Ontsmetten -> Afdekken & ==zsm naar ziekenhuis om huid te redden== |
+
+|             | **Amputatie**                                                                                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *v.b.*      | / *(zelfde als afrukking)*                                                                                                                                                 |
+| Oorzaak     | Stompe of scherpe inwerking met volledige doorboring alle verbindende weefsels en botelementen van lichaamsdeel                                                            |
+| Zichtbaar   | Lichaamsdeel volledig gescheiden van lichaam                                                                                                                               |
+| Kenmerken   | Vaak vingers, tenen, ... - Bij een scherp-voorwerp-amputatie veel bloed, bij stomp worden bloedvaten toegeduwt *(maar is geamputeerd deel meestal niet terug te plaatsen)* |
+| Handelingen | Bloeding stelpen -> Afspannen/drukken op stomp -> Inpakken geamputeerd element ->  ==zsm naar ziekenhuis om mogelijk terug te plaatsen==                                   |
+
+|             | **Injectietrauma**                                                   |
+| ----------- | -------------------------------------------------------------------- |
+| *v.b.*      | / *(zelfde als afrukking)*                                           |
+| Oorzaak     | Door hoge druk vreemd lichaam ingespoten                             |
+| Zichtbaar   | Kleine ingang, weinig bloed                                          |
+| Kenmerken   | Vaak zeer fijne straal, ernstige letsels wanneer niet<br>verwijderd. |
+| Handelingen |                                                                      |
+
+#### Handelingen bij levensbedreigende letsels
+> [[O26 Amputatie, verplettering, verminking]], [[O25 Zwaar trauma en schedeltrauma]]
+
+**Halswonden**:
+1. Onmiddelijk afdekken
+2. Drukverband via oksel
+3. Rechstreekse directe druk
+4. Neerleggen *(voorkomen van luchtembool -> binnentrekken door negatieve druk in ader)*
+
+**Ernstige bloedingen**
+> [[O05 Hypovolemische shock bij volwassene]]
+
+1. Dichtdrukken *(zie [[#Druk uitvoeren]])*
+2. Drukverband -> ==Indien bloed er door komt extra verband erbovenop==
+
+**Amputatie**
+1. Stomp inpakken en drukverband 
+2. Hoogstand houden *(v/ ledemaat, hand, ...)*
+3. Geamputeerd lichaamsdeel
+	- Steeds meenemen
+	- Koel houden
+	- Plastic zak in plastic zak met ijs en water
+	- Grote lichaamsdelen in schone doek en deze op ijspakken
+	- Contact met water voorkomen!
+
+**Open breuk**
+1. MUG/PIT bijstand voor pijnstilling
+2. Spoelen met NaCl
+3. Afdekken met steriel verband
+4. Aligneren & spalken 
+
+**Vreemd voorwerp**
+1. Laten zitten
+2. Stabiliseren en fixeren *(zie [[#Handelingen bij aangezicht- en halsletsels]])*
+3. Opletten bij verplaatsen
+
+>[!warning] Steek- en schotwonden hoofd, hals & romp
+>Direct MUG + ZSM ziekenhuis
+
+#### Handelingen bij lichte huidwonden
+*vb. volledige benadering v/ slachtoffer met lichte huidewonde en stabiele parameters*
+1. Volledige benadering tot D: Stabiele parameters, misschien ligt hoge AH frequentie, bloeddruk en hartslag
+2. Exposure -> Visuele controle op letsels:
+	- Snijwonde bovenbeen rechts
+	- Wonde inspecteren -> Diepte, vreemde voorwerpen, bloeding
+	- Geen penetrerende voorwerpen uit de wonde halen
+	- Wonde spoelen met zuiver water
+	- Voorlopig afdekken
+	- Groot genoeg kompres of wondpleister
+
+##### Verbandtechnieken
+Een aantal verbandtechnieken *(zie [[P44 Aanleggen van een kruisverband]], [[P45 Aanleggen van een scharnierverband]], [[P43 Aanleggen van een afdekkend spiraalverband]])*
+
+| Scharnierverband                     | Spiraalverband *(naar hart toe)*     | Kruisverband *(beginnen boven gewricht)*                                     |
+| ------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------------- |
+| ![[Pasted image 20261025213237.png]] | ![[Pasted image 20261025213227.png]] | ![[Pasted image 20261025213206.png]]<br>![[Pasted image 20261025213218.png]] |
+#### Druk uitvoeren
+1. **Direct druk**
+	1. Beginnen met hand druk te bieden direct op bloeding *(in handschoenen)* -> *bv. capilaire bloedingen*
+	2. Met een verband/drukverband direct op bloeding drukken
+2. **Indirecte druk**: dichtknijpen van toevoerende slagader 
+3. **Knevel** voor volledige ledemaat
+
+### Skeletletsels a/d ledematen
+> Foto's uit presentatie
+
+Skeletletsels zijn verwondingen aan de botten, pezen en gewrichten of d.m.v. verwondingen van die onderdelen *(bv. bloedvaatletsels door breuk)*
+
+|             | **Gesloten botbreuk**                                                                                                                                                            |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *v.b.*      | ![[Pasted image 20261025221406.png]]![[Pasted image 20261025221421.png]]                                                                                                         |
+| Oorzaak     | Harde inwerkende *(stompe)* kracht op bot                                                                                                                                        |
+| Zichtbaar   | Geen verwondingen direct zichtbaar -> Meestal wel duidelijk verplaatsing<br>1. Verkorting ledemaat<br>2. Rotatie ledemaat<br>3. Meestal duidelijke kleine bloeding aan breukpunt |
+| Handelingen | Indirect *(handdoek)* koelen met ijs *(indien nodig/mogelijk)* -> Aligneren -> Spalken                                                                                           |
+
+|                                                                                                                                                                   | **Open botbreuk**                                                                              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| *v.b. via [AO](https://surgeryreference.aofoundation.org/orthopedic-trauma/adult-trauma/tibial-shaft/further-reading/principles-of-management-of-open-fractures)* | ![[Pasted image 20261025222050.png]]                                                           |
+| Oorzaak                                                                                                                                                           | Scherp bot scheurt door huidwand en veruitwendigt zich                                         |
+| Zichtbaar                                                                                                                                                         | Botdeel ver uit lichaam                                                                        |
+| Kenmerken                                                                                                                                                         | Shock en besmetting! -> Beide hypovolemische en mogelijks sceptische shock.                    |
+| Handelingen                                                                                                                                                       | Bijstand & bloeding stelpen -> Reinigen met NaCl -> Steriele compressen over -> zsm ziekenhuis |
+
+|             | **Ontwrichting**                                                                                              |
+| ----------- | ------------------------------------------------------------------------------------------------------------- |
+| *v.b.*      | ![[Pasted image 20261025220538.png]]                                                                          |
+| Oorzaak     | Harde kracht op zwak punt van gewricht *(bv. zijkant voet bij omslaan)*                                       |
+| Zichtbaar   | Duidelijke verplaatsing van gewricht en verbonden lichaamsdeel *(bv. voet staat lichtjes verplaatst L <-> R)* |
+| Kenmerken   | Beschadiging van omliggend weefsel: pezen, spieren, zenuwen & bloedvaten                                      |
+| Handelingen | Indien hoge pijnscore *(bijna altijd geval)* MUG bijroepen -> Dokter zal reduceren                            |
+
+|             | **Verstuiking**                                                                             |
+| ----------- | ------------------------------------------------------------------------------------------- |
+| *v.b.*      | ![[Pasted image 20261025221209.png]]                                                        |
+| Oorzaak     | Gelijkaardig aan ontwrichting, maar niet genoeg om bal uit kom te halen.                    |
+| Zichtbaar   | Hematoom & zwelling -> Indien gewrichtsbanden doorgescheurd ook een verlies in stabiliteit/ |
+| Kenmerken   | /                                                                                           |
+| Handelingen | Ijs op leggen                                                                               |
+##### Bloedvatletsels
+Ten gevolge van breuken kunnen er ook bloedvatletsels optreden -> *scheuren, uitrekken of kneuzing en afklemming van bloedvaten*
+1. Wees alert voor de tekenen van shock *(interne bloedingen)*
+2. Zichtbare hematoom, bloeding of zwelling
+3. Geen doorbloeding naar extremiteiten -> *bv. afknelling door breuk*
+
+#### Handelingen bij skeletletsels a/d armen
+> [[P46 Aanleggen van een vacuümspalk (2 hulpverleners)]], [[O27 Open breuk]]
+
+**Algemeen**
+1. Aligneren en wonde afdekken
+2. Spalk aanleggen
+3. Hoogstand
+
+>[!warning] Aandachtspunten vacuumspalk
+> - Juiste maat kiezen *(meet af naast ledemaat)*
+> - Aan onderbeen moet voet erin -> Meet af door naast ledemaat ook 90° buiging te maken met spalk om correcte onderlengte teh ebben
+> - Tenen en vingers vrijlaten
+> - Uitdoen schoenen, juwelen, ...
+> - Bovenste en onderste gewricht in spalk
+
+|                 | Breuken v/d bovenarm                                                                                                                  | Breuken en ontwrichting v/d elleboog                                                                                  | Breuken v/d vooraarm en pols                                                                   |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Kenmerk         | Abnormale stand, patiënt kan pols niet meer strekken                                                                                  | Heel pijnlijk bij plooien, zichtbare verplaatsing gewricht                                                            | Abnormale stand, soms met blauwverkleuring/gevoelsverlies vingertoppen                         |
+| Handelingen     | 1. Lengtetractie arm via geplooide elleboog<br>2. Spalk of draagdoek aanleggen<br>3. Ondersteunen tijdens transport *(bv. met deken)* | Ondersteunen met draagdoek indien mogelijk -> Anders in houding waarin arm het meest comfort biedt *(+ ondersteunen)* | 1. Aligneren *(lengtetractie)*<br>2. Spalk aanleggen<br>3. Draagdoek of ondersteunen met deken |
+| Aandachtspunten | /                                                                                                                                     | Meestal met beschadiging van bloedvaten & zenuwen *(enorm dichtbezette regio)*                                        | Bij kinderen scheefstand niet corrigeren                                                       |
+##### Verbandtechnieken
+
+
+| Rechte draagdoek                     | Schuine draagdoek                    |
+| ------------------------------------ | ------------------------------------ |
+| ![[Pasted image 20261025231015.png]] | ![[Pasted image 20261025231003.png]] |
+#### Handelingen bij skeletletsels a/d benen
+> Foto's uit slides
+
+Meestal zijn skeletletsel v/d benen:
+- Gevaarlijker dan aan de armen
+- Bloedverlies in- en uitwendig mogelijk
+
+>[!tip] Korrelmatras vaak beste optie -> Ondersteunt alles
+
+|             | **Breuken en ontwrichting van bekken en heup **                                      | **Breuk van dijbeen/femur**                                                                       |
+| ----------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| *v.b.*      | ![[Pasted image 20261025233206.png]]                                                 | ![[Pasted image 20261025233214.png\|273]]                                                         |
+| Oorzaak     | Val of hoog energetisch zwaar trauma                                                 | Hoog energetisch zwaar trauma                                                                     |
+| Zichtbaar   | Vaak verkorting been, been naar buiten gedraaid, bloedverlies en bloedtoevoer nagaan | Verkorting been, hematoom, ...                                                                    |
+| Kenmerken   | Meestal syncope vooraf                                                               | Vaak ernstige bloeding mogelijk(shock), enorm moeilijk om te aligneren door krachtige dij-spieren |
+| Handelingen | Steeds been goed fixeren en ondersteunen                                             | Best in korrelmatras                                                                              |
+
+|             | Letsels v/d knie                                           | Breuk v/h onderbeen                     | Breuk v/ enkel of voet                                                        |
+| ----------- | ---------------------------------------------------------- | --------------------------------------- | ----------------------------------------------------------------------------- |
+| Zichtbaar   | Zwelling, vervorming en been<br>kan niet bewegen           | Misvorming, vaak open breuk             | Vaak voet naar buiten gedraaid, binnenenkel puilt uit, Zwelling en vervorming |
+| Kenmerken   | Kan bloedtoevoer afknellen -> controle extremiteiten       | Been niet opheffen, pijn                | Vaak verstoorde bloedtoevoer,                                                 |
+| Handelingen | Bij gestrekt been -> knie spalken anders  een ondersteunen | Spalk aanleggen van halfweg dij totvoet | Aligneren en spalk aanleggen van boven knie tot voet                          |
+

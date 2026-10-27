@@ -47,7 +47,6 @@ bron: Procedures t.b.v. de hulpverlener-ambulancier 112, editie 2023
 7. sluit het recipiënt van de teststrips onmiddellijk
 8. neem de priknaald en plaats deze tegen de te prikken plaats zonder te veel druk uit te oefenen
 9. druk op de ontspanknop of druk de priknaald in
-
 10. verwijder de priknaald en deponeer deze in de naaldcontainer
 11. knijp zachtjes in de vinger tot er een ronde druppel bloed gevormd is, veeg de eerste druppel weg, geef zachte druk zodat er een tweede druppel wordt gevormd
 12. breng de tweede druppel bloed aan op de teststrip of laat bloed door de teststrip opzuigen zodat het testveld volledig gevuld is
