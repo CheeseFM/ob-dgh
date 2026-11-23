@@ -4,10 +4,10 @@ Wat er nog moet gebeuren
 - [x] Afmaken [[De gewonde patiënt]]
 - [x] Afmaken [[De zieke patiënt]]
 - [ ] Interactieve stappenplan met staande orders/procedures maken *(waar je ook van de staande order naar de procedures kunt doorklikken)*
-- [ ] Afmaken spoedbevalling
-- [ ] Afmaken pediatrische patiënt
-- [ ] Pyschosciale hulpverlening & agressie
-- [ ] Pyschische kwetsbaarheid & gedrag
+- [x] Afmaken spoedbevalling
+- [x] Afmaken pediatrische patiënt
+- [x] Pyschosciale hulpverlening & agressie
+- [x] Pyschische kwetsbaarheid & gedrag
 - [ ] Anki updateten met nieuwe kaarten
 	- [ ] Afmaken eerste minuten / volledig stappenplan erin zetten *(o.a. GCS, malinas, normale waarden, ...)*
 	- [ ] Procedures in Anki *(opgedeelt in wat nodig, wat doen, nazorg, ...)*
