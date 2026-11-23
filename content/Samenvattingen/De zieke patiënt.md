@@ -1,10 +1,10 @@
 ---
 tags:
-  - bezig
   - airway
   - breathing
   - circulation
   - dissability
+  - "#afgerond"
 ---
 📅 Aangemaakt: 26-10-2026
 
@@ -27,17 +27,15 @@ tags:
 > - [x] De oorzaken, de gevolgen en de beoordelingsmethoden in geval van syncope alsook de handeling/acties die hierbij moeten ondernomen worden.
 > - [x] Het begrip vergiftiging.
 > - [x] De verschillende oorzaken en vormen van vergiftiging.
-> - [ ] De oorzaken, de gevolgen/symptomen en de beoordelingsmethode van koolstofmonoxide vergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [ ] De oorzaken, de gevolgen/symptomen en beoordelingsmethode van een gasvergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [ ] De oorzaken, de gevolgen en beoordelingsmethode van een alcoholvergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [ ] De symptomen van een acute alcoholvergiftiging en alcoholderving.
-> - [ ] De verschillende soorten drugs en de gevolgen voor het lichaam bij inname.
-> - [ ] De symptomen en beoordelingsmethode van een drugintoxicatie alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [x] De oorzaken, de gevolgen/symptomen en de beoordelingsmethode van koolstofmonoxide vergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [x] De oorzaken, de gevolgen/symptomen en beoordelingsmethode van een gasvergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [x] De oorzaken, de gevolgen en beoordelingsmethode van een alcoholvergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [x] De symptomen van een acute alcoholvergiftiging en alcoholderving.
+> - [x] De verschillende soorten drugs en de gevolgen voor het lichaam bij inname.
+> - [x] De symptomen en beoordelingsmethode van een drugintoxicatie alsook de handeling/acties die hierbij moeten ondernomen worden.
 
->[!help] Gebonden praktijklessen
-> - `xx/xx/xxxx` - PRAKTIJK ...
 
->[!note] PDF: [[pdf link]]
+>[!note] PDF: [De zieke patiënt.pdf](../Source/PDFs/De%20zieke%20patiënt.pdf)
 
 # Gewaar worden van de interne cassusen, hoe je ze herkent, wat je moet doen en wat de mogelijk gevolgen hiervan kunnen zijn.
 
@@ -536,17 +534,128 @@ Twee soorten inwerking via huid:
 - Stoffen die reageren met organische stoffen *(en dus chemische brandwonden veroorzaken)* 
 	- *bv ontstoppers*
 
-**Chemische brandwonden**: ontstaan door inwerking van
-chemische stoffen op de huid en onderliggende weefsels. De
-chemische stof gaat een reactie aan de cellen in de huid
-waardoor deze ernstig beschadigd raakt.
-
-**Wat te doen?**: Overspoelen met water
+**Chemische brandwonden**: ontstaan door inwerking van chemische stoffen op de huid en onderliggende weefsels. De chemische stof gaat een reactie aan de cellen in de huid waardoor deze ernstig beschadigd raakt.
+-  **Wat te doen?**: Overspoelen met water
 
 #### Via meerdere routes 
+Erkennen van de combinatorische vergiftigingen
 
 
-
+|                          | Arsenicum                                                     | Mosterdgas                                                          | Fluorwaterstof                              |
+| ------------------------ | ------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------- |
+| Zichtbaar *(uit slides)* | ![](../Source/Embeds/Pasted%20image%2020261117235924.png)                   | ![](../Source/Embeds/Pasted%20image%2020261117235913.png)                         | ![](../Source/Embeds/Pasted%20image%2020261117235932.png) |
+| Kenmerken                | Gebruikt voor verdelging *(ratten, insecten, schimmels, ...)* | Geurloze, kleurloze olieachtige vloeistof.                          | Rood, witkleurige blaren                    |
+| Speciaalheden            | Puntvormige bloedingen                                        | Gele kleur en ruikt naar mosterd en knoflook door verontreinigingen | Verbranding veroorzaakt chemische reactie   |
 ### Alcohol
+*(= een drug)* Maatschappelijk aanvaarde verslavende stof.
+- Rechtstreekse *(acute)* effecten: Dronkenschap
+- Op termijn *(chronische)* effecten: Leverfalen, problemen met urologisch stelsel
+
+#### Hoe beoordeel je een alcoholvergiftiging ?
+1. Andere problemen? -> 
+	- Is het effectief dronkenschap? Kan suikerziekte zijn
+	- Zijn er andere letsels/klachten? -> Hoofdwonde opgelopen, epilepsie, schaafwonden, pijn op borst, ...
+2. Enkel alcohol? ->a.d.h.v. parameters meenemen
+
+#### Hoe herken je een acute alcoholvergiftiging ?
+1. Adem ruikt naar alcohol *(op zichzelf onvoldoende)*: Van één glas kan dit al afhankelijk van tijd v/ inname, sommige sterke dranken geven geur
+2. Ongeordende gedachten, onsamenhangende woorden en zinnen, spreekt met een "dubbele tong"
+3. Duizeligheid
+4. Roodkleurig gelaat, meestal heel zweterig
+5. Soms gestoorde en trage reacties -> Verwardheid
+6. Soms gedaald bewustzijn/bewusteloosheid *(pas op voor vrije luchtweg!)* 
+7. Uitvergrote emotionele reacties -> Enorm blij of juist enorm neerslachtig, agressiviteit 
+8. Misselijkheid en braken
+9. Soms hallucinaties *(niet super gekend symptoom)*
+
+#### Handelen naar een alcohol probleem
+ - Controleer het bewustzijn (WAPA).
+ - Controleer de vitale functies.
+ - Bij een zeer ernstige vergiftiging kan de patiënt bewusteloos raken en zelfs ademhalingsproblemen krijgen. Zorg dan voor een vrije luchtweg *(hoofd kantelen en kinlift).*
+ - Bij onvoldoende ademhaling, moet je beademen en zuurstof geven.
+ - Verwittig het HC 112 en vraag bijstand van de MUG bij bewusteloosheid of ademhalingsmoeilijkheden.
+ - Leg een halskraag aan als er aanwijzingen zijn voor hoofd- en/of nekletsel. *(Na een val of bij het zien van een hoofdwonde bijvoorbeeld)*
+ - Bij braken leg je de patiënt in veiligheidshouding. Aspireer met een sonde.
+ - Wees erop voorbereid dat de patiënt stuiptrekkingen kan krijgen.
 
 ### Drugs
+*(= middelen die bij inname de biologische werking, fysieke staat of mentale perceptie verstoren/aanpassen)* 
+#### Stimulerende middelen
+Gevoel van meer energie, sneller reageren.
+
+| *vb.*               | Caffeïne                                | Cocaïne                                                                       | Wekaminen/amfetaminen                      | XTC -> MDMA                                                                                                    |
+| ------------------- | --------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Hoe herkennen       | Bonen, bruine poeder, donkere vloeistof | Wit kristalachtig poeder                                                      | Pillen, poedervorm *(poedersuiker achtig)* | Verschillende kleuren en vorme, meestal beetje alternatief                                                     |
+| Inname              | Oraal                                   | Snuiven, geïnjecteerd *(via oplossen met water)*                              | Snuiven, spuiten of slikken                | Pillen of capsules                                                                                             |
+| Gevolgen            | Tijdelijk opgepept gevoel               | Op lange termijn; vervagen van tussenschot neus, gele en/of gebrekkige tanden | Stimulatie centrale zenuwstelsel           | Soms verkocht als "XTC" maar is dit een mengeling of bevat pil zelf geen MDMA *(enorm onvoorspelbare werking)* |
+| Gekende straatnamen | Koffie, bakkie, slootwater              | Snow, coke                                                                    | *(soorten amfetaminen)* Speed, ecstasy     | /                                                                                                              |
+
+#### Kalmerende middelen
+Rustgevend, kalmerend en hypnotisch effect -> ==verzwakken de activiteit van het
+centraal zenuwstelsel== *(Zij verminderen angst en onrust)*
+- Worden therapeutisch gebruikt bij angststoornissen, chronische onrust, ... *(soms symptomen ten gevolge van depressie)*
+
+*vb.* -> Seresta, valium, xanax
+
+>[!info] Verschil verdovende en kalmerende middelen
+> - **Kalmerende middelen** maken je rustiger en verminderen angst of spanning zonder dat je het bewustzijn verliest. 
+> - **Verdovende middelen** remmen het zenuwstelsel en de ademhaling veel sterker af, waardoor ze zorgen voor een diepe roes, pijnstilling of zelfs ==volledige bewusteloosheid==.
+
+#### Verdovende middelen
+Veroorzaken een roes en verwekken slaperigheid.
+- Worden beide legaal *(zware pijnbestrijding -> opiaten)* en illegaal *(als ontsnapping v/d realiteit, drug)* gebruikt
+
+**Opiaten**: stoffen uit papaverplant -> Onrijpe zaadbol in kerven, vrijkomend melksap indrogen = Ruw opium
+- Kan gezuiverd worden naar morfine, codeïne
+
+| *vb.*               | Heroïne                                |
+| ------------------- | -------------------------------------- |
+| Kenmerken/Herkennen | Grof wit poeder tot geelbruine brokjes |
+| Inname              | Spuiten                                |
+| Gevolgen            | Verdovend *(duh)*                      |
+| Gekende straatnamen | Bruin, smack                           |
+
+>[!info] Methadon
+>Afkickproduct voor van heroïne af te komen. Vermijdt de ontwenningsverschijnselen.
+
+#### Hallucinerende middelen
+*(= bewustzijn veranderende middelen)* Ze verstoren de werking van de hersenen zodanig dat de gebruiker
+hallucinaties krijgt. De waarneming van de omgeving wordt helemaal vertekend *(zintuigelijk)*
+- Hieronder vallen ook pado's
+
+| *vb.*               | LSD *(en tripmiddelen)*          | Ketamine                                           |
+| ------------------- | -------------------------------- | -------------------------------------------------- |
+| Kenmerken/Herkennen | Klein stickervelachtig papiertje | Doorzichtige vloeistof of witte poeder             |
+| Inname              | Oraal                            | Poeder *(gesnoven)* of als injectievloeistof -> IV |
+| Gevolgen            | Hallucinaties                    | Hallucinaties,                                     |
+| Gekende straatnamen | /                                | Ket                                                |
+
+#### Middelen met invloed op geest / gemengde middelen
+Hebben invloed op beweging / concentratie maar veroorzaken *(meestal)* geen hallucinaties
+
+| *vb.*               | Cannabis *(uit hennepplan)*                           | Poppers                            | GHB                                                                        | Paddo's                                                                 |
+| ------------------- | ----------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Kenmerken/Herkennen | Meestal groen                                         | Kleine, meestal kleurrijke flesjes | Gemaakt uit gootsteenontstopper, velgenreiniger, ... + gedestilleerd water | Verzamelnaam voor alle paddenstoelen die bewustzijn beïnvloeden         |
+| Inname              | Roken, verwerkt in andere producten *(bv. spacecake)* | Inademen                           | Vloeibaar en poedervorm                                                    | Vers of gedroogd gegeten, soms ook in thee of andere gerechten verwerkt |
+| Gekende straatnamen | Hasj, wiet                                            | /                                  | /                                                                          | /                                                                       |
+
+#### Beoordelen van drugsintoxicatie
+Achterhalen welk **type drugs** de betrokkene genomen heeft ->Tekenen of symptomen herkennen
+
+| Stimulerende middelen       | Kalmerende middelen                            | Verdovende middelen                  |
+| --------------------------- | ---------------------------------------------- | ------------------------------------ |
+| Opgewonden                  | Traag, futloos of slaperig                     | Slaperig tot bewusteloos             |
+| Al lange tijd niet geslapen | Patiënt spreek onduidelijk                     | Trage hartslag en moeilijk voelbaar  |
+| Transpirerend               | Loop of stapt moeilijk                         | Trage, ondiepe ademhaling -> Gevaar! |
+| Snelle hartslag             | Trage ademhaling -> Bedreiging vitale functies | Vernauwde pupllen *(puntvormig)*     |
+| Wijde pupillen              |                                                |                                      |
+
+#### Handelen bij een drugsintoxicatie
+1. Wees voorzichtig, hou je eigen veiligheid in oog
+2. Behandel zoals je kunt volgens stappenplan
+	- Controleer de vitale functies en behandel zo nodig.
+	- Geef zuurstof bij ademhalingsmoeilijkheden (masker en reservoir).
+	- Tracht contact te houden met de patiënt door te praten. Probeer vertrouwen te winnen.
+	- Kijk goed rond en ondervraag omstanders.
+	- Kijk uit voor verpakkingen, prikplaatsen.
+	- Kijk naar verwondingen aan het hoofd of andere kwetsuren.
