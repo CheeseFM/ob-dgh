@@ -1,6 +1,8 @@
 ---
 tags:
-  - nog-niet-begonnen
+  - bezig
+  - 3S
+  - communicatie
 ---
 📅 Aangemaakt: 23-11-2026
 

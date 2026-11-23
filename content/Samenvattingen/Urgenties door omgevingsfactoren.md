@@ -29,6 +29,9 @@ tags:
 > - [x] De verschillende soorten radioactieve stralen en hun effect.
 > - [x] De stappen die moeten gevolgd worden/uitgevoerd worden in geval van een stralingsongeval.
 
+>[!help] Gebonden praktijklessen
+> - `21/11/2026` - [[21-11-2026|PRAKTIJK brandwonden, elektrocutie, verdrinking en technieken]]
+
 >[!note] PDF: [Urgenties door omgevingsfactoren.pdf](../Source/PDFs/Urgenties%20door%20omgevingsfactoren.pdf)
 
 # Alle mogelijke omgevingsfactoren en invloeden, bepalen van ernst en handelingen nodig bij medische interventies
@@ -100,6 +103,28 @@ We gaan via 5 criteria proberen bepalen hoe ernstig een brandwonde is:
 - Verwarm sanitaire cel om onderkoeling te voorkomen
 - Half zittende houding indien mogelijk - anders in positie comfortabel
 
+>[!tip] Praktijk brandwonden *(21/11)*
+> - ==20/20/20-regel==: 20 minuten lang, op 20°C, 20 cm van de brandwonde koelen met water
+> - **Directe medische bijstand** bij: verbrand neushaar, aangezicht/hals/luchtwegen/genitaliën, oppervlakte en graad, shock, elektrische verbranding, hevige pijn *(pijnstilling)*
+> - Zuurstof geven a.d.h.v. saturatie
+
+**Stappenplan:**
+1. Veiligheid
+2. Eerste evaluatie: niet direct levensbedreigend?
+3. Info inwinnen: oorzaak, hoe lang gekoeld, wijze van blootstelling
+4. Lichaamsoppervlakte inschatten
+5. MUG indien nodig
+6. Patiënt ontkleden, juwelen verwijderen
+7. Afkoelen *(20/20/20)*
+8. Natte steriele kompressen, patiënt wikkelen in isothermische deken
+
+**Aluminium deken aanleggen:**
+1. Knoop in de hoek
+2. Patiënt rechtzetten indien mogelijk, anders deken onder de patiënt brengen via de logroll
+3. Door de achterkant van de kledij steken
+4. Door de voorkant van de kledij steken
+5. Een soort pamper maken *(eerst broek naar beneden trekken, daarna over de alu-deken-pamper trekken)*
+
 ### Aanvullende briefing bij brandwonden
 - Welk soort brand?
 - Welk materiaal betrokken?
@@ -148,6 +173,7 @@ Enorm breed, door spasmen + interne brandwonden EN elektrisering organen; maar *
 1. ==Veiligheid voorop==! Je schakelt de elektriciteitsbron eerst uit en raakt het SO* niet aan tot dit verifieerbaar is.
 2. Volgens waarnemingen -> Stappenplan *(reanimatie, immobilisatie, brandwonden, ...)*
 3. Vraag indien nodig medisch middel
+	- Radiofonisch contact over medische bijstand updaten indien: slachtoffer in actieve bevalling gaat, bewustzijn verliest, of reanimatie wordt opgestart
 
 ## Verdrinking
 ---

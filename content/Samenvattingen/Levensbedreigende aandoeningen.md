@@ -742,3 +742,12 @@ Baby/zuigeling = ==< 1 jaar==. Een pasgeborene *("natte baby")* zit in de module
 	- Diepte 1/3 v/d anteroposterieure doormeter *(+/- 4 cm)*, volledig laten terugveren na elke compressie
 	- Frequentie 100 - 120/min -> verhouding **15/2**
 8. **AED**: ==pediatrische pads/stroomverzwakker==, anteroposterieur kleven *(borst + rug)* - collega installeert het toestel terwijl jij doorpompt
+
+>[!tip] Praktijk REA kind/baby *(19/10)*
+> - Duimen *(baby)*: 1 vinger onder de denkbeeldige tepellijn *(of boekje toevallen)*. Kind: enkel de palm gebruiken, vingertoppen los
+> - Aanspreken: niet verbaal én fysiek tegelijk *(komt bedreigend over)* -> eerst "Hallo `<NAAM>`?", dan pas aanraken
+> - **Taakverdeling**: ambulancier A doet de REA, ambulancier B de logistiek *(AED, ballon, MUG)*
+> - ==Luidop tellen== zodat je collega de ballon goed kan positioneren
+> - AED aangekomen -> direct plakken, in duidelijke samenwerking met je collega
+> - Was de MUG al opgeroepen? Bij overgang naar REA ==opnieuw contact leggen==
+> - ==Toon waar je je handen plaatst op het examen!==

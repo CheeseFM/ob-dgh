@@ -24,6 +24,11 @@ aliases:
 > - [ ] De bevoegdheden bij het onderzoek van de patiënt en de systematiek bij de observatie.
 > - [ ] De taak van de hulpverlener ambulancier tijdens het vervoer naar/aankomst in het ziekenhuis.
 
+>[!help] Gebonden praktijklessen
+> - `03/10/2026` - [[03-10-2026|PRAKTIJK parameters en medische handelingen]]
+> - `19/11/2026` - [[19-11-2026|PRAKTIJK drills RK]]
+> - `21/11/2026` - [[21-11-2026|PRAKTIJK technieken (o.a. BEFAST, head-to-toe)]]
+
 >[!note] PDF: [[De eerste minuten DGH.pdf]]
 
 # In de eerste minuten kan er al veel fout gaan, daarom volgen we een stappenplan met VASTE chronologische volgorde
@@ -126,6 +131,13 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 >[!warning] Het ABCDE+ schema ken je van voor en vannachteren. Het is je leidraad voor alles
 >Benoemen van de stappen zal op het examen bewijzen dat je het goed kent.
 
+>[!tip] Examen-tips *(19/11)*
+> - Duidelijke communicatie is key: ==benoem alles== *("Ik heb mijn PBMs aan, de CO-meter is mee", "Is het veilig?")*
+> - Vraag altijd of een afwijkende parameter normaal is voor de patiënt
+> - Ook zonder "direct" levensgevaar: vitale parameters in gevaar = medische bijstand *(bv. enorm lage glycemie)*
+> - Een "opstoot van Parkinson" bestaat niet
+> - Meest voorkomende fouten: medicatie optrekken, infuus klaarmaken, manuele bloeddruk
+
 ### A. Airway *(= luchtweg)*
 1. **Blokrol** [[P34 Draaien van de patiënt - blokroltechniek (2 hulpverleners)]]
 2. Stabilisatie CWZ a.d.h.v. **MILS** [[P40 Manuele immobilisatie van het hoofd in neutrale positie (MILS)]] bij vermoeden van cervicaal wervelletselr
@@ -200,7 +212,16 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 4. Tekens van *(hypovolemische)* schock? [[O05 Hypovolemische shock bij volwassene]]
 	- Bleke klamme huid *(enkel v/ toepassing bij iemand die net geen inspanning heeft gedaan natuurlijk)*
 	- **Capilaire refill** (max 2s): Duwen op het voorhoofd/borstkas
-	- **B**uik **B**ekken **B**ovenbenen bekijken voor *(al dan niet intern)* bloedverlies
+	- **B**uik **B**ekken **B**ovenbenen bekijken voor *(al dan niet intern)* bloedverlies *(buik voelen in 4 kwadranten)*
+
+>[!tip] Praktijk parameters *(03/10 + 19/11)*
+> - ==Never treat the monitor!==
+> - Shock is een circulatieprobleem die **cascadeert**: haarvaten -> vaten -> slagaders
+> - Capillaire refill meten waar het bedekt is *(koude = vasoconstrictie)*. > 2 sec = teken van shock als er geen andere reden is *(lage bloeddruk, koude omgeving, dronken)*
+> - Manuele bloeddruk: meet de tegendruk van het perifeer vaatstelsel. Nooit hoger dan 200 pompen *(30 boven de normale waarde, bv. 12/8 -> 150)*. Stethoscoop richting neus
+> - Pols nooit met de duim meten -> met wijsvingers in het dipje van de pols duwen
+> - **Monitor** aanleggen via ABCDE: eerst saturatie, dan pols *(leads)*, dan bloeddruk. Connectors losmaken: plakker tegen elkaar duwen en draaien
+> - Monitor is betrouwbaarder voor bloeddruk dan de elektronische meter *(houdt rekening met polsslag, geen foute lezingen op een hobbelige baan)*
 
 > [!important] Normale waarden
 > **Hartslagen:**
@@ -228,6 +249,8 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 ### D. **Disabillity** *(= neurlogische gebrekken)*
 1. Pupillen check - **PEARL** *(= Pupils Equal And Reactive to Light, puppilen isocoor en reagerend op licht)*
 2. WAPA/GCS *(= Bewustzijnstoestand bepalen)* [[O13 Verminderde bewustzijnstoestand (somnolent - stuporeus - comateus)]]
+	- Bij somnolent/stuporeus of na een zwaar ongeval: altijd navragen of het bewustzijn al verloren is geweest
+	- Bij vermoeden van neurologisch trauma: uitgebreide evaluatie, onderzoek ==hoe ver de gevoelloosheid zit==, niet enkel een kleine drukoefening
 	1. **WAPA**:
 		- **Wakker**: Patiënt kent eigen naam, weet wat er gebeurt is, kent de dag van de week, weet waar ze zijn *(= Bewust)*
 		- **Aanspreekbaar**: Slachtoffer lijkt bewusteloos maar reageert op verbale prikkels/aanspreking *(= Somnolent)*
@@ -246,7 +269,7 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 
 3. **BEFAST** 
 	- **Balance** *(= evenwicht)*: Onverklaarbare vertigo, evenwichtsverstoring en/of coördinatie *(te testen via ogen dicht doen -> dronken-achtige ronddraaiende kamer)*
-	- **Eyes** *(= ogen)*: Wazig, of gebrekken in het zichtveld *(te testen door te vragen)*
+	- **Eyes** *(= ogen)*: Wazig, of gebrekken in het zichtveld *(te testen door te vragen)* -> gaat niet over PEARL, wel over wazig zien of uitval van zicht door neurologische problemen
 	- **Face** *(= gezicht)*: Gezicht verzakt aan één kant *(te testen door slachtoffer te laten glimlachen)*
 	- **Arms** *(= armen)*: Verlies in functie of gevoel van ledematen *(te testen door armen voorruit te houden)*
 	- **Speech** *(= spraak)*: Verwarring, moeite in spreken of samenhangde gesprekken te voeren *(te testen door te laten spreken)*
@@ -270,19 +293,19 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 
 ### E. **Exposure** *(= blootstelling)*
 1. Temperatuur: 
-	- Tympaan *(= oor)* [[P17 Meten van de lichaamstemperatuur met een digitale oorthermometer (tympaan)]]
+	- Tympaan *(= oor)* [[P17 Meten van de lichaamstemperatuur met een digitale oorthermometer (tympaan)]] *(vergeet het hoesje niet!)*
 	- Axillair *(= oksel)* [[P18 Meten van de lichaamstemperatuur in de oksel met een digitale thermometer (axillair)]]
 	- Sublinguaal, oraal *(= onder de tong)* [[P19 Meten van de lichaamstemperatuur onder de tong met een digitale thermometer (sublinguaal, oraal)]]
 	- Rectaal *(= in de poep)* [[P20 Meten van de rectale lichaamstemperatuur bij een kind met een digitale thermometer]]
 2. Visuele hoofd-tot-teen controle op letsels: Normaal heb je dit onbewust al gedaan, indien sterk gekleed probeer ook onder de lagen te kijken.
 3. Pijnscore
-	- **NRS** *(= Numeric Rating Scale of VAS; Visual Analogue Scale)*: Slachtoffer geeft een numerieke schaal van 0-10 over hun pijn
+	- **NRS** *(= Numeric Rating Scale of VAS; Visual Analogue Scale)*: Slachtoffer geeft een numerieke schaal van 0-10 over hun pijn -> ==NRS > 7: direct medische bijstand== *(luchtweg in gevaar!)*
 	- **PQRST**: 
 		- Provoking factors *(= uitlokkende factoren)*: Wat lokt de pijn uit, wat maakt het beter/erger?
 		- Quality *(= kwaliteit)*: Welk type pijn is het? Scherp, drukkend, brandend, jeukend, krampend?
 		- Radiation *(= radiëren)*: Waar bevindt de pijn zich, spreidt het zich verder naar andere delen? *bv. acuut coronair syndroom -> armen*
 		- Severity *(= ernst)*: Hoe erg is de pijn -> **NRS****
-		- Time *(= tijdspanne)*: Wanneer is het begonnen, is het blijvend of gaat het soms weg?
+		- Time *(= tijdspanne)*: Wanneer is het begonnen, is het blijvend of gaat het soms weg? *(en is het in die periode al verergerd?)*
 4. **Malinas score**: Bepalen of bevalling acuut is dat er mogelijkheid is van een thuisbevalling/in transport
 	- Je telt per kolom *(gelijkaardig aan de GCS)* op wat de score is - ==Indien hoger dan of gelijk aan 5 direct assistentie MUG/PIT==  [[O01 Nakende bevaling / Onmiddelijke postpartum zorg]]
 
@@ -338,6 +361,9 @@ Aftasten van alle delen van het lichaam beide visueel als fysiek met de handen. 
 6. Ledematen: Controleren op breuken, ontwrichtingen, wonden, zwellingen en opnieuw checken op doorbloeding, kleur gevoel en de beweging
 7. Rug en flanken: ==Indien nodig== rug controleren via de logroll *(op zij rollen)* *bv. bij ophoping bloed*
 
+>[!tip] Praktijk head-to-toe *(21/11)*
+> Deftig ondernemen: hard genoeg duwen/knijpen, ribben en thorax goed voelen, wervels echt aftasten door naar beneden te duwen.
+
 ### I. **Immobilisation** *(= Immobiliseren)*
 1. Niet-farmacologische pijnbestrijding 
 	- We gaan mogelijke niet-levensbedreigende pijnzenders *(bv. breuken of ontwrichtingen a/d ledematen)* **spalken** om onnodige beweging te vermijden. [[P46 Aanleggen van een vacuümspalk (2 hulpverleners)]] [[P37 Conditionering van de patiënt met vacuümmatras]] [[P36 De patiënt op een schepbrancard tillen - immobiliseren]]
@@ -354,6 +380,41 @@ Wanneer is spinale immbolisatie nodig? Volg het stappenplan:
 	- Bij een ongeïsoleerd penetrerend trauma *geïsoleerd wordt niet geïmmobiliseerd omdat dit directe spoedeisende hulp nodig heeft en dit enkel de tijd zou verlengen daartot - bv. schotwonde, messteek*
 	- Bij een ABCDE-kritieke situatie *(bv. stop ademhaling)* wordt er geopteerd om direct te reanimeren met standaard immobilisatie *(MILS, hoofd vasthouden)*
 
+
+## Medische handelingen *(praktijk 03/10)*
+---
+### Glycemie prikken
+1. Desinfecteren, afwrijven met kompres en laten vervliegen
+2. Vinger masseren *(bij voorkeur de ringvinger)*
+3. Prikken *(naald vergroten/verkleinen naargelang grootte vinger en eeltvorming)*
+4. Eerste druppel wegvegen
+5. Bloed aanbrengen op de meetstrip
+
+### Infuus voorbereiden
+Controleer de zak op datum en inhoud: **NaCl** *(zoutoplossing)* is normaal, bij geriatrische patiënten meestal **glucose**.
+1. Infuuszak uit de verpakking halen
+2. Verpakking van de leiding openen
+3. Met draaiende beweging prikken in de zak
+4. Leiding dichtknijpen met de klem, 20 cm van de drukkamer
+5. Bovenste deel van de leiding gekneld houden tegen de drukkamer
+6. Lichtjes laten komen tot aan de klem door de klem te lossen
+7. Druppels uit de leiding halen
+8. Laten lopen tot het einde van de leiding
+9. Purgeer verder indien nodig
+
+>[!danger] Luchtembool
+>==10 cc lucht is al genoeg om iemand te doden==. Is er lucht in de circulatie gekomen -> direct **linker zijligging** *(indien mogelijk)*.
+
+>[!info] Botboor
+>Hierbij hoort de infuuszak *(baxter)* in een drukzak.
+
+### Medicatie klaarleggen
+- Medicatie van **trap 3** *(2 rode ringetjes = verdovende middelen)* mag je ==NIET== optrekken
+- Geen samenstellingen of doseringen, enkel de inhoud klaarmaken *(zelfde inhoud in de spuit)*
+- Ampules kraak je open met een compresje, weg van je
+- Raak de stamper van de spuit niet aan
+- Geef de ampule mee bij de overdracht van de spuit
+- Wegkijken van flacon = ontsmetten
 
 ## Briefing
 ---

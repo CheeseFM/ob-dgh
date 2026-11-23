@@ -57,7 +57,7 @@ tags:
 > - [x] De handelingen die moeten uitgevoerd worden bij skeletletsels van de benen.
 
 >[!help] Gebonden praktijklessen
-> - `26/09/2026` - PRAKTIJK de gewonde patiënt: verbanden - standaard immobilisatie - vacuümmatras/vacuümspalk
+> - `26/09/2026` - [[26-09-2026|PRAKTIJK de gewonde patiënt: verbanden - standaard immobilisatie - vacuümmatras/vacuümspalk]]
 > - `10/10/2026` - [[10-10-2026|PRAKTIJK brancard, blokrol, MILS, schepbrancard & KED]]   
 
 >[!note] PDF: /
@@ -155,6 +155,15 @@ Bij een ontploffing maken we het verschil tussen de oorzaak en tijdsschaal van l
 4. Transporteren naar ziekenhuis
 
 -> Zie later in [[#Wervelzuilletsels]] voor correcte gebruik wervelplank, schepbrancard, headblocks, ... *([[P38 Bevrijding van de patiënt met behulp van een wervelplank]] + [[P36 De patiënt op een schepbrancard tillen - immobiliseren]] + [[P37 Conditionering van de patiënt met vacuümmatras]])*
+
+#### Houding naar het ziekenhuis
+- **Halfzittend**: cardiaal, respiratoir of kans op hersenbloeding -> ==sowieso halfzittend==
+- **Trendelenburg**: indien syncopaal *(maar enkel indien écht geen kans op interne bloeding)*
+
+#### Levensbedreigend, dringend of niet-dringend?
+- **Levensbedreigend**: vitale parameters actief in gevaar *(bewustzijn, ademhaling, circulatie)*
+- **Dringend**: kan een gevaar vormen indien niet behandeld
+- **Niet-dringend**: behandelen we niet in de DGH, wel in de NDPV
 
 #### Bevoegdheden incidentsite
 1. Officier v/d brandweer
@@ -431,6 +440,12 @@ Elke stap uitgelegd:
 > 
 > Kan *bv.* door de adrenaline geen pijn voelen.
 
+>[!info] Aanvullingen praktijk *(26/09)*
+> - Neurologische uitval in NEXUS = **gevoel** in de ledematen of ergens op het lichaam *(niet uitval van de hersenen)*
+> - **Kritiek** = schepbrancard + standaard immobilisatie | **niet kritiek** = NEXUS
+> - **Geïsoleerd penetrerend trauma** *(uitsluitend, écht enkel een voorwerp, bv. door de wervelkolom)*: geen immobilisatie, zo comfortabel mogelijk vervoeren en ==het voorwerp NIET verwijderen==
+> - Val van hoogte = zowiezo trauma
+
 ### Aandoeningen v/d wervelzuil *(naast trauma)*
 Naast breuken v/d wervelzuil kunnen ook genetische of chronische aandoeningen zorgen voor problemen aan de rug. 
 
@@ -445,6 +460,12 @@ Naast breuken v/d wervelzuil kunnen ook genetische of chronische aandoeningen zo
 ## Verplaatsen v/d patiënt
 ---
 > Handboek en praktijkles [[10-10-2026]]
+### MILS-greep
+> [[P40 Manuele immobilisatie van het hoofd in neutrale positie (MILS)]]
+1. Duimen op de "slaap"
+2. Wijsvingers boven het oor
+3. Ergens op steunen *(vermoeit anders snel)*
+
 ### Blokrol & verwijderen van de valhelm
 > [[P34 Draaien van de patiënt - blokroltechniek (2 hulpverleners)]]
 
@@ -552,11 +573,11 @@ AMB-A: Blijft headblocks vasthouden zoals je zou doen bij de MILS.
 AMB-B:
 1. Leg de schepbrancard naast de persoon  pas hem aan a/d lengte v/d persoon
 	- *(bij heel lange mensen is dit soms onmogelijk, hierbij nemen we voorkeur op torso, hoofd en laten we de voeten er desnoods afhangen -> Leg een deken onder contactpunt met uiteinde voor comfort)*
-2. Klik de schep uit elkaar 
-3. Positioneer één helft van de schep zodat de headblocks er met 2 vingers van de bovenrand zullen terechtkomen
+2. Klik de schep uit elkaar *(ligt het slachtoffer erop: openen aan het hoofd, anders aan de voeten)* 
+3. Positioneer één helft van de schep zodat de headblocks er met 2 vingers van de bovenrand zullen terechtkomen *(**OP = KOP**: 2 vingers tussen kroon van het hoofd/bovenkant headblocks en de bovenste balk v/d schep)*
 4. Houd met je armen de persoon langs de andere kant tegen, duw met je benen de schep onder het lichaam -> Herhaal voor de andere kant
 5. Klik de bovenkant van de schep eerst toe, daarna de onderkant
-6. Fixeer de headblocks met de H-velcro linten aan de schepbrancard
+6. Fixeer de headblocks met de H-velcro linten aan de schepbrancard *(diagonaal vastleggen -> hoofd kan niet op en neer bewegen, nu mag je MILS loslaten)*
 
 >[!warning] Leg iets onder de knieën
 >Door het plaatsen van de riem zodat het SO* hun benen niet kan plooien creëer je overstrekking. Door hier een handdoek/klein kussen onde te leggen zorg je voor comfort.
@@ -571,6 +592,10 @@ We fixeren ten laatste de patiënt aan de schepbrancard a.d.h.v. de 3 riemen.
 3. Riem aan de bovenkant van de knieën
 
 We laten de patiënt goed uitademen en spannen de riemen aan op die hoogte.
+
+>[!tip] Praktijk riemen *(26/09)*
+> - Altijd met de 3 riemen en/of spin
+> - Vraag collega's *(brandweer, politie)* om hun veiligheidsschoenen onder de schepbrancard te steken, zo kan je de riemen aanleggen
 
 >[!note] Plaatsing spin
 >[[P36 De patiënt op een schepbrancard tillen - immobiliseren]] -> Bij spin; schouder riemen in zelfde gat van borstriem
@@ -827,6 +852,11 @@ Een aantal verbandtechnieken *(zie [[P44 Aanleggen van een kruisverband]], [[P45
 | Scharnierverband                     | Spiraalverband *(naar hart toe)*     | Kruisverband *(beginnen boven gewricht)*                                     |
 | ------------------------------------ | ------------------------------------ | ---------------------------------------------------------------------------- |
 | ![[Pasted image 20261025213237.png]] | ![[Pasted image 20261025213227.png]] | ![[Pasted image 20261025213206.png]]<br>![[Pasted image 20261025213218.png]] |
+>[!tip] Praktijk verbanden *(26/09)*
+> - Noteer parameters!
+> - Drukverband mag met een windel. Bij elke verbandtechniek afrollen richting het hart
+> - **Scharnierverband**: start op het scharnier, sta voor de patiënt *(lichtjes naar de zijkant)*
+
 #### Druk uitvoeren
 1. **Direct druk**
 	1. Beginnen met hand druk te bieden direct op bloeding *(in handschoenen)* -> *bv. capilaire bloedingen*
@@ -838,6 +868,9 @@ Een aantal verbandtechnieken *(zie [[P44 Aanleggen van een kruisverband]], [[P45
 > Foto's uit presentatie
 
 Skeletletsels zijn verwondingen aan de botten, pezen en gewrichten of d.m.v. verwondingen van die onderdelen *(bv. bloedvaatletsels door breuk)*
+
+>[!tip] Spalken *(praktijk 26/09)*
+> De 2 dichtste gewrichten *(boven en onder)* mee spalken, tractie leveren en in lijn trekken.
 
 |             | **Gesloten botbreuk**                                                                                                                                                            |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
