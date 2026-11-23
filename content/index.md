@@ -10,7 +10,12 @@ Welkom op mijn digitaal leersysteem.
 	- [[De eerste minuten DGH]]: Het stappenplan *(heilige bijbel v/h DGH)* 
 	- [[Anatomie DGH]]: Basis anatomie en fysiologie om een context te hebben rond waarom je bepaalde handelingen doet en waar 
 	- [[Levensbedreigende aandoeningen]]: Alle mogelijke kwalen die te maken hebben met de vitale functies 
-	- [[De gewonde patiënt]]: Handelingen herkennen van trauma's
+	- [[De gewonde patiënt]]: Handelingen en herkennen van trauma's
+	- [[Samenvattingen/De zieke patiënt|De zieke patiënt]]: Handelingen naar interne problematiek d.m.v. het stappenplan
+	- [[Samenvattingen/Pediatrische urgenties|Pediatrische urgenties]]: Verschillen tussen parameters/aanspreken/fysiologie van kind t.o.v. een volwassene
+	- [[Samenvattingen/Spoedbevalling|Spoedbevalling]]: Herkennen van en handelen naar een nakende/actieve bevalling
+	- [[Samenvattingen/Psychiatrische urgenties|Psychiatrische urgenties]]: Handelen naar en herkennen van een slachtoffer met psychische problematiek of acute stress en zichzelf hiervoor beschermen 
+	- [[Samenvattingen/Urgenties door omgevingsfactoren|Urgenties door omgevingsfactoren]]: Externe invloeden op het lichaam *(exposure)*
 - Anki deck #bezig : [[DGH.apkg|DGH Anki Download]]
 	- *(Update soms dus gewoon verwijderen en opnieuw insteken)*
 - Praktijkformulier uit te voeren oefeningen: [[Praktijkoefeningen]]
