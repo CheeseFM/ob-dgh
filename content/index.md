@@ -16,6 +16,7 @@ Welkom op mijn digitaal leersysteem.
 	- [[Samenvattingen/Spoedbevalling|Spoedbevalling]]: Herkennen van en handelen naar een nakende/actieve bevalling
 	- [[Samenvattingen/Psychiatrische urgenties|Psychiatrische urgenties]]: Handelen naar en herkennen van een slachtoffer met psychische problematiek of acute stress en zichzelf hiervoor beschermen 
 	- [[Samenvattingen/Urgenties door omgevingsfactoren|Urgenties door omgevingsfactoren]]: Externe invloeden op het lichaam *(exposure)*
+	- [[Samenvattingen/Veiligheid en communicatie|Veiligheid en communicatie]]: Radioverbinding, gevaarlijke stoffen en veiligheid op verkeersongevallen
 - Anki deck #bezig : [[DGH.apkg|DGH Anki Download]]
 	- *(Update soms dus gewoon verwijderen en opnieuw insteken)*
 - Praktijkformulier uit te voeren oefeningen: [[Praktijkoefeningen]]

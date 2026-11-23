@@ -36,7 +36,7 @@ tags:
 > - [ ] De richtlijnen voor zichzelf als hulpverlener ambulancier om te handelen in geval van tekenen van stress.
 > - [ ] De organisaties en diensten waarbij de hulpverlener ambulancier met stress terecht kan. De rol van de psychosociale preventieadviseur in het kader van de wetgeving welzijn op het werk.
 
->[!note] PDF: [[pdf link]]
+>[!note] PDF: [[../Source/PDFs/Psychiatrische urgenties.pdf|Psychiatrische urgenties.pdf]]
 
 # Omgaan met mensen in crisis en/of psychisch leiden en daar zelf niet door onderuit gaan
 
