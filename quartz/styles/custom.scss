@@ -458,3 +458,32 @@ article {
         }
     }
 }
+// ---------------------------------------------------------------------------
+// Callouts: lange woorden (bv. "parameters/aanspreken/fysiologie") mochten de
+// inhoud breder maken dan de callout, waardoor de rechterpadding werd afgeknipt.
+// ---------------------------------------------------------------------------
+article .callout {
+    min-width: 0;
+
+    > .callout-content > * {
+        min-width: 0;
+        overflow-wrap: break-word;
+    }
+}
+
+// ---------------------------------------------------------------------------
+// Callouts in een grid (homepage): <div class="callout-grid"> rond de callouts,
+// met een lege regel erna en ervoor. Max. 2 kolommen, op gsm 1 kolom.
+// ---------------------------------------------------------------------------
+article .callout-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(max(280px, calc(50% - .5rem)), 1fr));
+    gap: 1rem;
+    align-items: start;
+    margin: 1rem 0 2rem;
+
+    > .callout,
+    > blockquote {
+        margin: 0;
+    }
+}

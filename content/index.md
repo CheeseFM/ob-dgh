@@ -1,21 +1,23 @@
 ---
 title: Thuispagina
 ---
-Welkom op mijn digitaal leersysteem voor de opleiding Hulpverlener-Ambulancier 2026.
 
 <a href="/oefenkaartjes" style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:var(--secondary);color:var(--light)">🏫 Online je kennis oefenen</a><a href="/source/anki/dgh_alle_hoofdstukken.apkg" download data-router-ignore style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:transparent;color:var(--secondary)">✨ Flashcards downloaden</a><a href="/Wiki/Wiki" style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:transparent;color:var(--secondary)">🌍 Wiki Procedures & Orders</a>
 
+Welkom op mijn digitaal leersysteem voor de opleiding Hulpverlener-Ambulancier 2026.
 - Samenvattingen: per hoofdstuk, zie [[#Samenvattingen|hieronder]]
 - Lesnota's: [Google Drive](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=drive_link)
 - Praktijk: [[Praktijkoefeningen|formulier met uit te voeren oefeningen]]
 
 ## Samenvattingen
+<div class="callout-grid">
+
 > [!abstract] Basis
 > - [[Wetgeving DGH]]: Alles rond wat een Hulpverlener-Ambulancier mag en niet mag
 > - [[De eerste minuten DGH]]: Het stappenplan *(heilige bijbel v/h DGH)*
 > - [[Anatomie DGH]]: Basis anatomie en fysiologie, om te snappen waarom je bepaalde handelingen doet
 
-> [!danger] ABCDE
+> [!danger] ABCDE+
 > - [[Levensbedreigende aandoeningen]]: Alle mogelijke kwalen die te maken hebben met de vitale functies
 > - [[De gewonde patiënt]]: Handelingen en herkennen van trauma's
 > - [[De zieke patiënt]]: Handelingen naar interne problematiek d.m.v. het stappenplan
@@ -29,6 +31,8 @@ Welkom op mijn digitaal leersysteem voor de opleiding Hulpverlener-Ambulancier 2
 > [!info] Operationeel
 > - [[Noodplanning]]: Rampen, noodplannen en de samenwerking tussen de disciplines
 > - [[Veiligheid en communicatie]] #bezig : Radioverbinding, gevaarlijke stoffen en veiligheid op verkeersongevallen
+
+</div>
 
 *Status*: zonder label = #afgerond, anders #bezig of #nog-niet-begonnen
 
