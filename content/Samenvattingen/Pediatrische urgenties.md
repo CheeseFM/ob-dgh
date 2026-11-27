@@ -1,6 +1,6 @@
 ---
 tags:
-  - bezig
+  - afgerond
 ---
 📅 Aangemaakt: 23-11-2026
 

@@ -1,15 +1,13 @@
 ---
 title: Thuispagina
 ---
-Welkom op mijn digitaal leersysteem voor de opleiding **Hulpverlener-Ambulancier** *(DGH)*.
+Welkom op mijn digitaal leersysteem voor de opleiding Hulpverlener-Ambulancier 2026.
 
-<a href="/oefenkaartjes" style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:var(--secondary);color:var(--light)">Online je kennis oefenen</a><a href="/source/anki/dgh_alle_hoofdstukken.apkg" download data-router-ignore style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:transparent;color:var(--secondary)">Flashcards downloaden</a>
+<a href="/oefenkaartjes" style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:var(--secondary);color:var(--light)">🏫 Online je kennis oefenen</a><a href="/source/anki/dgh_alle_hoofdstukken.apkg" download data-router-ignore style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:transparent;color:var(--secondary)">✨ Flashcards downloaden</a><a href="/Wiki/Wiki" style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:transparent;color:var(--secondary)">🌍 Wiki Procedures & Orders</a>
 
-## Studeren
-- **Samenvattingen**: per hoofdstuk, zie [[#Samenvattingen|hieronder]]
-- **Staande orders & procedures** in wiki-formaat: [[Wiki]]
-- **Lesnota's**: [Google Drive](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=drive_link)
-- **Praktijk**: [[Praktijkoefeningen|formulier met uit te voeren oefeningen]]
+- Samenvattingen: per hoofdstuk, zie [[#Samenvattingen|hieronder]]
+- Lesnota's: [Google Drive](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=drive_link)
+- Praktijk: [[Praktijkoefeningen|formulier met uit te voeren oefeningen]]
 
 ## Samenvattingen
 > [!abstract] Basis
@@ -23,9 +21,9 @@ Welkom op mijn digitaal leersysteem voor de opleiding **Hulpverlener-Ambulancier
 > - [[De zieke patiënt]]: Handelingen naar interne problematiek d.m.v. het stappenplan
 
 > [!example] Bijzondere situaties
-> - [[Pediatrische urgenties]] #bezig : Verschillen tussen parameters/aanspreken/fysiologie van kind t.o.v. een volwassene
+> - [[Pediatrische urgenties]]: Verschillen tussen parameters/aanspreken/fysiologie van kind t.o.v. een volwassene
 > - [[Spoedbevalling]]: Herkennen van en handelen naar een nakende/actieve bevalling
-> - [[Psychiatrische urgenties]] #bezig : Herkennen van en handelen naar een slachtoffer met psychische problematiek of acute stress, en jezelf hiervoor beschermen
+> - [[Psychiatrische urgenties]]: Herkennen van en handelen naar een slachtoffer met psychische problematiek of acute stress, en jezelf hiervoor beschermen
 > - [[Urgenties door omgevingsfactoren]]: Externe invloeden op het lichaam *(exposure)*
 
 > [!info] Operationeel
