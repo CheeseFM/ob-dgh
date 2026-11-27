@@ -13,6 +13,10 @@ tags:
 > [HANDBOEK Verplaatsen van de patiënt](https://drive.google.com/file/d/192jlFKRNvlLR9Iu1K5GvitxsETsAnez2/view?usp=sharing)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#H5|Online oefenkaartjes]] *(in je browser, enkel dit hoofdstuk)*
+> - [[DGH_H5_Gewonde_patient.apkg|Anki-deck van dit hoofdstuk]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 > [!check] Doelstellingen
 > - [ ] De soorten ongevallen.
 > - [ ] De twee soorten verwondingen.

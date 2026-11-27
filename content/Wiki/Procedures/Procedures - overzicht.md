@@ -8,6 +8,10 @@ bron: Procedures t.b.v. de hulpverlener-ambulancier 112, editie 2023
 
 # Procedures - overzicht
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#procedures|Online oefenkaartjes]] *(in je browser; zoek op bv. `P::P07` voor één procedure)*
+> - [[DGH_Procedures.apkg|Anki-deck]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 - [[P01 Aspiratie van de bovenste luchtweg bij een patiënt zonder een kunstmatige luchtweg]]
 - [[P02 Aspiratie van de luchtweg bij een patiënt met een kunstmatige luchtweg - endotracheale tube (ETT) of supraglottische luchtweg]]
 - [[P03 Gebruik van de zuurstofsaturatiemeter]]

@@ -13,6 +13,10 @@ tags:
 > [HANDBOEK De zieke patiënt](https://drive.google.com/file/d/1a017eofGg-dAn8bpnjNmfC38xNLSVstb/view?usp=drive_link)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#H6|Online oefenkaartjes]] *(in je browser, enkel dit hoofdstuk)*
+> - [[DGH_H6_Zieke_patient.apkg|Anki-deck van dit hoofdstuk]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 > [!check] Doelstellingen
 > - [ ] De oorzaken, de gevolgen/symptomen en de beoordelingsmethode bij pijn op de borst alsook de handeling/acties die hierbij moeten ondernomen worden.
 > - [ ] De begrippen angina pectoris, longembolie, pleuritis en pneumothorax.

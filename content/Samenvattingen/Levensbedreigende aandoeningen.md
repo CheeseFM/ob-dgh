@@ -12,6 +12,10 @@ tags:
 > [HANDBOEK Levensbedreigende aandoeningen](https://drive.google.com/file/d/1295H7xsFqUCtvN7VaQeOATZ3mQXxbdNM/view?usp=drive_link)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#H4|Online oefenkaartjes]] *(in je browser, enkel dit hoofdstuk)*
+> - [[DGH_H4_Levensbedreigende_aandoeningen.apkg|Anki-deck van dit hoofdstuk]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 >[!help] Gebonden praktijklessen
 > - `12/09/2026` - PRAKTIJK levensbedreigende aandoening II *(Als het hart stopt)*
 > - `16/09/2026` - PRAKTIJK CPR (BLS) volwassene, kind en baby

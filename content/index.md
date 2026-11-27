@@ -1,6 +1,7 @@
 ---
 title: Thuispagina
 ---
+<a href="/oefenkaartjes" style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:var(--secondary);color:var(--light)">Online je kennis oefenen</a><a href="/source/anki/dgh_alle_hoofdstukken.apkg" download data-router-ignore style="display:inline-block;padding:.5rem 1.1rem;border-radius:6px;font-weight:600;text-decoration:none;margin:0 .4rem .4rem 0;border:1px solid var(--secondary);background:transparent;color:var(--secondary)">Flashcards downloaden</a>
 
 Welkom op mijn digitaal leersysteem.
 - Lesnota's vind je [hier](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=drive_link)
@@ -17,8 +18,6 @@ Welkom op mijn digitaal leersysteem.
 	- [[Samenvattingen/Psychiatrische urgenties|Psychiatrische urgenties]]: Handelen naar en herkennen van een slachtoffer met psychische problematiek of acute stress en zichzelf hiervoor beschermen 
 	- [[Samenvattingen/Urgenties door omgevingsfactoren|Urgenties door omgevingsfactoren]]: Externe invloeden op het lichaam *(exposure)*
 	- [[Samenvattingen/Veiligheid en communicatie|Veiligheid en communicatie]]: Radioverbinding, gevaarlijke stoffen en veiligheid op verkeersongevallen
-- Anki deck #bezig : [[DGH_Alle_hoofdstukken.apkg|DGH Anki Download]]
-	- *(Update soms dus gewoon verwijderen en opnieuw insteken)*
 - Praktijkformulier uit te voeren oefeningen: [[Praktijkoefeningen]]
 - Perfecte liedjes voor op te reanimeren *(met dank aan Eva)*: [Spotify 110 BPM Mix](https://open.spotify.com/playlist/37i9dQZF1EIcwHecTFAbsZ?si=26ee3df940fa492e) of voor specifiek de mijne: 
 

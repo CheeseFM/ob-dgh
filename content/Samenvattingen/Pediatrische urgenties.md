@@ -9,6 +9,10 @@ tags:
 > [HANDBOEK Hulpverlening bij kinderen](https://drive.google.com/file/d/1V4tD95mj4_qrppHCuCE_XHB84bh7p0y1/view?usp=sharing)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#H10|Online oefenkaartjes]] *(in je browser, enkel dit hoofdstuk)*
+> - [[DGH_H10_Pediatrische_urgenties.apkg|Anki-deck van dit hoofdstuk]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 > [!check] Doelstellingen
  > - [ ] De verschillende elementen waarmee ze rekening moeten houden in hun gedragingen ten opzichte van kinderen
  > - [ ] De verschillende elementen waarmee ze rekening moeten houden in hun gedragin gen ten opzichte van de ouders of andere verzorgers

@@ -10,6 +10,10 @@ tags:
 > [HANDBOEK Zwangerschap en spoedbevalling](https://drive.google.com/file/d/18s6z34xpozYJiVu6lfgN1LQYNamwKQf4/view?usp=sharing)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#H8|Online oefenkaartjes]] *(in je browser, enkel dit hoofdstuk)*
+> - [[DGH_H8_Spoedbevalling.apkg|Anki-deck van dit hoofdstuk]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 > [!check] Doelstellingen
 > - [ ] De menstruatiecyclus.
 > - [ ] Het normale verloop van een zwangerschap.

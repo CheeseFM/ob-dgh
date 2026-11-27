@@ -8,6 +8,10 @@ tags:
 > [PRESENTATIE Inleiding: wetgeving & organisatie DGH](https://extranet.paulo.be/documenten)
 > [HANDBOEK Inleiding: Handboek Hulpverlener Ambulancier](https://drive.google.com/file/d/17OdKS5dhEROAr-B6cB0aSUs3BVp1VTvV/view?usp=sharing)
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#H1|Online oefenkaartjes]] *(in je browser, enkel dit hoofdstuk)*
+> - [[DGH_H1_Wetgeving.apkg|Anki-deck van dit hoofdstuk]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 > [!check] Doelstellingen
 > ==Geen gegeven==; 
 > - Notie van de historie v/d DGH

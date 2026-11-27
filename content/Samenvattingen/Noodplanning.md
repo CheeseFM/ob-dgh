@@ -10,6 +10,10 @@ tags:
 > [HANDBOEK Noodplanning en rampenhulpverlening](https://drive.google.com/file/d/1KX5udiR1jFQxXqVW_nqnDZXH20Y_BOjr/view?usp=sharing)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#H7|Online oefenkaartjes]] *(in je browser, enkel dit hoofdstuk)*
+> - [[DGH_H7_Noodplanning.apkg|Anki-deck van dit hoofdstuk]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 > [!check] Doelstellingen
 > - [ ] De vijf verschillende hulpverleningsdisciplines.
 > - [ ] De taken van discipline 2.

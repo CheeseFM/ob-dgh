@@ -8,6 +8,10 @@ bron: Staande orders t.b.v. de hulpverlener-ambulancier 112, FOD Volksgezondheid
 
 # Staande orders - overzicht
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#staande-orders|Online oefenkaartjes]] *(in je browser; zoek op bv. `SO::O04` voor één order)*
+> - [[DGH_Staande_orders.apkg|Anki-deck]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 - [[O01 Nakende bevalling - onmiddellijke postpartum zorg]]
 - [[O02 Pijnstilling bij breuken, wonden en amputaties bij volwassene & kind]]
 - [[O03 Pijnstilling bij niet-traumatische urgenties bij volwassene]]

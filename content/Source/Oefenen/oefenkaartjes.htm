@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="nl-BE">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DGH Oefenkaartjes</title>
+<script>
+/* Ingebed in de Quartz-pagina "Oefenkaartjes": neem de stylesheets en het thema van de site over.
+   Los geopend: val terug op dezelfde kleuren als quartz.config.yaml. */
+(function(){
+  var P=null; try{if(window.frameElement&&window.parent.document)P=window.parent.document}catch(e){}
+  window.__EMBED=!!P;
+  if(P){
+    // Enkel de lettertypes en de kleurvariabelen van de site overnemen (niet de layout-CSS)
+    P.querySelectorAll('link[rel="stylesheet"][href*="fonts.googleapis"]').forEach(function(el){var c=el.cloneNode(true);c.href=el.href;document.head.appendChild(c)});
+    var ff=[];[].forEach.call(P.styleSheets,function(sh){var rs;try{rs=sh.cssRules}catch(e){return}
+      [].forEach.call(rs,function(r){if(r.type===5){var base=sh.href||P.baseURI;
+        ff.push(r.cssText.replace(/url\((['"]?)([^'")]+)\1\)/g,function(m,q,u){try{return 'url("'+new URL(u,base).href+'")'}catch(e){return m}}))}})});
+    if(ff.length){var st=document.createElement("style");st.textContent=ff.join("\n");document.head.appendChild(st)}
+    var V=["--light","--lightgray","--gray","--darkgray","--dark","--secondary","--tertiary","--highlight","--textHighlight","--bodyFont","--headerFont"];
+    var sync=function(){var t=P.documentElement.getAttribute("saved-theme");if(t)document.documentElement.setAttribute("saved-theme",t);
+      var cs=getComputedStyle(P.documentElement);V.forEach(function(v){var x=cs.getPropertyValue(v);if(x)document.documentElement.style.setProperty(v,x.trim())});
+      var R=document.documentElement;R.style.colorScheme=cs.colorScheme||"normal";if(P.body)R.style.setProperty("--pagebg",getComputedStyle(P.body).backgroundColor)};
+    sync(); new MutationObserver(sync).observe(P.documentElement,{attributes:true,attributeFilter:["saved-theme"]});
+  }else{
+    try{var t=localStorage.getItem("theme");if(t)document.documentElement.setAttribute("saved-theme",t)}catch(e){}
+    var l=document.createElement("link");l.rel="stylesheet";
+    l.href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400;0,600;0,700;1,400&display=swap";
+    document.head.appendChild(l);
+  }
+})();
+</script>
+<style>
+/* Terugvalwaarden (enkel gebruikt als de pagina los geopend wordt) */
+:root{--light:#fff;--lightgray:#f9fbfd;--gray:#b8b8b8;--darkgray:#4e4e4e;--dark:#343a40;--secondary:#141414;--tertiary:#1b1e23;--highlight:#f5f5f5;--textHighlight:#ffbb0033;--bodyFont:"Schibsted Grotesk",system-ui,sans-serif}
+:root[saved-theme="dark"]{--light:#000;--lightgray:#141414;--gray:#646464;--darkgray:#d4d4d4;--dark:#ebebec;--secondary:#fff;--tertiary:#fff;--highlight:#141414}
+:root{--good:#2e7d32;--bad:#c62828;--line:color-mix(in srgb,var(--gray) 45%,transparent)}
+:root[saved-theme="dark"]{--good:#81c784;--bad:#ef9a9a}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0;background:var(--light);color:var(--darkgray);font-family:var(--bodyFont);font-size:1rem;line-height:1.6}
+html.embed{background:var(--pagebg,transparent);overflow:hidden}body.embed{background:transparent;overflow:hidden}
+main{max-width:760px;margin:0 auto;padding:24px 16px 48px}
+body.embed main{max-width:none;padding:2px 2px 8px}
+a{color:var(--secondary)}
+h1{font-family:var(--headerFont,inherit);color:var(--dark);font-size:1.75rem;margin:0 0 .2em}
+.sub{color:var(--gray);margin:0 0 20px}
+body.embed .standalone{display:none}
+.box{border:1px solid var(--line);border-radius:6px;padding:12px 16px;margin:0 0 14px;background:var(--lightgray)}
+.box h3{font-family:var(--headerFont,inherit);margin:0 0 6px;font-size:1rem;color:var(--dark)}
+.decks{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:2px 16px}
+label{display:flex;gap:8px;align-items:center;cursor:pointer}
+label small{color:var(--gray)}
+input[type=checkbox]{appearance:none;-webkit-appearance:none;margin:0;flex:none;width:16px;height:16px;border:1px solid var(--gray);border-radius:3px;background:var(--light);position:relative;cursor:pointer}
+input[type=checkbox]:checked{background:var(--secondary);border-color:var(--secondary)}
+input[type=checkbox]:checked:after{content:"";position:absolute;left:4px;top:1px;width:4px;height:8px;border:solid var(--light);border-width:0 2px 2px 0;transform:rotate(45deg)}
+.row{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
+input[type=text]{flex:1;min-width:180px;padding:8px 10px;border:1px solid var(--line);border-radius:6px;background:var(--light);color:var(--darkgray);font:inherit}
+input[type=text]:focus{outline:none;border-color:var(--secondary)}
+button{font:inherit;cursor:pointer;border-radius:6px;border:1px solid var(--line);background:var(--light);color:var(--darkgray);padding:8px 16px}
+button:hover{border-color:var(--secondary)}
+button.primary{background:var(--secondary);border-color:var(--secondary);color:var(--light);font-weight:600}
+button.link{border:none;background:none;color:var(--secondary);padding:0;text-decoration:underline;text-underline-offset:3px}
+button:disabled{opacity:.45;cursor:default}
+.count{color:var(--gray)}
+.card{border:1px solid var(--line);border-radius:6px;background:var(--lightgray);padding:24px 20px;margin:14px 0;text-align:center;font-size:1.1rem;min-height:170px}
+.card ul{text-align:left;display:inline-block;margin:.4em 0}
+.card hr{border:none;border-top:1px solid var(--line);margin:18px 0}
+.card b{color:var(--dark)}
+.card img{max-width:100%;max-height:380px;border-radius:6px;display:block;margin:8px auto}
+.meta{font-size:.8rem;color:var(--gray);margin-bottom:10px}
+.extra{font-size:.9rem;color:var(--gray);margin-top:14px}
+.cz{font-weight:700;color:var(--secondary);background:var(--textHighlight);border-radius:3px;padding:0 3px}
+.bar{height:4px;background:var(--line);border-radius:2px;overflow:hidden}
+.bar>div{height:100%;background:var(--secondary);width:0;transition:width .2s}
+.stats{display:flex;justify-content:space-between;font-size:.9rem;color:var(--gray);margin-top:6px}
+.actions{display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.actions button{min-width:140px;padding:10px 16px}
+button.bad{border-color:var(--bad);color:var(--bad)}
+button.good{border-color:var(--good);color:var(--good)}
+.okc{color:var(--good)} .koc{color:var(--bad)}
+.kbd{font-size:.8rem;color:var(--gray);text-align:center}
+.hidden{display:none!important}
+.done{text-align:center}
+.done .big{font-size:2.4rem;font-weight:700;color:var(--dark)}
+</style>
+</head>
+<body>
+<main>
+  <div class="standalone">
+    <p style="margin:0 0 8px;font-size:.9rem"><a href="../../">← terug naar de site</a></p>
+    <h1>DGH oefenkaartjes</h1>
+    <p class="sub">Dezelfde kaartjes als in het Anki-deck. Hier wordt niets ingepland: niet gekende kaartjes komen gewoon later in de reeks terug.</p>
+  </div>
+
+  <section id="setup">
+    <div class="box">
+      <h3>Hoofdstukken</h3>
+      <div class="row" style="margin-bottom:6px;font-size:.9rem"><button class="link" id="all">alles</button><button class="link" id="none">niets</button></div>
+      <div class="decks" id="decks"></div>
+    </div>
+    <div class="box">
+      <h3>Filter</h3>
+      <div class="row"><label><input type="checkbox" id="random" checked> willekeurige volgorde</label></div>
+      <div class="row" style="margin-top:10px"><input type="text" id="q" placeholder="Zoek op woord of tag (bv. REA, SO::O04, P::P07)"></div>
+    </div>
+    <div class="row"><button class="primary" id="start">Start</button><span class="count" id="sel"></span></div>
+  </section>
+
+  <section id="quiz" class="hidden">
+    <div class="bar"><div id="prog"></div></div>
+    <div class="stats"><span id="left"></span><span><span class="okc">✓ <span id="ok">0</span></span> · <span class="koc">✗ <span id="ko">0</span></span></span></div>
+    <div class="card" id="card"></div>
+    <div class="actions" id="showRow"><button class="primary" id="show">Toon antwoord</button></div>
+    <div class="actions hidden" id="rateRow"><button class="bad" id="no">Niet gekend</button><button class="good" id="yes">Gekend</button></div>
+    <p class="kbd">Toetsen: spatie = omdraaien · 1 = niet gekend · 2 = gekend</p>
+    <div style="text-align:center"><button class="link" id="stop">stoppen</button></div>
+  </section>
+
+  <section id="done" class="hidden done">
+    <div class="card">
+      <div class="big" id="score"></div>
+      <p id="scoretxt"></p>
+    </div>
+    <div class="actions"><button class="primary" id="again">Niet gekende opnieuw</button><button id="restart">Andere selectie</button></div>
+  </section>
+</main>
+<script>
+(function(){
+  var $=function(id){return document.getElementById(id)};
+  var EMBED=window.__EMBED, FR=EMBED?window.frameElement:null;
+  if(EMBED){document.body.classList.add("embed");document.documentElement.classList.add("embed")}
+  // Iframe-hoogte meeschalen met de inhoud
+  function fit(){if(FR)FR.style.height=Math.ceil(document.querySelector("main").getBoundingClientRect().height)+"px"}
+  if(FR&&window.ResizeObserver)new ResizeObserver(fit).observe(document.querySelector("main"));
+  window.addEventListener("load",fit);
+
+  var DATA=null, queue=[], wrong=[], firstTry={}, ok=0, ko=0, total=0, cur=null;
+  var store={get:function(k){try{return JSON.parse(localStorage.getItem("dgh-oef-"+k))}catch(e){return null}},
+             set:function(k,v){try{localStorage.setItem("dgh-oef-"+k,JSON.stringify(v))}catch(e){}}};
+
+  fetch("kaartjes.json").then(function(r){return r.json()}).then(function(d){DATA=d;init()})
+    .catch(function(){$("setup").innerHTML="<p>Kon de kaartjes niet laden.</p>";fit()});
+
+  function wanted(){
+    // #H4, #staande-orders of ?d=H4 (ook komma-gescheiden). Ingebed: van de bovenliggende pagina.
+    var loc=location; try{if(EMBED)loc=window.parent.location}catch(e){}
+    var w=new URLSearchParams(loc.search).get("d")||decodeURIComponent(loc.hash.slice(1)).replace(/-/g," ");
+    if(!w)return null;
+    var ws=w.split(",").map(function(x){return x.trim().toLowerCase()});
+    var r=DATA.decks.filter(function(n){var l=n.toLowerCase();return ws.some(function(x){return l===x||l.indexOf(x+" ")===0})});
+    return r.length?r:null;
+  }
+  function init(){
+    var saved=wanted()||store.get("decks"), per={};
+    DATA.cards.forEach(function(c){per[c.d]=(per[c.d]||0)+1});
+    DATA.decks.forEach(function(name,i){
+      var l=document.createElement("label");
+      var on=saved?saved.indexOf(name)>=0:true;
+      l.innerHTML='<input type="checkbox" data-deck="'+i+'"'+(on?" checked":"")+'> <span></span> <small>'+(per[name]||0)+'</small>';
+      l.querySelector("span").textContent=name;
+      $("decks").appendChild(l);
+    });
+    if(store.get("random")===false)$("random").checked=false;
+    ["decks","random","q"].forEach(function(id){$(id).addEventListener("input",count)});
+    $("all").onclick=function(){setAll(true)}; $("none").onclick=function(){setAll(false)};
+    count(); fit();
+  }
+  function setAll(v){document.querySelectorAll("[data-deck]").forEach(function(b){b.checked=v});count()}
+  function checkedDecks(){return [].map.call(document.querySelectorAll("[data-deck]:checked"),function(b){return DATA.decks[+b.dataset.deck]})}
+  function selection(){
+    var decks=checkedDecks(), q=$("q").value.trim().toLowerCase();
+    return DATA.cards.filter(function(c){
+      if(decks.indexOf(c.d)<0)return false;
+      if(q){var hay=(c.t.join(" ")+" "+c.q+" "+c.a).toLowerCase().replace(/<[^>]+>/g," ");if(hay.indexOf(q)<0)return false}
+      return true});
+  }
+  function count(){
+    var n=selection().length;
+    $("sel").textContent=n+" van "+DATA.cards.length+" kaartjes geselecteerd"; $("start").disabled=n===0;
+    store.set("decks",checkedDecks()); store.set("random",$("random").checked);
+  }
+  function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a}
+  function start(cards){
+    queue=$("random").checked?shuffle(cards.slice()):cards.slice();
+    wrong=[]; firstTry={}; ok=0; ko=0; total=queue.length;
+    $("ok").textContent=0; $("ko").textContent=0;
+    show("quiz"); next();
+  }
+  function show(id){
+    ["setup","quiz","done"].forEach(function(s){$(s).classList.toggle("hidden",s!==id)});
+    fit();
+    if(FR){var r=FR.getBoundingClientRect();if(r.top<0)FR.scrollIntoView({block:"start"})}else window.scrollTo(0,0);
+  }
+  function render(withAnswer){
+    $("card").innerHTML='<div class="meta"></div>'+cur.q+(withAnswer?"<hr>"+cur.a+(cur.x?'<div class="extra">'+cur.x+"</div>":""):"");
+    $("card").querySelector(".meta").textContent=cur.d;
+    $("card").querySelectorAll("img").forEach(function(i){i.addEventListener("load",fit)});
+    fit();
+  }
+  function next(){
+    if(!queue.length){finish();return}
+    cur=queue.shift(); render(false);
+    $("showRow").classList.remove("hidden"); $("rateRow").classList.add("hidden");
+    $("prog").style.width=(100*Object.keys(firstTry).length/total)+"%";
+    $("left").textContent=(queue.length+1)+" te gaan";
+  }
+  function flip(){
+    if(!cur||!$("rateRow").classList.contains("hidden"))return;
+    render(true);
+    $("showRow").classList.add("hidden"); $("rateRow").classList.remove("hidden");
+  }
+  function rate(known){
+    if(!cur||$("rateRow").classList.contains("hidden"))return;
+    if(!(cur.id in firstTry)){firstTry[cur.id]=known; if(known)ok++; else{ko++;wrong.push(cur)}}
+    $("ok").textContent=ok; $("ko").textContent=ko;
+    if(!known){var pos=Math.min(queue.length,5+Math.floor(Math.random()*5));queue.splice(pos,0,cur)}
+    next();
+  }
+  function finish(){
+    cur=null; show("done");
+    var seen=ok+ko, pct=seen?Math.round(100*ok/seen):0;
+    $("score").textContent=pct+" %";
+    $("scoretxt").textContent=ok+" van "+seen+" kaartjes meteen gekend"+(ko?", "+ko+" niet gekend":"")+(seen<total?" (gestopt na "+seen+" van "+total+")":"")+".";
+    $("again").disabled=wrong.length===0;
+  }
+  $("start").onclick=function(){start(selection())};
+  $("show").onclick=flip; $("yes").onclick=function(){rate(true)}; $("no").onclick=function(){rate(false)};
+  $("stop").onclick=function(){total?finish():show("setup")};
+  $("again").onclick=function(){start(wrong.slice())};
+  $("restart").onclick=function(){show("setup");count()};
+  function onKey(e){
+    if($("quiz").classList.contains("hidden")||(e.target&&e.target.tagName==="INPUT"))return;
+    if(e.key===" "||e.key==="Enter"){e.preventDefault();flip()}
+    else if(e.key==="1")rate(false); else if(e.key==="2")rate(true);
+  }
+  document.addEventListener("keydown",onKey);
+  // Ingebed: ook toetsen opvangen als de focus op de site zelf staat
+  if(FR){var PD=window.parent.document;var pk=function(e){if(!FR.isConnected){PD.removeEventListener("keydown",pk);return}
+    var t=e.target&&e.target.tagName;if(t==="INPUT"||t==="TEXTAREA")return;onKey(e)};PD.addEventListener("keydown",pk)}
+})();
+</script>
+</body>
+</html>

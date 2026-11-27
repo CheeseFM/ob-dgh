@@ -11,6 +11,10 @@ tags:
 > [HANDBOEK Urgenties door omgevingsfactoren](https://drive.google.com/file/d/1mHBdjyRMsyJbftTG_rW2y9nRfxS8cCRE/view?usp=sharing)
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#H9|Online oefenkaartjes]] *(in je browser, enkel dit hoofdstuk)*
+> - [[DGH_H9_Omgevingsfactoren.apkg|Anki-deck van dit hoofdstuk]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 > [!check] Doelstellingen
 > - [ ] De verschillende diepten van verbranding/de graden van verbranding.
 > - [ ] De elementen die de ernst van de verbranding bepalen.

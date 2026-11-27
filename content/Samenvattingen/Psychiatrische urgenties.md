@@ -12,6 +12,10 @@ tags:
 > [HANDBOEK De psychiatrische patiënt](https://drive.google.com/file/d/18PoGuNud_XYqc1pcXe0Jm6iWyD3w-mR4/view?usp=sharing) todo
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing) <-
 
+> [!example] Oefenen
+> - [[Oefenkaartjes#H11|Online oefenkaartjes]] *(in je browser, enkel dit hoofdstuk)*
+> - [[DGH_H11_Psychiatrische_urgenties.apkg|Anki-deck van dit hoofdstuk]] *(of [[DGH_Alle_hoofdstukken.apkg|alle hoofdstukken]])*
+
 > [!check] Doelstellingen
 > Voeg doelstellingen in
 > - [ ] De oorzaken van een mens in crisis.
