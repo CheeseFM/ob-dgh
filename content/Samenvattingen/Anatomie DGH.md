@@ -221,11 +221,11 @@ Het ademhalingsstelsel zorgt voor het toevoeren van zuurstofmoleculen en afvoere
 #### Mogelijke problemen
 De longen zijn afhankelijk van druk en zitten daarom in een zak. De vliezen van die zak noemt men de **pleura**. De holte zelf is de **pleuraholte**
 - Indien deze vliezen doorbroken worden kan een long niet correct opblazen. De lucht hoopt op in de borstkas of ontsnapt via doorbroken longzak *(indien er een gat naar buiten aanwezig is en de grootte)*
-	- **Pneumothorax** *(= klaplong)*: longperforatie naar de buitenwereld,
-	- **Spanningspneumothorax**: longperforatie naar de pleuraholte *(komt lucht bij in de zak maar gaat niet weer weg - druk verhoogt en longzak begint de drukken op hart)*
+	- **Pneumothorax** *(= klaplong)*: lucht tussen de twee longvliezen *(in de pleuraholte)* die de plaats van de long inneemt -> long valt samen. Kan **open** *(wonde naar buiten)* of **gesloten** *(bv. gebroken rib van binnenuit)* zijn
+	- **Spanningspneumothorax**: lucht komt bij elke ademhaling in de pleuraholte maar ==kan er niet meer uit== -> druk stijgt en duwt op het hart en de andere long *(levensbedreigend)*
 
 >[!important] Belang voor de Hulpverlener-Ambulancier
-> - Onvoldoende/geen zuurstof zorgt voor hersenschade *(zie vorige 0-4-6 principe)*
+> - Onvoldoende/geen zuurstof zorgt voor hersenschade *(zie vorige 0-4-10 principe)*
 > - Belemmering van de luchtweg *door bv. tong, braaksel, voorwerp, ...* is ook direct levensbedreigend - ==Airway==
 > - Gebrokken ribben of externe voorwerpen die de longvliezen doorbreken die blaasbalgfunctie v/d longen belemmert
 
@@ -239,15 +239,15 @@ De longen zijn afhankelijk van druk en zitten daarom in een zak. De vliezen van 
 | ![[Vatenstelsel.png]]                          | ![[Bloedsomloop.png]]                |
 Hart: spier die tussen 4 kamers pompt om het bloed - zie [[#Werking v/h hart]]
 
-3 soorten aders:
+3 soorten bloedvaten:
 - **Ader** *('= venen)*: Vervoert zuurstofarm bloed terug naar hart voor oxygenatie d.m.v. de longen
 	- Zit minder druk op en hebben dus kleppen *(om de zwaartekracht tegen te gaan)*
 - **Slagader** *(= arteriën)*: Vervoert zuurstofrijk bloed van het hart weg naar organen
-- **Haarvaten**: Vertakkingen v/d aderen die zodanig klein worden dat ze poriën kunne hebben voor gasuitwisseling *(zuurstof en koolstofdioxide)*
+- **Haarvaten**: De kleinste vertakkingen tussen slagaders en aders, zodanig klein worden dat ze poriën kunne hebben voor gasuitwisseling *(zuurstof en koolstofdioxide)*
 
 Speciale aders:
 - **Holle ader**: 2 aders die zuurstofarm bloed naar het hart brengen, de bovenste van het bovenste gedeelte v/h lichaam, onderste van onderste
-- **Longslagader**: Pompt zuurstofarm bloed naar de longen *(ader = van het hart weg)*
+- **Longslagader**: Pompt zuurstofarm bloed naar de longen *(slagader = van het hart weg)*
 - **Longaders**: Pompen zuurstofrijk bloed van de longen naar het hart *(er zijn 4)*
 - **Aorta**: Pompt zuurstofrijk bloed v/h hart naar de rest van ons lichaam
 
@@ -287,9 +287,9 @@ De 4 hartkleppen staan in voor: een-richtingsverkeer in de hartspier. We willen 
 | ![[Pasted image 20260918210648.png]]         |
 Er regeren twee zenuwknopen over het samentrekken van de hartspier:
 - **SA-knoop** *(= Sinus knoop)*: Voorkamer samentrekken
-- **VA-knoop** *(= Ventrikel-Atrium knoop)*: Trekt kamer samen 
+- **AV-knoop** *(= atrioventriculaire knoop)*: Trekt kamer samen 
 
-Als de SA-knoop samenspant krijgt de VA knoop ook signaal om samen te trekken kort erna.
+Als de SA-knoop samenspant krijgt de AV-knoop ook signaal om samen te trekken kort erna.
 
 #### Samenstelling v/h bloed
 Volwassen persoon heeft ==5- 6 liter== bloed *(7% van lichaamsgewicht ongeveer)* dit bestaat uit:
@@ -303,7 +303,7 @@ Volwassen persoon heeft ==5- 6 liter== bloed *(7% van lichaamsgewicht ongeveer)*
 
 #### Plaatsen om polsslag te meten
 1. Op het hart zelf 
-2. Aan de hartslagader *(= carotis)*
+2. Aan de halsslagader *(= carotis)*
 3. Aan de bovenarm onder de oksel *(= arteria brachialis)*
 4. Aan de bicep *(= arteria brachialis)*
 5. Aan de pols *(= arteria radialis)*
@@ -453,20 +453,20 @@ Onderdelen:
 	3. **Blaas**: Slaat urine op
 	4. **Urinekanaal**: Uitweg van urine naar buiten
 - Genitaal stelsel mannen: Teelbal -> zaadleider -> prostaat -> plasbuis *(zaadcellen worden pas actief door toevoegen prostaatvocht)*
-- Genitaal stelsel vrouwen: Eierstok -> Eileider -> Uterus *(eierstokken zitten los in de maag en zijn enorm gevoelig voor kloppen/stompen)*
+- Genitaal stelsel vrouwen: Eierstok -> Eileider -> Uterus *(eierstokken zitten los in de buikholte en zijn enorm gevoelig voor kloppen/stompen)*
 
 >[!important] Belang voor de Hulpverlener-Ambulancier
 > Alweer kan een stoot in de maag voor grote problemen zorgen *(zie hoe groot de slagaders zijn die naast/naar de nieren gaan)*
 
-### Het lymfenklierenstelsel
+### Het hormoonstelsel
 Een stelsel van inwendige klieren dat bestaat uit verschillende organen die stoffen produceren om in de bloedbaan af te scheiden *(= endocrien)*
 
 #### Endocrien & Exocrien
-Het lymfenklierstelsel, endocrien stelsel of hormoonstelsel produceert hormonen *(= stoffen die recht in de bloedbaan terechtkomen)*
+Het hormoonstelsel *(= inwendig klierstelsel, endocrien stelsel)* produceert hormonen *(= stoffen die recht in de bloedbaan terechtkomen)*
 - Exocrien: Hebben eigen kanalen, productie, ... *(bv. de verteringssappen)*
 - Endocrien: Via klier rechtstreeks de bloedbaan in
 
-#### Onderdelen & werking v/h lymfenklierenstelsel
+#### Onderdelen & werking v/h hormoonstelsel
 Hormonen bezorgen chemische boodschappen aan ons lichaam  
 - **Pancreas**
 	- Suikerregeling d.m.v. **insuline** *(verlaagt suiker)* & **glucagon** *(verhoogt suikerà*
