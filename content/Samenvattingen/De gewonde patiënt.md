@@ -14,53 +14,53 @@ tags:
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
 > [!check] Doelstellingen
-> - [x] De soorten ongevallen.
-> - [x] De twee soorten verwondingen.
-> - [x] De gevolgen van een slag, het principe van kinetische energie en het effect op het lichaam.
-> - [x] Het verband tussen een ongeval en de mogelijke verwondingen.
-> - [x] Het begrip gouden uur en de rol van het gouden uur na een trauma.
-> - [x] De verschillende soorten borstkasletsels.
-> - [x] De tekenen/symptomen/klachten die van belang zijn bij het beoordelen van een borstkasletsel.
-> - [x] De handelingen die moeten uitgevoerd worden bij verwondingen van de thorax.
-> - [x] De verschillende soorten buikletsels.
-> - [x] De tekenen/symptomen/klachten die van belang zijn bij het beoordelen van een buikletsel.
-> - [x] De handelingen die moeten uitgevoerd worden bij abdominale verwondingen.
-> - [x] De mogelijke verwondingen aan het urogenitale stelsel.
-> - [x] De ernst van verwondingen aan het hoofd of wervelkolom.
-> - [x] De verschillende soorten schedelletsels.
-> - [x] De verschillende soorten hersenletsel.
-> - [x] De methoden voor het beoordelen van het bewustzijn.
-> - [x] De WAPA evaluatiemethode.
-> - [x] De Glasgow Coma Schaal.
-> - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met een hoofdtrauma.
-> - [x] De verschillende soorten aangezichtsletsels.
-> - [x] De methoden voor het beoordelen van een aangezichtstrauma.
-> - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met letsels van het aangezicht of hals.
-> - [x] De oorzaken van een wervelzuilletsel.
-> - [x] De methoden voor het beoordelen van een wervelzuilletsel.
-> - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met een wervelzuilletsel.
-> - [x] Het verschil tussen kneuzingen en wonden.
-> - [x] De werkwijze voor het beoordelen van een kneuzing.
-> - [x] De handelingen die moeten uitgevoerd worden bij een patiënt met een kneuzing.
-> - [x] De verschillende soorten wonden.
-> - [x] De methoden voor het beoordelen van een wonde.
-> - [x] De levensbedreigende verwondingen en de handelingen die hierbij moeten uitgevoerd worden.
-> - [x] De wondzorg bij lichte huidwonden.
-> - [x] De verschillende verbandtechnieken.
-> - [x] De oorzaak van skeletletsels en de verschillende soorten.
-> - [x] De methoden voor het beoordelen van een skeletletsel.
-> - [x] De handelingen die moeten uitgevoerd worden bij skeletletsels.
-> - [x] Het principe van spalken.
-> - [x] De skeletletsels van de armen.
-> - [x] De handelingen die moeten uitgevoerd worden bij skeletletsels van de armen.
-> - [x] De skeletletsels van de benen.
-> - [x] De handelingen die moeten uitgevoerd worden bij skeletletsels van de benen.
+> - [ ] De soorten ongevallen.
+> - [ ] De twee soorten verwondingen.
+> - [ ] De gevolgen van een slag, het principe van kinetische energie en het effect op het lichaam.
+> - [ ] Het verband tussen een ongeval en de mogelijke verwondingen.
+> - [ ] Het begrip gouden uur en de rol van het gouden uur na een trauma.
+> - [ ] De verschillende soorten borstkasletsels.
+> - [ ] De tekenen/symptomen/klachten die van belang zijn bij het beoordelen van een borstkasletsel.
+> - [ ] De handelingen die moeten uitgevoerd worden bij verwondingen van de thorax.
+> - [ ] De verschillende soorten buikletsels.
+> - [ ] De tekenen/symptomen/klachten die van belang zijn bij het beoordelen van een buikletsel.
+> - [ ] De handelingen die moeten uitgevoerd worden bij abdominale verwondingen.
+> - [ ] De mogelijke verwondingen aan het urogenitale stelsel.
+> - [ ] De ernst van verwondingen aan het hoofd of wervelkolom.
+> - [ ] De verschillende soorten schedelletsels.
+> - [ ] De verschillende soorten hersenletsel.
+> - [ ] De methoden voor het beoordelen van het bewustzijn.
+> - [ ] De WAPA evaluatiemethode.
+> - [ ] De Glasgow Coma Schaal.
+> - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met een hoofdtrauma.
+> - [ ] De verschillende soorten aangezichtsletsels.
+> - [ ] De methoden voor het beoordelen van een aangezichtstrauma.
+> - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met letsels van het aangezicht of hals.
+> - [ ] De oorzaken van een wervelzuilletsel.
+> - [ ] De methoden voor het beoordelen van een wervelzuilletsel.
+> - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met een wervelzuilletsel.
+> - [ ] Het verschil tussen kneuzingen en wonden.
+> - [ ] De werkwijze voor het beoordelen van een kneuzing.
+> - [ ] De handelingen die moeten uitgevoerd worden bij een patiënt met een kneuzing.
+> - [ ] De verschillende soorten wonden.
+> - [ ] De methoden voor het beoordelen van een wonde.
+> - [ ] De levensbedreigende verwondingen en de handelingen die hierbij moeten uitgevoerd worden.
+> - [ ] De wondzorg bij lichte huidwonden.
+> - [ ] De verschillende verbandtechnieken.
+> - [ ] De oorzaak van skeletletsels en de verschillende soorten.
+> - [ ] De methoden voor het beoordelen van een skeletletsel.
+> - [ ] De handelingen die moeten uitgevoerd worden bij skeletletsels.
+> - [ ] Het principe van spalken.
+> - [ ] De skeletletsels van de armen.
+> - [ ] De handelingen die moeten uitgevoerd worden bij skeletletsels van de armen.
+> - [ ] De skeletletsels van de benen.
+> - [ ] De handelingen die moeten uitgevoerd worden bij skeletletsels van de benen.
 
 >[!help] Gebonden praktijklessen
 > - `26/09/2026` - [[26-09-2026|PRAKTIJK de gewonde patiënt: verbanden - standaard immobilisatie - vacuümmatras/vacuümspalk]]
 > - `10/10/2026` - [[10-10-2026|PRAKTIJK brancard, blokrol, MILS, schepbrancard & KED]]   
 
->[!note] PDF: /
+>[!note] PDF: [[../Source/PDFs/De gewonde patiënt.pdf|De gewonde patiënt.pdf]]
 
 # Alle soorten trauma-groeperingen, hoe je ze erkent, ernst beoordeelt en welke handelingen je treft. 
 

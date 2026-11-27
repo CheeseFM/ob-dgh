@@ -565,9 +565,6 @@ Bijna niks aan te doen in meeste gevallen, maar betekent niet dat je niet gewoon
 ---
 > Zie ook [[Anatomie DGH]]
 
->[!check] Doelstellingen
-> - [ ] ...
-
 Het hart is de belangrijkste doodsoorzaak. 
 - De reden van hartstilstand is meestal **ventrikeltachycardie** *(= te snelle werking van de hartkamers)* die dan overgaat in fibrillatie *(spier trekt zo rap samen dat er geen pompfunctie gebeurt)* -> Waarna **asystolie** *(volledig ophoudt van hartactiviteit)* kan toeslaan
 

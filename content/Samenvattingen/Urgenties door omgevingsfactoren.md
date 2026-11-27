@@ -12,22 +12,22 @@ tags:
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
 > [!check] Doelstellingen
-> - [x] De verschillende diepten van verbranding/de graden van verbranding.
-> - [x] De elementen die de ernst van de verbranding bepalen.
-> - [x] De verschillende oorzaken van verbranding.
-> - [x] De inschatting van de uitgebreidheid van brandwonden.
-> - [x] De inschatting van de omvang van de verbranding.
-> - [x] De brandwonden die levensbedreigend zijn.
-> - [x] De acties die moeten ondernomen worden bij iemand met brandwonden.
-> - [x] De bijzondere gevallen inzake brandwonden en de juiste handelswijze hierbij.
-> - [x] De mechanismen van verdrinking.
-> - [x] De handelingen die moeten uitgevoerd worden bij een verdrinking.
-> - [x] De invloeden van koude op het lichaam.
-> - [x] De elementen en symptomen die in acht moeten genomen worden bij de beoordeling van een onderkoeld slachtoffer en het slachtoffer beoordelen.
-> - [x] De invloeden van hitte op het lichaam.
-> - [x] De ziektebeelden die door verhitting kunnen ontstaan.
-> - [x] De verschillende soorten radioactieve stralen en hun effect.
-> - [x] De stappen die moeten gevolgd worden/uitgevoerd worden in geval van een stralingsongeval.
+> - [ ] De verschillende diepten van verbranding/de graden van verbranding.
+> - [ ] De elementen die de ernst van de verbranding bepalen.
+> - [ ] De verschillende oorzaken van verbranding.
+> - [ ] De inschatting van de uitgebreidheid van brandwonden.
+> - [ ] De inschatting van de omvang van de verbranding.
+> - [ ] De brandwonden die levensbedreigend zijn.
+> - [ ] De acties die moeten ondernomen worden bij iemand met brandwonden.
+> - [ ] De bijzondere gevallen inzake brandwonden en de juiste handelswijze hierbij.
+> - [ ] De mechanismen van verdrinking.
+> - [ ] De handelingen die moeten uitgevoerd worden bij een verdrinking.
+> - [ ] De invloeden van koude op het lichaam.
+> - [ ] De elementen en symptomen die in acht moeten genomen worden bij de beoordeling van een onderkoeld slachtoffer en het slachtoffer beoordelen.
+> - [ ] De invloeden van hitte op het lichaam.
+> - [ ] De ziektebeelden die door verhitting kunnen ontstaan.
+> - [ ] De verschillende soorten radioactieve stralen en hun effect.
+> - [ ] De stappen die moeten gevolgd worden/uitgevoerd worden in geval van een stralingsongeval.
 
 >[!help] Gebonden praktijklessen
 > - `21/11/2026` - [[21-11-2026|PRAKTIJK brandwonden, elektrocutie, verdrinking en technieken]]

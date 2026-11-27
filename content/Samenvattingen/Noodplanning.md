@@ -11,18 +11,18 @@ tags:
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
 > [!check] Doelstellingen
-> - [x] De vijf verschillende hulpverleningsdisciplines.
-> - [x] De taken van discipline 2.
-> - [x] De componenten van het monodisciplinair plan.
-> - [x] De doelstellingen van het medisch interventieplan (MIP).
-> - [x] Het personeel en de middelen van D2.
-> - [x] Het hiërarchisch schema bij de dringende geneeskundige hulpverlening.
-> - [x] De werking en structuur van het medisch interventieplan (MIP).
-> - [x] De organisatie op het interventieterrein.
-> - [x] Het principe van de pre-triage.
-> - [x] De werking van de grote en de kleine noria.
-> - [x] De methode van beëindiging het MIP.
-> - [x] De link met het psychosociaal interventieplan (PSIP).
+> - [ ] De vijf verschillende hulpverleningsdisciplines.
+> - [ ] De taken van discipline 2.
+> - [ ] De componenten van het monodisciplinair plan.
+> - [ ] De doelstellingen van het medisch interventieplan (MIP).
+> - [ ] Het personeel en de middelen van D2.
+> - [ ] Het hiërarchisch schema bij de dringende geneeskundige hulpverlening.
+> - [ ] De werking en structuur van het medisch interventieplan (MIP).
+> - [ ] De organisatie op het interventieterrein.
+> - [ ] Het principe van de pre-triage.
+> - [ ] De werking van de grote en de kleine noria.
+> - [ ] De methode van beëindiging het MIP.
+> - [ ] De link met het psychosociaal interventieplan (PSIP).
 
 >[!note] PDF: [Noodplanning.pdf](../Source/PDFs/Noodplanning.pdf)
 

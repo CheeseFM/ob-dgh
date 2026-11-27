@@ -17,7 +17,7 @@ tags:
 >[!help] Gebonden praktijklessen
 > - `17/10/2026` - [[../Praktijknota's/17-10-2026|PRAKTIJK BIOW, gevaarlijke stoffen & radiocommunicatie]]
 
->[!note] PDF: [[pdf link]]
+>[!note] PDF: [[../Source/PDFs/Veiligheid en communicatie.pdf|Veiligheid en communicatie.pdf]]
 
 # BIOW, Gevaarlijke producten en radioverbinding
 ---

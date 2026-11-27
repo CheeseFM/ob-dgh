@@ -2,7 +2,7 @@
 tags:
   - bezig
 ---
-cxxxxxxxxxxxxxxxxxccccccccccc x📅 Aangemaakt: 23-11-2026
+📅 Aangemaakt: 23-11-2026
 
 > [!info] Bronnen
 > [PRESENTATIE Pediatrische urgenties](https://extranet.paulo.be)
@@ -27,7 +27,7 @@ cxxxxxxxxxxxxxxxxxccccccccccc x📅 Aangemaakt: 23-11-2026
  > - [ ] Het begrip wiegendood en de handelingen/acties die in deze situatie moeten ondernomen worden.
 
 
->[!note] PDF: [[pdf link]]
+>[!note] PDF: [[../Source/PDFs/Pediatrische urgenties.pdf|Pediatrische urgenties.pdf]]
 
 # Verschillen en gelijkheden benadrukken bij kinderen en specifieke pediatrische termen / medische situaties en haar behandeling schetsen
 

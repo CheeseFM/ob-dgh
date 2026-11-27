@@ -11,17 +11,15 @@ tags:
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
 > [!check] Doelstellingen
-> - [x] De menstruatiecyclus.
-> - [x] Het normale verloop van een zwangerschap.
-> - [x] Het verloop van de normale bevalling en geboorte van een kind.
-> - [x] De symptomen en beoordelingsmethode bij een spoedbevalling.
-> - [x] De handelingen die moeten getroffen worden in geval van een spoedbevalling.
-> - [x] De problemen die zich kunnen voordoen tijdens een bevalling.
-> - [x] De handelingen die moeten uitgevoerd worden bij bevallingsproblemen.
-> - [x] De problemen die kunnen optreden in het eerste, tweede en derde trimester van de
-zwangerschap.
-> - [x] De beoordelingsmethoden bij problemen in het eerste, tweede en derde trimester van
-de zwangerschap.
+> - [ ] De menstruatiecyclus.
+> - [ ] Het normale verloop van een zwangerschap.
+> - [ ] Het verloop van de normale bevalling en geboorte van een kind.
+> - [ ] De symptomen en beoordelingsmethode bij een spoedbevalling.
+> - [ ] De handelingen die moeten getroffen worden in geval van een spoedbevalling.
+> - [ ] De problemen die zich kunnen voordoen tijdens een bevalling.
+> - [ ] De handelingen die moeten uitgevoerd worden bij bevallingsproblemen.
+> - [ ] De problemen die kunnen optreden in het eerste, tweede en derde trimester van de zwangerschap.
+> - [ ] De beoordelingsmethoden bij problemen in het eerste, tweede en derde trimester van de zwangerschap.
 
 
 >[!note] PDF: [Spoedbevalling.pdf](../Source/PDFs/Spoedbevalling.pdf)

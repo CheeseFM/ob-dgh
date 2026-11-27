@@ -12,7 +12,7 @@ aliases:
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 > [VIDEO Benadering van slachtoffer - trauma PIVO](https://www.youtube.com/watch?v=6CXwbwx_2ug)
 
-> [!check] Doelstellingen
+>[!check] Doelstellingen
 > - [ ] De systematiek bij het beoordelen van een gevaarsituatie bij aankomst en kennen de veiligheidsmaatregelen die men als hulpverlener-ambulancier dient te nemen.
 > - [ ] De systematiek bij de eerste beoordeling van de patiënt + de actie die moet ondernomen worden indien het slachtoffer in kritieke toestand is.
 > - [ ] De systematiek bij de verdere beoordeling van de patiënt.

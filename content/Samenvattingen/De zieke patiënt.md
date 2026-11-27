@@ -14,25 +14,25 @@ tags:
 > [LESNOTA'S van hoofdstuk](https://drive.google.com/file/d/10p908VUEzOjhFqvY_JtSmC2GTbsay-Yv/view?usp=sharing)
 
 > [!check] Doelstellingen
-> - [x] De oorzaken, de gevolgen/symptomen en de beoordelingsmethode bij pijn op de borst alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] De begrippen angina pectoris, longembolie, pleuritis en pneumothorax.
-> - [x] Het begrip beroerte/CVA.
-> - [x] De oorzaken, de gevolgen/symptomen en de beoordelingsmethoden in geval van een beroerte alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] De oorzaken, de gevolgen/symptomen en de beoordelingsmethoden in geval van ademhalingsmoeilijkheden alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] De oorzaken, de gevolgen/symptomen en de beoordelingsmethoden in geval van  suikerziekte alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] Het verschil tussen een hypo- en hyperglycemie.
-> - [x] De oorzaken, de gevolgen/symptomen en de beoordelingsmethoden in geval van stuipen alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] De oorzaken, de gevolgen en de beoordelingsmethode bij plotse buikpijn alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] De oorzaken, de gevolgen en de beoordelingsmethoden in geval van bewusteloosheid alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] De oorzaken, de gevolgen en de beoordelingsmethoden in geval van syncope alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] Het begrip vergiftiging.
-> - [x] De verschillende oorzaken en vormen van vergiftiging.
-> - [x] De oorzaken, de gevolgen/symptomen en de beoordelingsmethode van koolstofmonoxide vergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] De oorzaken, de gevolgen/symptomen en beoordelingsmethode van een gasvergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] De oorzaken, de gevolgen en beoordelingsmethode van een alcoholvergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
-> - [x] De symptomen van een acute alcoholvergiftiging en alcoholderving.
-> - [x] De verschillende soorten drugs en de gevolgen voor het lichaam bij inname.
-> - [x] De symptomen en beoordelingsmethode van een drugintoxicatie alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De oorzaken, de gevolgen/symptomen en de beoordelingsmethode bij pijn op de borst alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De begrippen angina pectoris, longembolie, pleuritis en pneumothorax.
+> - [ ] Het begrip beroerte/CVA.
+> - [ ] De oorzaken, de gevolgen/symptomen en de beoordelingsmethoden in geval van een beroerte alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De oorzaken, de gevolgen/symptomen en de beoordelingsmethoden in geval van ademhalingsmoeilijkheden alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De oorzaken, de gevolgen/symptomen en de beoordelingsmethoden in geval van  suikerziekte alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] Het verschil tussen een hypo- en hyperglycemie.
+> - [ ] De oorzaken, de gevolgen/symptomen en de beoordelingsmethoden in geval van stuipen alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De oorzaken, de gevolgen en de beoordelingsmethode bij plotse buikpijn alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De oorzaken, de gevolgen en de beoordelingsmethoden in geval van bewusteloosheid alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De oorzaken, de gevolgen en de beoordelingsmethoden in geval van syncope alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] Het begrip vergiftiging.
+> - [ ] De verschillende oorzaken en vormen van vergiftiging.
+> - [ ] De oorzaken, de gevolgen/symptomen en de beoordelingsmethode van koolstofmonoxide vergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De oorzaken, de gevolgen/symptomen en beoordelingsmethode van een gasvergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De oorzaken, de gevolgen en beoordelingsmethode van een alcoholvergiftiging alsook de handeling/acties die hierbij moeten ondernomen worden.
+> - [ ] De symptomen van een acute alcoholvergiftiging en alcoholderving.
+> - [ ] De verschillende soorten drugs en de gevolgen voor het lichaam bij inname.
+> - [ ] De symptomen en beoordelingsmethode van een drugintoxicatie alsook de handeling/acties die hierbij moeten ondernomen worden.
 
 
 >[!note] PDF: [De zieke patiënt.pdf](../Source/PDFs/De%20zieke%20patiënt.pdf)
