@@ -17,7 +17,7 @@ Welkom op mijn digitaal leersysteem.
 	- [[Samenvattingen/Psychiatrische urgenties|Psychiatrische urgenties]]: Handelen naar en herkennen van een slachtoffer met psychische problematiek of acute stress en zichzelf hiervoor beschermen 
 	- [[Samenvattingen/Urgenties door omgevingsfactoren|Urgenties door omgevingsfactoren]]: Externe invloeden op het lichaam *(exposure)*
 	- [[Samenvattingen/Veiligheid en communicatie|Veiligheid en communicatie]]: Radioverbinding, gevaarlijke stoffen en veiligheid op verkeersongevallen
-- Anki deck #bezig : [[DGH.apkg|DGH Anki Download]]
+- Anki deck #bezig : [[DGH_Alle_hoofdstukken.apkg|DGH Anki Download]]
 	- *(Update soms dus gewoon verwijderen en opnieuw insteken)*
 - Praktijkformulier uit te voeren oefeningen: [[Praktijkoefeningen]]
 - Perfecte liedjes voor op te reanimeren *(met dank aan Eva)*: [Spotify 110 BPM Mix](https://open.spotify.com/playlist/37i9dQZF1EIcwHecTFAbsZ?si=26ee3df940fa492e) of voor specifiek de mijne: 
