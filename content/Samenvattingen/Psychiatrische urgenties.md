@@ -274,7 +274,7 @@ Niet meegaan in de waan, maar ook niet in discussie gaan. Erken wel de angst die
 
 ## Depressie
 ---
-*(= een stemmingsstoornis)* -> Veelvoorkomende aandoening *(treft ongeveer 8% v/d bevolking, met 1,5-2x zo veel cases bij mannen dan vrouwen)*
+*(= een stemmingsstoornis)* -> Veelvoorkomende aandoening *(treft ongeveer 8% v/d bevolking, met 1,5-2x zo veel cases bij vrouwen dan mannen)*
 
 **Kernsymptomen depressie**:
 - Een sombere stemming
@@ -447,7 +447,7 @@ Vragenlijst voor het psychisch functioneren:
 ---
 Dwangmaatregelen -> noemt nu **beschermde observatiemaatregel**
 - Kan vrijwillig
-- Kan via spoedprocedure *(rechter)*
+- Kan via spoedprocedure *(procureur des Konings, beoordeelt binnen 48u)*
 
 Fixatie mag enkel in geval van:
 1. Gevaar voor zichzelf

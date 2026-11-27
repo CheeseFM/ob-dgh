@@ -161,7 +161,7 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 	- **Cyanosevertoning** *(= Blauwverkleuring)*: aan extremiteiten geven eerste teken van onvoldoende zuurstofwisseling *(lippen, tong, mond)* of hypothermie *(vingertoppen, nagelbedden en tenen)*
 	- Ademhalingsgeluiden: 
 		- **Wheezing** *(= piepende ademhaling)*: Zwelling in de luchtweg - Oorzaken: *vb. Astma, COPD, een allergische reactie of een luchtweginfectie zoals bronchitis*
-		- **Gasping** *(= happende ademhaling)*: Vernauwing van de luchtweg - Oorzaken: *vb. Een vreemd voorwerp dat vastzit, een zwelling door een allergische reactie (anafylaxie), keelontsteking of stembandproblemen.*
+		- **Gasping** *(= happende ademhaling, "vis op het droge")*: ==Is géén ademhaling== -> Direct starten met REA *(zie [[Levensbedreigende aandoeningen]])*
 		- **Snurkende/rochelende ademhaling**: Bijna-dichte luchtpijp - Oorzaken: *vb. Slecht liggen terwijl bewusteloos - en dus verslapte spieren in keelholte (direct kinlift!) of slijmophoping*
 		- **Tachypneu** *(= snelle ondiepe adem, hyperventilatie)*: Zuurstofbehoefte of psychologische boosdoener - Oorzaken: *vb. Angst, stress, paniekaanvallen, koorts of pijn*
 		- **Kussmaul-ademhaling** *(= Diep, onreglmatig en versneld ademen zonder pauze)*: Overmatig koolzuurgehalte - Oorzaken: *vb. Verzuring door suikerziekte of ernstig nierfalen*
@@ -248,6 +248,9 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 
 ### D. **Disabillity** *(= neurlogische gebrekken)*
 1. Pupillen check - **PEARL** *(= Pupils Equal And Reactive to Light, puppilen isocoor en reagerend op licht)*
+	- **Miose**: beide pupillen klein *(bv. heroïne, sedatie)*
+	- **Mydriase**: beide pupillen groot *(bv. cocaïne, amfetamines, hersendood)*
+	- **Anisocorie**: ongelijke pupillen *(bv. hersenletsel)*
 2. WAPA/GCS *(= Bewustzijnstoestand bepalen)* [[O13 Verminderde bewustzijnstoestand (somnolent - stuporeus - comateus)]]
 	- Bij somnolent/stuporeus of na een zwaar ongeval: altijd navragen of het bewustzijn al verloren is geweest
 	- Bij vermoeden van neurologisch trauma: uitgebreide evaluatie, onderzoek ==hoe ver de gevoelloosheid zit==, niet enkel een kleine drukoefening
@@ -261,7 +264,7 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 | Openen v/d ogen *(E-score/eyes)* | Verbaal antwoord *(V-score/verbal)* | Motorisch antwoord *(M-score/motor)* |
 | -------------------------------- | ----------------------------------- | ------------------------------------ |
 | Spontaan = `4`                   | Georiënteerd = `5`                  | Gehoorzaam = `6`                     |
-| Op aanspreken = `3`              | Verward = `4`                       | Georiënteerd = `5`                   |
+| Op aanspreken = `3`              | Verward = `4`                       | Lokaliseert pijn = `5`               |
 | Op pijnprikkel = `2`             | Niet ter zake = `3`                 | Afwerend = `4`                       |
 | Geen = `1`                       | Niet te verstaan = `2`              | Abnormale flexie = `3`               |
 |                                  | Geen = `1`                          | Abnormale extensie = `2`             |
@@ -285,11 +288,11 @@ De patiënt is bewust of is bewusteloos met werkende vitale functies. Nu moeten 
 >[!Important] Normale waarden
 >**Glycemie**: Gemeten in `mmol/l` of `mg/dl`
 >
-> |          | Bloedsuikerwaarde milimol/liter | Bloedsuikerwaarde miligram/deciliter |
-> | -------- | ------------------------------- | ------------------------------------ |
-> | Normaal  | `< 6,0mmol/l`                   | `< 100 mg/dl`                        |
-> | Verhoogd | `6,1 - 6,7mmol/l`               | `110 - 125ml/dl`                     |
-> | Hoog     | `> 7,0mmol/l`                   | `> 126mg/dl`                         |
+> |          | Bloedsuikerwaarde miligram/deciliter |
+> | -------- | ------------------------------------ |
+> | Hypoglycemie | `< 60 mg/dl` *(-> [[O11 Hypoglycemie]])* |
+> | Normaal  | `60 - 120 mg/dl`                     |
+> | Te hoog  | `> 120 mg/dl`                        |
 
 ### E. **Exposure** *(= blootstelling)*
 1. Temperatuur: 
@@ -384,8 +387,8 @@ Wanneer is spinale immbolisatie nodig? Volg het stappenplan:
 ## Medische handelingen *(praktijk 03/10)*
 ---
 ### Glycemie prikken
-1. Desinfecteren, afwrijven met kompres en laten vervliegen
-2. Vinger masseren *(bij voorkeur de ringvinger)*
+1. Prikplaats reinigen, ==geen alcohol== *(of handalcohol lang genoeg laten drogen, geeft anders een verhoogde meting)*
+2. Vinger masseren *(zijkant vingertop van de ring- of middenvinger)*
 3. Prikken *(naald vergroten/verkleinen naargelang grootte vinger en eeltvorming)*
 4. Eerste druppel wegvegen
 5. Bloed aanbrengen op de meetstrip

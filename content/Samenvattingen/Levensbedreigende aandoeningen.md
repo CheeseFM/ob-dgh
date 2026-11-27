@@ -230,6 +230,7 @@ Bij verstikking is er een vast stramien v/ slagen toedienen ==op dezelfde schoud
 3. Middenrifbeweging kunstmatig nabootsen:
 	1. Volwassene ==5x buikstoot==: Zoeken v/ maag, vuist vormen & omhoog
 	2. Bij baby ==5x borstcompressies==: Maag is nog te teder
+		- Baby met ==hoofd lager dan de voeten==, ondersteun het hoofd *(niet de hals)*
 
 Indien voorwerp zichtbaar: **vingerveeg techniek** *(van links -> rechts uit de mond vegen)*
 
@@ -337,7 +338,7 @@ Toegestaan om aan te leggen als ambulancier, met als enige functie de verslapte 
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Wat                            | Een buisje die direct naar het begin van de keelholte leidt                                                                                                                                                                                                                                                                                                                                                                               |
 | Wanneer                        | Openhouden van luchtweg via kinlift/jawthrust moeilijk gaat of in de weg zit van andere verzorgingen                                                                                                                                                                                                                                                                                                                                      |
-| Doelpubliek                    | Bewusteloze personen meestal zonder autonome ademhaling en hartpompfunctie, maar ==verplicht bij baby's==                                                                                                                                                                                                                                                                                                                                 |
+| Doelpubliek                    | Bewusteloze personen meestal zonder autonome ademhaling en hartpompfunctie, bij baby's ==overwegen bij moeilijke beademing== *(ERC 2025)*                                                                                                                                                                                                                                                                                                                                 |
 | Hoe                            | Zie [[P06 Plaatsen van een mayocanule]]<br><br>1. Meten door naast de kaak te houden -> Snijtanden tot kaakhoek<br>2. Inbrengen met buiging naar boven tegen gehemelte in scheppende beweging <br>3. Draaien zodat hij achter de tong komt te zitten <br><br>OF met tongspatel tong naar beneden houden en in één beweging naar binnen                                                                                                    |
 | Uitzonderingen/aandachtspunten | 1. ==Bij baby's *(met dus )zacht gehemelte)* werken wa ALTIJD met de tongspatel== en nooit door om te draaien *(schade)*<br>2. Mayocanule zal lucht in de maag duwen, op termijn ZAL de persoon braken -> ==Aspiratiepneumonie==<br>3. Een persoon die niet diep bewusteloos is zal de mayo-canule er onbewust uitduwen/er is meer kans op braken -> ==plak de canule NIET, NOOIT vast== *(tijd om over te gaan naar een andere methode)* |
 | Beveiligd en/of Definitief?    | Geen van beide                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -402,7 +403,7 @@ De grote soorten shock kunnen op vier manieren opgedeelt worden:
 	- **Cardiogene shock**: De functie v/h hart wordt door externe factoren zodanig beïnvloedt *(bv. blokkage van de hartslagader waardoor samentrekking moeilijk gaat, of een infectie op de hartspier, ...)* dat het pompen belemmert wordt. ==Slechte of geen circulatie betekent betekent slechte perfusie of oxygenatie.==
 	- **Obstructieve shock**: Er zit ergens een blokkage *bv. een thrombose* die zorgt dat circulatie 
 - **Distributieve shock** *(verzamelnaam)* shock *(= reservoir zet uit)* 
-	- **Sceptische shock**: Bacteriële infecties in de bloedbaan die zorgen voor **vasodilatatie** *(= de bloedvaten zetten zich open)*
+	- **Septische shock**: Bacteriële infecties in de bloedbaan die zorgen voor **vasodilatatie** *(= de bloedvaten zetten zich open)*
 	- **[[#Anafylactische shock]]**: Allergische reactie die zorgt voor vasodilatie en opzwellen van slijmvliezen *(en dus in meeste gevallen beperken van de luchtweg*
 - Verstoring opname van O2 in bloed
 	- **Dissociatieve shock**: Zuurstofopname in bloed gaat moeilijk *(bv. CO-vergiftiging)*
@@ -433,7 +434,7 @@ Afhankelijk van het type shock *(zie [[#Anafylactische shock]] & [[#Hypovolemisc
 1. Verwittig DIRECT noodcentrale voor aansturen medisch middel *(MUG)*
 2. Wees zelf kalm, blijf praten met de patiënt 
 3. Geef de patiënt zuurstof a.d.h.v. een non-rebreathing masker *(zie standing order -> 10-15l met non-rebreathing masker)*
-4. Houding: Meestal liggend of zittend bij ademhalingsmoeilijkheden of hartproblemen
+4. Houding: Meestal liggend met ==benen op een opgerold deken==, zittend bij ademhalingsmoeilijkheden of hartproblemen
 5. Behandel de oorzaak vak shock *(bv. catastrofale bloedingen)*
 6. ==Geef GEEN eten of drinken== *(spijsverteringsstelsel wordt tijdelijk uitgeschakeld, persoon kan stikken of braken)*
 7. Blijf observeren en parameteriseren
@@ -518,9 +519,22 @@ Naar mate van de [[#Severiteit v/d bloeding|severiteit]] gaan we handelingen doe
 #### Uitwendige bloedingen v/d ledematen
 Laceraties, amputaties of stevige slagaderlijke bloedingen kunnen voor enorm bloedverlies zorgen. We gaan a.d.h.v. de severiteit *(klein naar groot)*
 1. **Rechtstreekse druk & hoogstand indien mogelijk**: voor kleine aderlijke of haarvat bloedingen - *bv. vinger, arm, schaafwonden (let dan wel op voor brandwonden)*
+	- Druk ==minstens 10 minuten== aanhouden, ==niet tussendoor kijken== of de bloeding gestopt is *(heractiveert de bloeding)*
 2. **Druk d.m.v een drukverband**: voor slagaderlijke bloedingen *bv. de pols*
+	- In de DGH: **Israëlisch drukverband**, niet te hard aanspannen
+	- Controleer kleur, capillaire refill en hartslag verder op het lidmaat *(niet afsnoeren!)*
 3. **Extra druk op (druk)verband uitvoeren**: Op duwen, windel errond onder spanning
 4. **Onrechtstreekse druk op bloedvaten d.m.v. knevel**: [[O26 Amputatie, verplettering, verminking]] & [[O25 Zwaar trauma en schedeltrauma]]
+
+>[!warning] Knevel/tourniquet
+>Snoert ==alle== bloedvaten af -> enkel als rechtstreekse én onrechtstreekse druk niet helpen, of bij een ramp *(veel slachtoffers)*
+> - Eens aangelegd: ==nooit lossen==
+> - ==Tijd van aanleggen noteren==
+> - Mag over de kledij, maar nooit verbergen *(geen verborgen tourniquets)*
+> - Afgerukte ledematen: eenvoudige druk is vaak al voldoende
+
+>[!info] Catastrofaal bloedverlies
+>Handschoenen, ==liggende houding== en ==15 L/min O2== via masker met reservoir.
 
 #### Vreemde uitwendige bloedingen
 Bij speciale gevallen gaan we specifieke andere handelingen doen.
@@ -533,8 +547,11 @@ Bij speciale gevallen gaan we specifieke andere handelingen doen.
 Zijn moeilijk om vast te stellen, maar bij circulatie -> BBB toetasten en daar zal je mogelijk vinden *(+ hypovolemische shock)*
 1. Luister naar verhaal: wat is er gebeurd, waar is de pijn
 2. Wees alert voor shock -> indien toetreedt direct MUG bijschakelen
-3. Correcte houding: stabiele zijliging, halfzittend, ... *(indien NEXUS goed is)*
-4. Toevoeren van O2
+3. Correcte houding *(indien NEXUS goed is)*:
+	- Liggend met ==benen licht omhoog==
+	- Bewusteloos: stabiele zijligging
+	- Wonde aan borstkas, kortademig: (half)zittend
+4. Toevoeren van O2 *(masker met reservoir, 10 à 15 L/min)*
 5. Spalken van mogelijke breuken
 6. Geen eten/drinken geven
 7. ==Vervoer snel, maar veilig/comfortabel!==
@@ -551,7 +568,7 @@ Bijna niks aan te doen in meeste gevallen, maar betekent niet dat je niet gewoon
 >[!check] Doelstellingen
 > - [ ] ...
 
-Het hart is na problemen met de hersenen de grootste doodoorzaak. 
+Het hart is de belangrijkste doodsoorzaak. 
 - De reden van hartstilstand is meestal **ventrikeltachycardie** *(= te snelle werking van de hartkamers)* die dan overgaat in fibrillatie *(spier trekt zo rap samen dat er geen pompfunctie gebeurt)* -> Waarna **asystolie** *(volledig ophoudt van hartactiviteit)* kan toeslaan
 
 >[!warning] Reanimatie wordt ALTIJD gestart
@@ -735,7 +752,7 @@ Baby/zuigeling = ==< 1 jaar==. Een pasgeborene *("natte baby")* zit in de module
 4. **Controle ademhaling**: 10 sec
 5. ==5 initiële beademingen== met ballon + masker over ==mond én neus==: klein pufje tot de thorax stijgt, terug laten dalen
 	- Alleen -> CE-greep | met twee -> 2-duim-omcirkeltechniek *(thaler)* *(zie [[#Correct vasthouden v/d ballon]])*
-	- Mayocanule is bij baby's verplicht en wordt ALTIJD met de tongspatel geplaatst *(zie [[P06 Plaatsen van een mayocanule]])*
+	- Mayocanule overwegen bij moeilijke beademing *(ERC 2025)*, wordt ALTIJD met de tongspatel geplaatst *(zie [[P06 Plaatsen van een mayocanule]])*
 6. Feedback MUG *(ten laatste hier bijvragen!)* -> no-flow time beperken: onmiddellijk starten met de compressies
 7. **Compressies** met de 2-duim-omcirkeltechniek *(voorkeurstechniek HVA)*:
 	- Plaatsing op de onderste helft v/h borstbeen, vingers omcirkelen de thorax

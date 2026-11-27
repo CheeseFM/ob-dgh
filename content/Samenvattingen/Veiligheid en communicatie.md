@@ -75,7 +75,7 @@ Hou rekening met:
 4. Nooit in vloeistoffen staan
 5. Ruiten gesloten houden
 6. Afstand tot rode zone:
-	- 50m: indien product gekend en veilig *(voor die afstand)*
+	- 50m: indien duidelijk bovenwinds
 	- 100m: geen zekerheid van product
 	- 500m: kans op krachtige explosie
 
@@ -99,8 +99,8 @@ ASTRID *(= All-arround Semicellular Trunking Radio netwerk with Integrated Dispa
 
 **ASTRID** -> Netwerk en naam v/ associatie
 Abbonement ASTRID bestaat uit:
-1. **GSSI**: Group Short Subscriber Identity -> Per discipline *(bij DGH start met 6)*
-2. **ISSI** Individual Short Subscriber Identity -> Per terminal/client *(individueel per radio)*
+1. **GSSI**: Group Short Subscriber Identity -> Per discipline, ==6 cijfers== *(begint met een 6)*
+2. **ISSI** Individual Short Subscriber Identity -> Per terminal/client *(individueel per radio)*, ==7 cijfers== *(begint met een 6)*
 
 `*#06#` -> Zichtbaar maken GSSI en ISSI
 
@@ -120,15 +120,15 @@ Radio heeft *(nu)* ongeveer 300 gespreksgroepen, opgedeeld in mappen:
 Altijd provincie vernoemen bij vragen voor veranderen naar gespreksgroep -> OVL-OEF-06 =/= OEF-06 *(bij een andere provincie is dit bv. WVL-OEF-06)*
 
 Statuscodes:
-1. Bevestiging ontvangst bericht
-2. Vertrokken voor opdracht
-3. Aankomst ter plaatse van interventie
-4. Vertrek naar ziekenhuis -> Radiofonische status doorgeven, wordt niet via cijfertoets ingedrukt
-5. Aankomst in ziekenhuis van bestemming
-6. Terug naar standplaats
-7. Telefonisch beschikbaar op standplaats
-8. Enkel beschikbaar indien nood -> Enkel radiofonisch doorgeven *(bv. indien ambulance volledig vuil is, kledij moet gewisseld worden, ...)*
-	- Maak dat je je dan weer beschikbaar zet *(07)*
+- `00`: Beschikbaar op standplaats
+- `01`: Gealarmeerd op standplaats
+- `02`: Vertrek naar plaats opdracht
+- `03`: Aankomst op plaats opdracht
+- `04`: Vertrek naar ziekenhuis -> Radiofonische status doorgeven, wordt niet via cijfertoets ingedrukt
+- `05`: Aankomst in ziekenhuis
+- `06`: Terug naar standplaats
+- `07`: Aankomst op standplaats
+- `08`: Oproepbaar
 
 Cijfer per cijfer zeggen, NATO alfabet -> Te kennen!
 

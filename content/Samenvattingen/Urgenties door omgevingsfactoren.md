@@ -80,7 +80,7 @@ We gaan via 5 criteria proberen bepalen hoe ernstig een brandwonde is:
 
 ### Indeling ernst v/ brandwonden
 1. **Lichte brandwonden**: 1e graad & kleine 2e graad
-2. **Ernstige brandwonden**: 2de graadsbrandwonde vanaf 10-15%
+2. **Ernstige brandwonden**: 2de graad groter dan een 2-euromunt, tot 10-15%
 3. **Levensbedreigende brandwonden**
 	- Totale lichaamsoppervlakte *(=TLO)* 15% volwassene, 10% kind verbrand - 2de graads
 	- TLO v/ 5% of op handen/voeten/gelaat - 3de graads
@@ -99,9 +99,10 @@ We gaan via 5 criteria proberen bepalen hoe ernstig een brandwonde is:
 - Behandelen v/ shock indien optreed
 
 **Vervoeren:**
-- Vochtige, steriele doeken, indien mogelijk zelfkoelende brandwondenverbanden
+- Vochtige, steriele doeken, indien mogelijk zelfkoelende brandwondenverbanden *(==geen ijs==)*
 - Verwarm sanitaire cel om onderkoeling te voorkomen
 - Half zittende houding indien mogelijk - anders in positie comfortabel
+- Bij shock: liggend met benen omhoog
 
 >[!tip] Praktijk brandwonden *(21/11)*
 > - ==20/20/20-regel==: 20 minuten lang, op 20°C, 20 cm van de brandwonde koelen met water
@@ -138,7 +139,9 @@ Vergelijkbaar met brandwonden, maar niet volledig zelfde
 1. Eerst rood, nadien wit/wasachtig
 2. Bloedvoorziening geraakt in gedrang door ijskristallen in weefsels / bloeddoorloop
 3. Afsterven -> Gangreen
-4. Voornamelijk aan extremiteiten 
+4. Voornamelijk aan extremiteiten
+
+**Handelen**: Wonden steriel afdekken, ==geen snelle opwarming==, vervoer naar spoed
 
 >[!info] Logisch af te leiden van omgeving *(vriestemperatuur -> vrieswonden)*
 
@@ -183,7 +186,7 @@ Enorm breed, door spasmen + interne brandwonden EN elektrisering organen; maar *
 
 ### Handelen bij verdrinking
 1. Eigen veiligheid
-2. Zo snel mogelijk uit het water
+2. Zo snel mogelijk uit het water -> ==Horizontaal evacueren== *(rechtop: risico op bloeddrukval en collaps)*
 3. Treat first what kills first *(REA)*
 	1. 5 startbeademingen
 	2. Hou aspiratie klaar voor braken

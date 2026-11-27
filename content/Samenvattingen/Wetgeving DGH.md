@@ -113,8 +113,9 @@ Drie voorwaarden v/h beroepsgeheim:
 
 Uitzonderingen op het beroepsgeheim:
 - Overdracht van een patiënt aan een ziekenhuis, informatieuitwisseling tussen collega's om zorg te verstrekken
-- Men wordt gevorderd voor een verklaring burgelijk rechter, strafrechter of onderzoeksrechter - Je mag het beroepsgeheim breken om zichzelf te beschermen *(maar best in overleg met een deskundige advocaat)*
-- Patiënt is bewusteloos en informatie is van medisch belang
+- Men wordt gevorderd voor een verklaring burgelijk rechter, strafrechter of onderzoeksrechter *(getuigenis in rechte)* -> Je ==mag==, maar ==moet niet== spreken: je beslist zelf, in eer en geweten
+- Je mag het beroepsgeheim breken om jezelf te verdedigen *(maar best in overleg met een deskundige advocaat)*
+- Patiënt is zelf slachtoffer van een misdrijf en kan zelf niet beslissen *(bv. bewusteloos)*
 - Kindermishandeling *(doorgeven via arts/vertrouwensartscentrum)*
 - Patiënt is slachtoffer van ongeval op de openbare weg en wordt naar ziekenhuis gebracht door dienst 112 *(politie heeft hier een plicht om onderzoek te doen)*
 - Het zwijgen betekent directe dood van andere personen *(nood breekt wet)*
@@ -125,6 +126,7 @@ Uitzonderingen op het beroepsgeheim:
 - Statutair tewerkgestelden: Eigen verantwoordelijkheid samen met die van de instelling *(men is deel van instelling waar hij werkt)*
 
 Wat indien fout?: Slachtoffer moet kunnen bewijzen dat schade rechstreeks ten gevolge was van die fout
+- Nalaten om een eerste beoordeling *(primaire balans)* te maken ==is een fout==
 - ==Leer uit je fouten, sommige fouten kunnen gemaakt worden door meerdere personen==
 
 ##### ==BELANGRIJK:== Weigering transport
@@ -132,6 +134,7 @@ Verplichte verantwoordelijkheden bij weigering transport:
 - De HA* dient de zieke in te lichten over haar toestand en wat de gevolgen kunnen zijn van weigering
 	- Indien kritieke toestand moet een **medisch hulpmiddel** nog steeds ingezet worden
 - Er moet een document van weigering ondertekend worden en grondig overlopen zijn met de patiënt
+	- ==Dit document heeft geen juridische waarde== *(kan wel in aanmerking genomen worden door de rechtbank)*
 	- Indien mogelijk, laat een agent getuige zijn van de feiten
 
 Indien zieke* *(want is geen patiënt door geweigerde hulp)* letsels/de dood oploopt van eigen weigering:

@@ -152,7 +152,7 @@ Bepalen of er een spoedbevalling moet gebeuren kan men enkel door de juiste vrag
 
 **Aandachtspunten spoedbevalling**
 - Je vertrekt niet bij;
-	- Een hoge malinas score *(boven 5)*
+	- Een hoge malinas score *(5 of meer)* -> Installeer de vrouw ==omgekeerd op de brancard== *(ruimte aan het voeteneinde om de baby op te vangen)*
 	- Volledige ontsluiting
 	- Hoofd of delen van baby geëxternaliseerd zichtbaar
 - Je vraagt assistentie medisch middel indien nodig *(actieve bevalling, zonder mogelijkheid om ziekenhuis te bereiken)*
@@ -167,10 +167,10 @@ Voorbereiden van je werkplek:
 
 Ondersteunen van de vaginale bevalling:
 1. Perineum aanduwen *(scheuren voorkomen)*
-2. Damsteun van hoofd
+2. Damsteun van hoofd -> ==Nooit op het hoofdje duwen==
 3. Spildraai assisteren met vinger aan schouder/nek
 4. Opvangen en tegen moeder leggen huid-op-huid
-5. Klem de navelstreng af nadat baby van zichzelf ademt
+5. Klem de navelstreng af nadat baby van zichzelf ademt -> Op ±10 cm van de buik, met 2 kochers of een navelklem *(==NIET doorknippen==)*
 6. Als het kind niet huilt of lijkt te slapen, stimuleer je het met zachte klopjes op de voetzolen.
 
 ## Complicaties
@@ -178,18 +178,19 @@ Ondersteunen van de vaginale bevalling:
 ### Complicaties bij de bevalling
 - **Navelstreng rond de hals**: Indien los kan je die zelf proberen over het hoofdje te trekken, anders medische bijstand vragen -> doorknippen navelstreng
 - **Uitzakken navelstreng**: 15L zuurstof, SZL links, niet persen en naar verloskwartier
-- **Stuitligging**: Baby ligt verkeerd -> 15L zuurstof, SZL links -> verloskwartier
+- **Stuitligging**: Baby ligt verkeerd -> ==Nooit aan de uitstekende ledematen trekken==, trendelenburghouding -> verloskwartier
 - **Veel bloedverlies**: ABC afgaan, 15L zuurstof, trendelenburghouding + medische bijstand vragen
 
 ### Complicaties tijdens de zwangerschap
 1. Eerste trimester
 	- **Miskraam** *(= spontane abortus)*: Ergens gaat iets mis waardoor baby verloren gaat -> hevig bloedverlies en buikkrampen *(ook op psychologisch vlak gigantische impact)*
 	- **Clandestiene abortus** *(zelf in handen nemen van abortus)*: Enorm ernstige bloedingen en trauma aan gevoelige plekken *(hypvolemische shock)* + grote kans op ernstige infecties *(septische shock)*
-	- **Buitenbaarmoederlijke bevalling**: bevruchte eicel blijft in eileider of buikholte -> zorgt voor hevige pijn en bloedverlies
+	- **Buitenbaarmoederlijke zwangerschap**: bevruchte eicel blijft in eileider of buikholte -> zorgt voor hevige pijn en bloedverlies
 	- Handelen: ABC, kalmeren van SO, shock voorkomen, O2 toedienen
 - Tweede trimester: Vooral ten gevolge van trauma
 	- Handelen: 15L 02, tekenen van shock herkennen -> medisch middel, voorzie verbanden voor bloedverlies, SZL links + spoedopname
 - Derde trimester: 
 	- **Spontane bloedingen** *(van de placenta)* -> Weeral hypovolemische
 	- **Zwangerschapsstuipen** *(= eclampsie)*: Hoge bloeddruk, zwelling v/d hersenen -> Stuipen
+		- Handelen: 15L O2 *(masker + reservoir)*, linker veiligheidshouding, MUG
 	- **Trauma**: Zelfde handeling 2de trimester

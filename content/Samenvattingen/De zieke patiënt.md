@@ -56,7 +56,7 @@ Gekend als **Retro Sternale Pijn** *(=RSP)* -> Verschillende oorzaken mogelijk
 - Hartinfarct *(= verstopping v/d kransslagader)*
 - Longembool *(= verstopping v/d longsslagader)*
 - **Aortadissectie** *(= scheur van de aorta)* 
-- **Myocarditis** *(= ontsteking van het hartzakje)*
+- **Pericarditis** *(= ontsteking van het hartzakje)*
 - **Pleuritis** *(= ontsteking van longvlies)*
 - **Pneumothorax** *(= lucht tussen longvliezen)*
 - ...
@@ -70,7 +70,7 @@ Gekend als **Retro Sternale Pijn** *(=RSP)* -> Verschillende oorzaken mogelijk
 - ==Deel van de hartspier krijgt BLIJVEND geen bloed== -> Begint af te sterven *(onherstelbaar!)*
 
 Verminderde pompfunctie van hart, leidend tot verslechterende ritmestoornissen, o.a: 
-1. **Ventrikel tachycardie** *(= trage pompfunctie/samentrekken van de hartkamer(s))*
+1. **Ventrikel tachycardie** *(= versnelde hartslag vanuit de hartkamer(s))*
 2. **Ventrikel fibrillatie** *(= snelle samentrekking van de hartkamer(s) -> geen pompfunctie)*
 3. **PEA** *(= Polsloze Elektrische Activiteit -> Er worden perfecte signalen gegeven aan hartspier, maar hartspier pompt niet; meestal door laag bloeddebiet, drukverlies of krachtverlies in hartsspier)*
 4. **Asystolie** *(= volledige stilstand van het hart, totaal geen pompfunctie meer)*
@@ -81,6 +81,8 @@ Verminderde pompfunctie van hart, leidend tot verslechterende ritmestoornissen, 
 #### Vicieuze cirkel van hartfalen
 Verminderde pompfunctie deevolueerd in -> cardiogene shock *(= pomp kapot of slecht werkend)*
 - Hart kan onvoldoende zuurstof rondpompen
+- Angstige patiënt, tachycardie, koud, klam, zweterig
+- Houding: ruglig, ==benen NIET omhoog== *(extra bloed naar het hart belast de zwakke pomp nog meer)*
 
 >[!tip] **Shock** = onevenwicht tussen O2 toevoer en verbruik
 
@@ -97,6 +99,10 @@ Bij vermoeden van myocard infarct -> ==Bijstand MUG==  *(ten laatste bij circula
 | Oudere persoon:<br>-> ==Man: 35+==<br>-> ==Vrouw: 40+==                                                                                                 | Reeds hartpatiënt?                                                             | Pijn achter het borstbeen<br>Straalt uit naar schouder en arm<br>Meestal links<br>Kan uitstralen naar de maag, schouderbladen en hals, onderkaak |
 | **Risicofactoren**: Roken, weinig beweging overgewicht, voeding (zout, vet, ...), alcohol, stress, suikerziekte, hypertensie, cholesterolverhoging, ... | **Duidelijke indicatoren?**: Pleisters op huid, bloedverdunners, Cedocard, ... | **Tekenen v/ *(cardiogene)* shock?**:<br>Nausea<br>Angstig<br>Zweten en bleek                                                                    |
 -> Transport naar hartcentrum voor stent
+
+>[!tip] Bloeddruk bij pijn op de borst
+> - Meet de bloeddruk ==aan beide armen== *(groot verschil kan wijzen op bv. een aortascheur)*
+> - **Palpatoire bloeddruk** *(snel de systolische druk bepalen)*: pomp de manchet op tot je ==geen pols meer voelt== aan de pols, laat dan langzaam af -> waar je de pols ==weer voelt== = de **systolische druk**
 
 ## Beroerte
 ---
@@ -124,7 +130,7 @@ Bij vermoeden van myocard infarct -> ==Bijstand MUG==  *(ten laatste bij circula
 4. Halfzittende houding, geruststellen
 5. ==zsm naar ziekenhuis== *-> Trombectomie, chirurgie, ontstollen*
 
->[!warning] Bij GCS `>8` -> Inadequaat bewustzijn om eigen luchtweg te beveiligen 
+>[!warning] Bij GCS `≤8` -> Inadequaat bewustzijn om eigen luchtweg te beveiligen 
 
 >[!info] Enkel afvoeren naar ziekenhuis met STROKE *(= beroerte)* unit
 
@@ -151,6 +157,9 @@ We onderscheiden tussen **dyspneu** *(= respiratoire insufficiëntie of ademhali
 - Gedaald bewustzijn
 - Rechtopzittend, halfzittend
 
+>[!important] Zuurstof bij ernstige dyspnoe
+>Titreer de zuurstof tot een saturatie van ==94 - 98%== *(uitzondering: COPD, zie hieronder)*
+
 ### COPD/CARA
 *(= Chronic Obstructieve Pulmonary Disease, Chronische Aspecifieke Respiratoire Aandoening)* Chronische aandoening waardoor longfunctie verslecht -> 
 - Afwijking van de kleine luchtwegen *(etter, slijm, chronische bronchitis)* 
@@ -164,6 +173,8 @@ Ziektebeeld -> ==Oudere mensen== *(rokers, stoflongen, ...)*
 >Wat wel?:
 > - 1,5 a 2L per minuut tot goede saturatie *(88-92%)*
 > - 15L met zakmasker bij ernstig respiratoir falen / REA
+>
+> Te veel O2 bij COPD -> **carbonarcose**: CO2 stapelt op tot een *(CO2-)*vergiftiging -> bewustzijnsdaling, ademhaling dreigt stil te vallen
 
 ### Astma
 Gebeurt in "opstoten" -> ==acute ademnood door (tijdelijke) vernauwing van de bronchiën==
@@ -182,7 +193,7 @@ Gebeurt in "opstoten" -> ==acute ademnood door (tijdelijke) vernauwing van de br
 >[!warning] Twijfel tussen COPD <-> Astma? Bevraag patiënt, indien niet mogelijk; handel als COPD!
 
 ### Hyperventilatie
-*(= veel ademen -> oppervlakkig en snel)* -> Zorgt voor te veel ==zuur==stof: Chemisch onevenwicht
+*(= veel ademen -> oppervlakkig en snel)* -> CO2 wordt te veel uitgewassen: Chemisch onevenwicht
 - Pas op: Vicieuze cirkel -> Patiënt gaat hierdoor nog sneller proberen ademen *(gevoel van te weinig lucht)*
 
 Twee soorten hyperventilatie:
@@ -199,7 +210,7 @@ Twee soorten hyperventilatie:
  - Tachycardie *(= snelle pols/hartkloppingen)*
  - Gevoel van ademnood -> Dyspnoe
  - Drukkend gevoel op de borst -> RSP?= DD = Differentiaal Diagnose
- - Tintelingen in vingers, rond mond... *(verzuring)*
+ - Tintelingen in vingers, rond mond... *(te weinig CO2)*
  - Beangstigend...
 
 #### Handelen naar hyperventilatie
@@ -209,6 +220,10 @@ Neem klachten ernstig *(mogelijks levensbedreigende hyperventilatie)*
  - Moedig aan rustig te ademen (CO2 zal terug stijgen in bloed)
  - buikademhaling
  - Plastiek zakje?
+
+>[!warning] Emotioneel of levensbedreigend?
+>Emotionele hyperventilatie: ==geen extra zuurstof==. Bij een levensbedreigende oorzaak *(bv. shock)* juist wel.
+>Tips: jong of ouder *(> 30 jaar)*? Emotioneel moment in het verhaal? ==Bij twijfel: behandel als levensbedreigend.==
 
 ### Longoedeem
 *(Acuut longoedeem, “ALO”)* -> Symptoom v/ hartfalen
@@ -276,6 +291,9 @@ Neem klachten ernstig *(mogelijks levensbedreigende hyperventilatie)*
 |                                                                                                                | Op rustige, vlotte manier naar het ziekenhuis brengen *(i.v.t)* |
 >[!warning] Je propt nooit zelf eten in suikerpatiënt -> Volledig autonome en vrijwillige actie
 
+>[!warning] Glucagenpen of -neusspray
+>Hormoon dat de bloedsuiker snel doet stijgen. ==Getrainde familieleden mogen dit toedienen, de HVA NIET.==
+
 ### Hyperglycemie
 *(= te hoog bloedsuikergehalte)* -> Symptomen treden niet zo snel op en zijn minder duidelijk.
 - **Oorzaken**: niet ontdekte diabetes, dieetfouten, inname teveel koolhydraten, therapieontrouw, verkeerde dosering, stress, angst, koorts, ziekte, tumor inname van bepaalde medicatie *(medrol)*, verminderde lichaamsbeweging
@@ -302,7 +320,7 @@ Neem klachten ernstig *(mogelijks levensbedreigende hyperventilatie)*
 |                                                        | Op rustige, vlotte manier naar het ziekenhuis brengen. |
 >[!warning] Aandachtspunten bij prikken
 > - Ontsmetten van de priksite zal een verhoogde meting geven -> Alcohol bevat suiker
-> - Prik op de zijkant van de ringvinger of de pink *(niet de wijs- of middelvinger indien persoon blind wordt kunnen ze nog braille lezen)*
+> - Prik op de zijkant van de vingertop van de ring- of middenvinger
 
 ## Stuipen
 ---
@@ -351,7 +369,7 @@ Een betrekking van de volledige hersenen bij een aanval
 Afhankelijk van de sterkte v/d aanval *(meestal bij tonisch-clonisch)* komen we terecht in de **post-ictale fase** *(na-aanvals-fase)*: Persoon is gedisoriënteerd, boos, moe, verward, ... -> ==Enorme inspanning gedaan!==
 
 >[!info] **Status epilepticus**
->Een aanval durende langer dan 5 minuten OF twee of meer aanvallen achter elkaar zonder terug bij bewustzijn komen ertussen
+>Een aanval durende langer dan 5 minuten *(bij kinderen volgens de pediatrische slides al vanaf 3 minuten)* OF twee of meer aanvallen achter elkaar zonder terug bij bewustzijn komen ertussen
 
 >[!info] **SUDEP**
 >*(= Sudden Death in EPilepsy)*: Plotse dood na epileptische aanval

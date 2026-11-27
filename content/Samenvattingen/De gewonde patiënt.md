@@ -110,7 +110,7 @@ In ons geval is de ernst meestal een beoordeling v/e:
 - **Trauma d.m.v. een stomp voorwerp/zware klap** *(bv.  knuppel tegen ledematen, aangereden worden, ...)* - ==Kan ook enorm ernstig zijn, breuken van wervels of bekken *(slagaderlijk bloedverlies of verlamming)*==
 	- *bv. ...* **Coup-contrecoup**: Botst met hoofd tegen iets waardoor hersenen tegen schedel botsen, terugveren en aan de andere kant van het schedel botsen. ![[Pasted image 20260923132656.png]]
 	- *bv. breuken, verstuikingen, bloeduitstortingen, ...* 
-- **Polytrauma**: Twee of meer levensbedreigende letsels onafhankelijk van elkaar 
+- **Polytrauma**: Minstens twee verwondingen aan verschillende orgaansystemen, met minstens 1 levensbedreigend *(bv. hersenkneuzing en klaplong)*
 ### Verwachtingen per situatie
 > [[O25 Zwaar trauma en schedeltrauma]]
 
@@ -387,7 +387,7 @@ In het algemeen is een **aangezichtsletsel** niet zo super erg. Het is namelijks
 | Letsel                                               | Handeling                                                                                                                           | Order/Procedure                                                                                                                           |
 | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | Wonden thv mond en neus                              | Aspiratietoestel, indien tanden volledig los zitten -> verwijderen *(verstikkingsgevaar)*                                           | [[O26 Amputatie, verplettering, verminking]], [[P01 Aspiratie van de bovenste luchtweg bij een patiënt zonder een kunstmatige luchtweg]]  |
-| Neusbloeding                                         | In boekhouding naar beneden zitten *(15 minuten)*                                                                                   | [[De eerste minuten DGH#C. Circulation *(= bloedsomloop)*\|Circulation in benaderingsschema]]                                             |
+| Neusbloeding                                         | In leeshouding naar beneden zitten *(15 minuten)*, nooit kompressen in de neus                                                                                   | [[De eerste minuten DGH#C. Circulation *(= bloedsomloop)*\|Circulation in benaderingsschema]]                                             |
 | Vreemde voorwerpen                                   | Fixeren indien vreemd voorwerp, bij chemisch langdurig uitspoelen<br>![[Pasted image 20261003233753.png]]                           | [[P50 Fixatie ter voorkoming van lichamelijke letsels]]                                                                                   |
 | Aderlijke of slagaderlijke bloedingen *(in de hals)* | *(druk)* verband aanleggen / manuele druk uitvoeren<br>![[Pasted image 20261003233844.png]]<br>![[Pasted image 20261003233853.png]] | [[O05 Hypovolemische shock bij volwassene]]/[[De eerste minuten DGH#C. Circulation *(= bloedsomloop)*\|Circulation in benaderingsschema]] |
 | Hersenvocht                                          | Bijstand vragen                                                                                                                     | [[O25 Zwaar trauma en schedeltrauma]]                                                                                                     |
@@ -683,7 +683,7 @@ Afhankelijk van de urgentie worden er verschillende bevrijdingstechnieken gebrui
 >-  een gecontroleerde bevrijding -> snelle *(bv. plotse veneuze interne bloeding -> parameters gaan enorm rap achteruit)* -> noodbevrijding *(bv. auto vat vuur)* 
 
 >[!info] **Polytrauma**
->Minstens twee *(= poly)* levensbedreigende verwondingen aan verschillende, on-verbonden orgaansystemen met minstens 1 levensbedreigend *bv. hersenkneuzing en klaplong*
+>Minstens twee *(= poly)* verwondingen aan verschillende orgaansystemen, met minstens 1 levensbedreigend *bv. hersenkneuzing en klaplong*
 
 #### Zelfbevrijding
 Indien we merken dat bij de NEXUS criteria toch geen tekenen zijn van een werveltrauma mag het slachtoffer zichzelf bevrijden.
@@ -948,7 +948,7 @@ Meestal zijn skeletletsel v/d benen:
 | *v.b.*      | ![[Pasted image 20261025233206.png]]                                                 | ![[Pasted image 20261025233214.png\|273]]                                                         |
 | Oorzaak     | Val of hoog energetisch zwaar trauma                                                 | Hoog energetisch zwaar trauma                                                                     |
 | Zichtbaar   | Vaak verkorting been, been naar buiten gedraaid, bloedverlies en bloedtoevoer nagaan | Verkorting been, hematoom, ...                                                                    |
-| Kenmerken   | Meestal syncope vooraf                                                               | Vaak ernstige bloeding mogelijk(shock), enorm moeilijk om te aligneren door krachtige dij-spieren |
+| Kenmerken   | Navragen bij getuigen *(syncope vooraf?)*                                                             | Vaak ernstige bloeding mogelijk(shock), enorm moeilijk om te aligneren door krachtige dij-spieren |
 | Handelingen | Steeds been goed fixeren en ondersteunen                                             | Best in korrelmatras                                                                              |
 
 |             | Letsels v/d knie                                           | Breuk v/h onderbeen                     | Breuk v/ enkel of voet                                                        |

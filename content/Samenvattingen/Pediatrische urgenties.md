@@ -90,7 +90,7 @@ REA baby/kind -> 15/2 *(hulpverlener)*
 - Ademhaling is meestal de oorzaak *(80% v/d tijd)* -> 5 startbeademingen *(i.p.v. 2)*, traag inblazen tot je thoraxbeweging ziet
 - Baby ademt via neus, kan nog niet écht via mond -> masker/ballon over neus én mond
 - Circulatiecontrole max 10 sec *(kijken, luisteren, voelen)* + tekenen van leven *(hoesten, bewegen, wenen)*
-- Compressies: onderste helft sternum, 100/min, diepte 1/3 van thorax
+- Compressies: onderste helft sternum, 100-120/min, diepte 1/3 van thorax
 - Technieken: 2-duimen *(baby)*, 1 hand of 2 handen *(groter kind)*
 - Plaatsing duimen: 1 vinger onder denkbeeldige tepellijn *(of boekje toevallen)*
 - Bij hartmassage kind enkel de palm gebruiken, vingertoppen blijven los *(vasthouden)*
@@ -249,7 +249,7 @@ Handelen: vitale functies, luchtweg, zuurstof, MUG, transport + blijven opvolgen
 #### Stuipen
 Oorzaken:
 - Epilepsie *(grand mal = gegeneraliseerd)*
-- **Koortsstuipen**: < 5 jaar, snel stijgende koorts bij infectie, meestal < 15 min *(40% van stuipen)*
+- **Koortsstuipen**: kind van 6 maanden tot 6 jaar, snel stijgende koorts bij infectie
 - **Diabetesstuipen**: hypoglycemie *(suikertekort)* -> **glycemie** meten!
 
 Handelen *(O07)*:
@@ -262,6 +262,7 @@ Handelen *(O07)*:
 - Koortsstuipen: kind uitkleden, lauw afkoelen/vochtige doeken, licht toedekken *(laken)*, vitale functies opvolgen
 
 >[!danger] **Status epilepticus**
+>Aanval ==langer dan 3 minuten== -> 112 + MUG!
 >Ernstcriteria: status epilepticus, petechiën *(meningokokken-meningitis)*, geassocieerd schedeltrauma -> MUG! ==Koortsstuipen zijn even gevaarlijk als andere stuipen==.
 
 #### **Syncope** & **breath holding spell**
@@ -376,6 +377,7 @@ Houding:
 - Luister, observeer, kind volledig uitkleden *(indien mogelijk)*
 - Opmerkingen voor jezelf, ook tegenover ouders
 - Onder 4 ogen melden aan spoedarts *(objectief)* + noteren in ritverslag
+- ==Meldingsplicht==: we moeten melden om de minderjarige te beschermen
 
 >[!info] **Beroepsgeheim**
 >Mag doorbroken worden bij **noodtoestand**: reëel en onmiddellijk gevaar + belang minstens even groot. Fysieke/seksuele integriteit staat boven beroepsgeheim.
